@@ -1,40 +1,41 @@
 name: 节点地图数据月更
+
+# 每月 1 号 09:00（北京时间）自动跑；也可在 Actions 页面手动触发
 on:
   schedule:
-    - cron: '0 2 1 * *'   # 每月1号02:00（别人主动更新名录后，下个月自动反映到图上）
-  workflow_dispatch:       # 也支持手动触发
+    - cron: "0 1 1 * *"      # UTC 01:00 = 北京 09:00
+  workflow_dispatch:          # 手动触发按钮
 
 permissions:
-  contents: write
+  contents: write             # 允许 push data.json 回仓库
 
 jobs:
   update:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - name: 拉取仓库
+        uses: actions/checkout@v4
 
-      - uses: actions/setup-python@v5
+      - name: 装 Python
+        uses: actions/setup-python@v4
         with:
-          python-version: '3.12'
-          cache: pip
+          python-version: "3.11"
 
-      - name: 安装依赖
-        run: pip install rapidfuzz requests
+      - name: 装依赖
+        run: pip install requests rapidfuzz
 
-      - name: 数据抓取
+      - name: 抓取并生成 data.json
         run: python scraper.py --demo
-        continue-on-error: true
+        # 先用 --demo 确认管线通，接口字段对真站验证后去掉 --demo
 
-      - name: 查看结果
+      - name: 有变化才提交
         run: |
-          if [ -f data.json ]; then
-            echo "data.json 已生成"
-            cat data.json | python3 -c "import json,sys; d=json.load(sys.stdin); print(f'节点数: {d[\"count\"]}')"
-            git config user.name 'bot'
-            git config user.email 'bot@users.noreply.github.com'
-            git add data.json
-            git commit -m 'chore: update node data [$(date +%Y-%m-%d)]' || true
-            git push
+          git config user.name  "node-map-bot"
+          git config user.email "bot@users.noreply.github.com"
+          if git diff --quiet data.json 2>/dev/null; then
+            echo "数据无变化，跳过提交。"
           else
-            echo "data.json 未生成（抓取失败或结果为空），保留旧数据"
+            git add data.json
+            git commit -m "chore: 月度更新政采节点数据 $(date +%Y-%m)"
+            git push
           fi
