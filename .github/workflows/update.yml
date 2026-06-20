@@ -32,10 +32,14 @@ jobs:
         run: |
           git config user.name  "node-map-bot"
           git config user.email "bot@users.noreply.github.com"
-          if git diff --quiet data.json 2>/dev/null; then
-            echo "数据无变化，跳过提交。"
-          else
+          if [ -f data.json ]; then
             git add data.json
-            git commit -m "chore: 月度更新政采节点数据 $(date +%Y-%m)"
-            git push
+            if git diff --cached --quiet data.json 2>/dev/null; then
+              echo "data.json 无变化，跳过提交。"
+            else
+              git commit -m "chore: 月度更新政采节点数据 $(date +%Y-%m)"
+              git push
+            fi
+          else
+            echo "data.json 不存在，跳过提交。"
           fi
