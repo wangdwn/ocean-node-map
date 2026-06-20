@@ -1,0 +1,641 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>广州涉海创新节点地图 · 战略定位与实施框架</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@500;700;900&family=Noto+Sans+SC:wght@300;400;500;700&family=JetBrains+Mono:wght@400;500;700&display=swap" rel="stylesheet">
+<style>
+  :root{
+    /* 水深测绘配色 */
+    --sea-0:#04141d;      /* 最深水 */
+    --sea-1:#071f2b;      /* 背景 */
+    --sea-2:#0b2a39;      /* 面板 */
+    --sea-3:#103140;      /* 抬升面 */
+    --line:#16404f;       /* 等深线 / 网格 */
+    --line-soft:#0e2c39;
+    --ink:#e9f3f4;        /* 主文字 */
+    --ink-mute:#7d9aa6;   /* 次文字 */
+    --ink-faint:#4d6b78;
+    --cyan:#5eead4;       /* 主强调 / 测深高亮 */
+    /* 五大赛道 */
+    --t1:#3ad48a;  /* 海岸带技术服务 */
+    --t2:#4da3ff;  /* 城市地质数字化 */
+    --t3:#23b8a3;  /* 蓝碳与生态补偿 */
+    --t4:#b48bff;  /* 海洋经济数据服务 */
+    --t5:#ff9f45;  /* 近海装备与新材料 */
+
+    --serif:"Noto Serif SC",serif;
+    --sans:"Noto Sans SC",system-ui,sans-serif;
+    --mono:"JetBrains Mono","SFMono-Regular",monospace;
+
+    --mw:1180px;
+  }
+
+  *{box-sizing:border-box;margin:0;padding:0}
+  html{scroll-behavior:smooth}
+  body{
+    background:var(--sea-1);
+    color:var(--ink);
+    font-family:var(--sans);
+    font-weight:400;
+    line-height:1.7;
+    -webkit-font-smoothing:antialiased;
+    overflow-x:hidden;
+  }
+  @media (prefers-reduced-motion:reduce){
+    html{scroll-behavior:auto}
+    *{animation:none!important;transition:none!important}
+  }
+
+  /* 全局海图网格 + 等深线背景 */
+  .chart-bg{
+    position:fixed;inset:0;z-index:0;pointer-events:none;
+    background:
+      radial-gradient(120% 90% at 80% -10%, rgba(94,234,212,.07), transparent 55%),
+      radial-gradient(130% 100% at 10% 110%, rgba(77,163,255,.06), transparent 55%),
+      linear-gradient(180deg,var(--sea-0),var(--sea-1) 40%,var(--sea-1));
+  }
+  .chart-bg::before{
+    content:"";position:absolute;inset:0;opacity:.5;
+    background-image:
+      linear-gradient(var(--line-soft) 1px,transparent 1px),
+      linear-gradient(90deg,var(--line-soft) 1px,transparent 1px);
+    background-size:64px 64px;
+    mask-image:radial-gradient(120% 120% at 50% 30%,#000 30%,transparent 88%);
+  }
+
+  .wrap{max-width:var(--mw);margin:0 auto;padding:0 28px;position:relative;z-index:2}
+
+  /* 顶部坐标标签 */
+  .eyebrow{
+    font-family:var(--mono);font-size:11.5px;letter-spacing:.22em;
+    text-transform:uppercase;color:var(--cyan);display:flex;align-items:center;gap:12px;
+  }
+  .eyebrow .idx{color:var(--ink-faint)}
+  .eyebrow .tick{flex:0 0 28px;height:1px;background:var(--cyan);opacity:.6}
+
+  /* ===== 导航 ===== */
+  nav{
+    position:sticky;top:0;z-index:40;
+    backdrop-filter:blur(14px);
+    background:linear-gradient(180deg,rgba(4,20,29,.92),rgba(4,20,29,.6));
+    border-bottom:1px solid var(--line-soft);
+  }
+  .nav-in{max-width:var(--mw);margin:0 auto;padding:14px 28px;display:flex;align-items:center;gap:24px}
+  .brand{display:flex;align-items:baseline;gap:10px;font-family:var(--mono);font-size:12.5px;letter-spacing:.12em;color:var(--ink)}
+  .brand .dot{width:8px;height:8px;border-radius:50%;background:var(--cyan);box-shadow:0 0 12px var(--cyan);align-self:center}
+  .nav-links{margin-left:auto;display:flex;gap:6px;flex-wrap:wrap}
+  .nav-links a{
+    font-family:var(--mono);font-size:12px;letter-spacing:.06em;
+    color:var(--ink-mute);text-decoration:none;padding:6px 11px;border-radius:6px;transition:.2s;
+  }
+  .nav-links a:hover{color:var(--cyan);background:rgba(94,234,212,.08)}
+  .nav-links a:focus-visible{outline:2px solid var(--cyan);outline-offset:2px}
+  @media(max-width:880px){.nav-links{display:none}}
+
+  /* ===== HERO ===== */
+  header.hero{position:relative;z-index:2;padding:88px 0 72px}
+  .hero-coord{font-family:var(--mono);font-size:11.5px;letter-spacing:.2em;color:var(--ink-faint);margin-bottom:30px}
+  .hero h1{
+    font-family:var(--serif);font-weight:900;line-height:1.12;
+    font-size:clamp(38px,7vw,82px);letter-spacing:-.01em;margin:18px 0 8px;
+  }
+  .hero h1 .neg{color:var(--ink-mute);font-weight:500}
+  .hero h1 .pos{
+    color:var(--cyan);
+    text-shadow:0 0 30px rgba(94,234,212,.3);
+  }
+  .hero .lede{max-width:640px;font-size:clamp(16px,2vw,19px);color:var(--ink-mute);font-weight:300;margin-top:26px}
+  .hero .lede b{color:var(--ink);font-weight:500}
+  .hero-meta{display:flex;flex-wrap:wrap;gap:14px;margin-top:40px}
+  .chip{
+    font-family:var(--mono);font-size:12px;letter-spacing:.04em;
+    border:1px solid var(--line);border-radius:999px;padding:8px 16px;color:var(--ink-mute);
+    background:rgba(11,42,57,.5);
+  }
+  .chip b{color:var(--cyan);font-weight:500}
+
+  /* 三栏定位（统计/投资/治理） */
+  .triad{display:grid;grid-template-columns:repeat(3,1fr);gap:1px;margin-top:60px;border:1px solid var(--line);border-radius:14px;overflow:hidden;background:var(--line)}
+  .triad .cell{background:var(--sea-2);padding:26px 24px}
+  .triad .cell:last-child{background:linear-gradient(180deg,rgba(94,234,212,.07),var(--sea-2))}
+  .triad .role{font-family:var(--mono);font-size:11px;letter-spacing:.18em;text-transform:uppercase;color:var(--ink-faint)}
+  .triad .tool{font-family:var(--serif);font-size:26px;font-weight:700;margin:8px 0 6px}
+  .triad .cell:last-child .tool{color:var(--cyan)}
+  .triad .desc{font-size:13.5px;color:var(--ink-mute);font-weight:300}
+  @media(max-width:720px){.triad{grid-template-columns:1fr}}
+
+  /* ===== 通用 section ===== */
+  section{position:relative;z-index:2;padding:84px 0;border-top:1px solid var(--line-soft)}
+  .sec-head{margin-bottom:46px;max-width:760px}
+  .sec-head h2{font-family:var(--serif);font-weight:700;font-size:clamp(26px,3.6vw,40px);margin:16px 0 14px;line-height:1.2}
+  .sec-head p{color:var(--ink-mute);font-weight:300;font-size:16px}
+  .sec-head p b{color:var(--ink);font-weight:500}
+
+  /* ===== 五层漏斗 ===== */
+  .funnel{display:flex;flex-direction:column;align-items:center;gap:14px}
+  .layer{
+    position:relative;width:100%;
+    background:linear-gradient(90deg,var(--sea-3),var(--sea-2));
+    border:1px solid var(--line);border-radius:12px;
+    padding:20px 26px;display:flex;align-items:center;gap:22px;
+    transition:transform .25s,border-color .25s;
+  }
+  .layer:hover{transform:translateY(-2px);border-color:var(--cyan)}
+  .layer .ln{font-family:var(--mono);font-size:13px;color:var(--cyan);flex:0 0 56px}
+  .layer .lbody{flex:1;min-width:0}
+  .layer .ltitle{font-weight:500;font-size:16px}
+  .layer .lsub{font-size:13px;color:var(--ink-mute);font-weight:300;margin-top:2px}
+  .layer .lcount{font-family:var(--mono);font-weight:700;font-size:clamp(18px,2.4vw,26px);color:var(--ink);white-space:nowrap;text-align:right}
+  .layer .lcount span{display:block;font-size:10.5px;font-weight:400;color:var(--ink-faint);letter-spacing:.12em}
+  /* 漏斗收窄：逐层减宽 */
+  .funnel .layer:nth-child(1){max-width:100%}
+  .funnel .layer:nth-child(2){max-width:88%}
+  .funnel .layer:nth-child(3){max-width:74%}
+  .funnel .layer:nth-child(4){max-width:60%}
+  .funnel .layer:nth-child(5){max-width:46%;border-color:var(--cyan);background:linear-gradient(90deg,rgba(94,234,212,.1),var(--sea-2))}
+  .funnel-note{text-align:center;margin-top:26px;font-family:var(--mono);font-size:12px;color:var(--ink-faint);letter-spacing:.06em}
+  @media(max-width:720px){
+    .funnel .layer{max-width:100%!important;flex-wrap:wrap;gap:8px}
+    .layer .lcount{text-align:left}
+  }
+
+  /* ===== 节点地图（signature） ===== */
+  .map-shell{
+    border:1px solid var(--line);border-radius:18px;overflow:hidden;
+    background:radial-gradient(120% 120% at 50% 0%,var(--sea-2),var(--sea-0));
+    position:relative;
+  }
+  .map-top{display:flex;align-items:center;gap:14px;padding:16px 20px;border-bottom:1px solid var(--line-soft);flex-wrap:wrap}
+  .map-top .mt-label{font-family:var(--mono);font-size:11.5px;letter-spacing:.16em;color:var(--ink-faint);text-transform:uppercase}
+  .map-legend{margin-left:auto;display:flex;gap:6px;flex-wrap:wrap}
+  .lg{
+    display:flex;align-items:center;gap:7px;cursor:pointer;user-select:none;
+    font-size:12.5px;color:var(--ink-mute);padding:5px 11px;border-radius:999px;border:1px solid transparent;transition:.2s;
+  }
+  .lg:hover{border-color:var(--line)}
+  .lg.off{opacity:.32}
+  .lg .sw{width:9px;height:9px;border-radius:50%}
+  .lg:focus-visible{outline:2px solid var(--cyan);outline-offset:2px}
+  #nodeCanvas{display:block;width:100%;height:460px}
+  @media(max-width:600px){#nodeCanvas{height:380px}}
+  .map-tip{
+    position:absolute;pointer-events:none;opacity:0;transform:translateY(4px);transition:opacity .15s;
+    background:rgba(4,20,29,.95);border:1px solid var(--line);border-radius:10px;
+    padding:10px 13px;font-size:12.5px;max-width:230px;z-index:5;backdrop-filter:blur(4px);
+  }
+  .map-tip .tip-name{font-weight:500;margin-bottom:3px}
+  .map-tip .tip-meta{font-family:var(--mono);font-size:11px;color:var(--ink-mute)}
+  .map-foot{padding:12px 20px;border-top:1px solid var(--line-soft);font-family:var(--mono);font-size:11px;color:var(--ink-faint);letter-spacing:.05em}
+
+  /* 赛道卡片 */
+  .tracks{display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:14px;margin-top:22px}
+  .track{
+    border:1px solid var(--line);border-radius:14px;padding:20px;background:var(--sea-2);
+    border-top:3px solid var(--tc);transition:transform .25s,box-shadow .25s;
+  }
+  .track:hover{transform:translateY(-3px);box-shadow:0 14px 40px rgba(0,0,0,.35)}
+  .track .tk-id{font-family:var(--mono);font-size:11px;letter-spacing:.16em;color:var(--tc)}
+  .track .tk-name{font-family:var(--serif);font-weight:700;font-size:19px;margin:8px 0 10px}
+  .track .tk-feat{font-size:13px;color:var(--ink-mute);font-weight:300}
+  .track .tk-sig{margin-top:12px;padding-top:12px;border-top:1px dashed var(--line);font-size:12.5px;color:var(--ink)}
+  .track .tk-sig b{color:var(--tc);font-weight:500;font-family:var(--mono);font-size:11px;letter-spacing:.08em;display:block;margin-bottom:3px}
+
+  /* 不做什么 */
+  .boundary{margin-top:28px;border:1px dashed var(--line);border-radius:14px;padding:22px 24px;background:rgba(11,42,57,.4)}
+  .boundary h4{font-family:var(--mono);font-size:12px;letter-spacing:.12em;color:var(--ink-faint);text-transform:uppercase;margin-bottom:12px}
+  .boundary p{font-size:14px;color:var(--ink-mute);font-weight:300}
+  .boundary p b{color:var(--ink);font-weight:500}
+
+  /* ===== 创新信号矩阵 ===== */
+  .signals{display:flex;flex-direction:column;gap:10px}
+  .sig{display:grid;grid-template-columns:30px 1fr 120px 64px;align-items:center;gap:16px;padding:6px 0}
+  .sig .sg-no{font-family:var(--mono);font-size:12px;color:var(--ink-faint)}
+  .sig .sg-name{font-size:14.5px}
+  .sig .sg-src{font-family:var(--mono);font-size:10.5px;color:var(--ink-faint);text-align:right;letter-spacing:.03em}
+  .sig .sg-bar{grid-column:2 / 5;height:6px;border-radius:3px;background:var(--line-soft);overflow:hidden;margin-top:-2px}
+  .sig .sg-fill{height:100%;border-radius:3px;background:linear-gradient(90deg,var(--cyan),#4da3ff);width:0;transition:width 1.1s cubic-bezier(.2,.8,.2,1)}
+  .sig .sg-w{font-family:var(--mono);font-weight:700;font-size:15px;color:var(--cyan);text-align:right}
+  .sig-row{display:grid;grid-template-columns:30px 1fr 120px 64px;gap:16px;align-items:center}
+  @media(max-width:680px){
+    .sig-row{grid-template-columns:24px 1fr 56px}
+    .sig .sg-src{display:none}
+  }
+  .sig-legend{font-family:var(--mono);font-size:11.5px;color:var(--ink-faint);margin-top:24px;letter-spacing:.04em;line-height:1.8}
+
+  /* ===== 应用场景 ===== */
+  .aud{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:14px}
+  .aud .a{border:1px solid var(--line);border-radius:14px;padding:22px;background:var(--sea-2)}
+  .aud .a .who{font-family:var(--serif);font-weight:700;font-size:18px;margin-bottom:6px}
+  .aud .a .use{font-size:13.5px;color:var(--cyan);font-family:var(--mono);font-size:12px;letter-spacing:.04em;margin-bottom:10px}
+  .aud .a .focus{font-size:13.5px;color:var(--ink-mute);font-weight:300}
+
+  /* ===== 路线图 ===== */
+  .road{display:grid;grid-template-columns:repeat(3,1fr);gap:0;position:relative}
+  .road .ph{padding:24px 26px;border-left:1px solid var(--line);position:relative}
+  .road .ph:first-child{border-left:none}
+  .road .ph .pnum{font-family:var(--mono);font-size:11px;letter-spacing:.16em;color:var(--cyan);text-transform:uppercase}
+  .road .ph .pname{font-family:var(--serif);font-weight:700;font-size:20px;margin:8px 0 4px}
+  .road .ph .pdur{font-family:var(--mono);font-size:12px;color:var(--ink-faint);margin-bottom:14px}
+  .road .ph ul{list-style:none;display:flex;flex-direction:column;gap:8px}
+  .road .ph li{font-size:13.5px;color:var(--ink-mute);font-weight:300;padding-left:16px;position:relative}
+  .road .ph li::before{content:"";position:absolute;left:0;top:9px;width:5px;height:5px;border-radius:50%;background:var(--cyan);opacity:.7}
+  @media(max-width:760px){.road{grid-template-columns:1fr}.road .ph{border-left:none;border-top:1px solid var(--line)}.road .ph:first-child{border-top:none}}
+
+  /* ===== footer ===== */
+  footer{position:relative;z-index:2;border-top:1px solid var(--line);padding:54px 0 70px;margin-top:30px}
+  .pub{display:flex;flex-wrap:wrap;gap:14px;margin-bottom:30px}
+  .pub .org{border:1px solid var(--line);border-radius:10px;padding:14px 20px;background:rgba(11,42,57,.5)}
+  .pub .org .r{font-family:var(--mono);font-size:10.5px;letter-spacing:.12em;color:var(--ink-faint);text-transform:uppercase;margin-bottom:4px}
+  .pub .org .n{font-size:14px;color:var(--ink)}
+  .foot-meta{font-family:var(--mono);font-size:11.5px;color:var(--ink-faint);letter-spacing:.05em;line-height:1.9}
+</style>
+</head>
+<body>
+<div class="chart-bg"></div>
+
+<nav>
+  <div class="nav-in">
+    <div class="brand"><span class="dot"></span> 广州涉海创新节点地图</div>
+    <div class="nav-links">
+      <a href="#concept">核心理念</a>
+      <a href="#funnel">五层漏斗</a>
+      <a href="#map">节点地图</a>
+      <a href="#tracks">五大赛道</a>
+      <a href="#signals">信号矩阵</a>
+      <a href="#apply">应用场景</a>
+      <a href="#road">路线图</a>
+    </div>
+  </div>
+</nav>
+
+<!-- HERO -->
+<header class="hero">
+  <div class="wrap">
+    <div class="hero-coord">23°06′47″N　113°15′32″E　·　广州　·　基准日期 2026.06</div>
+    <div class="eyebrow"><span class="idx">00</span><span class="tick"></span>战略定位与实施框架</div>
+    <h1><span class="neg">不是排名，</span><br>是<span class="pos">导航图</span>。</h1>
+    <p class="lede">对标 Forbes 250「移民＝创新」的叙事逻辑，翻译到广州语境：<b>涉海转型 ＝ 创新</b>。广州的海洋竞争力，不取决于有多少航运巨头或海工龙头，而取决于传统企业向海转型的活跃度，与中小涉海企业嵌入城市治理链条的深度。</p>
+    <div class="hero-meta">
+      <span class="chip">评价对象 · <b>中小涉海企业</b></span>
+      <span class="chip">核心指标 · <b>治理贡献度</b></span>
+      <span class="chip">数据底座 · <b>直报系统 + 城市地质监测网 + 海岸带年度调查</b></span>
+    </div>
+
+    <div class="triad">
+      <div class="cell">
+        <div class="role">国家海洋经济统计</div>
+        <div class="tool">统计工具</div>
+        <div class="desc">完成报表 · 逻辑是「你有多少产值」</div>
+      </div>
+      <div class="cell">
+        <div class="role">深圳海洋产业排名</div>
+        <div class="tool">投资工具</div>
+        <div class="desc">招引资本 · 逻辑是「你值多少钱」</div>
+      </div>
+      <div class="cell">
+        <div class="role">广州节点地图</div>
+        <div class="tool">治理工具</div>
+        <div class="desc">精准施策 · 逻辑是「你对城市治理目标贡献多大」</div>
+      </div>
+    </div>
+  </div>
+</header>
+
+<!-- 核心理念 -->
+<section id="concept">
+  <div class="wrap">
+    <div class="sec-head">
+      <div class="eyebrow"><span class="idx">01</span><span class="tick"></span>核心理念</div>
+      <h2>关联度分类，而非产值排序</h2>
+      <p>赛道选择不追求全覆盖广州海洋经济，而是<b>锚定本中心三位一体职能</b>（综合地质调查＋海洋调查＋城市地质）所能支撑的数据底座。五条赛道的共同特征是数据源排他性——这三样数据是广州独有的。</p>
+    </div>
+  </div>
+</section>
+
+<!-- 五层漏斗 -->
+<section id="funnel" style="padding-top:0;border-top:none">
+  <div class="wrap">
+    <div class="sec-head">
+      <div class="eyebrow"><span class="idx">02</span><span class="tick"></span>五层筛选漏斗</div>
+      <h2>从五千家，到八十家</h2>
+      <p>不虚报数字，有多少筛多少。<b>池子小意味着筛选密度更高</b>，最终产出质量反而更好。末层采用软上限，不设硬性数量指标。</p>
+    </div>
+    <div class="funnel" id="funnel">
+      <div class="layer"><div class="ln">L1</div><div class="lbody"><div class="ltitle">涉海活动单位池</div><div class="lsub">接管现有名录 · 企查查经营范围关键词 + 注册地广州</div></div><div class="lcount">3,000–5,000<span>家</span></div></div>
+      <div class="layer"><div class="ln">L2</div><div class="lbody"><div class="ltitle">中小企业过滤</div><div class="lsub">剔除营收 ≥4亿 / 央企 / 省属子公司 / 上市公司母公司</div></div><div class="lcount">1,000–2,000<span>家</span></div></div>
+      <div class="layer"><div class="ln">L3</div><div class="lbody"><div class="ltitle">涉海转型活跃度</div><div class="lsub">近3年涉海收入占比提升，或新产品 / 服务进入涉海领域</div></div><div class="lcount">300–500<span>家</span></div></div>
+      <div class="layer"><div class="ln">L4</div><div class="lbody"><div class="ltitle">治理关联度打分</div><div class="lsub">近3年政府采购合同 / 科研委托 / 官方认定服务案例</div></div><div class="lcount">100–200<span>家</span></div></div>
+      <div class="layer"><div class="ln">L5</div><div class="lbody"><div class="ltitle">战略价值标签</div><div class="lsub">五大赛道 · 每赛道 10–15 家核心节点 · 软上限 80±20</div></div><div class="lcount">≈ 80<span>家 · 软上限</span></div></div>
+    </div>
+    <div class="funnel-note">边缘观察区（虚线边界）：排名末尾 ±5 分企业保留观察名单，下一轮更新优先复核——防止「第 100 名找关系」的政治风险。</div>
+  </div>
+</section>
+
+<!-- 节点地图 -->
+<section id="map" style="border-top:none;padding-top:0">
+  <div class="wrap">
+    <div class="sec-head">
+      <div class="eyebrow"><span class="idx">03</span><span class="tick"></span>节点地图</div>
+      <h2>八十个节点，五条赛道</h2>
+      <p>每个节点是一家治理服务型涉海企业，按赛道着色、按创新信号分赋大小。点击图例可切换赛道，悬停查看企业画像。<b>当前为示例数据</b>，正式版接入涉海单位名录后即可呈现真实分布热力图。</p>
+    </div>
+    <div class="map-shell">
+      <div class="map-top">
+        <span class="mt-label">分布热力图 · NODE MAP</span>
+        <div class="map-legend" id="legend"></div>
+      </div>
+      <canvas id="nodeCanvas"></canvas>
+      <div class="map-tip" id="tip"></div>
+      <div class="map-foot" id="mapFoot">示例数据 · 共 80 个节点　|　接口预留：将 DEMO_NODES 替换为名录真实数据即可</div>
+    </div>
+  </div>
+</section>
+
+<!-- 五大赛道 -->
+<section id="tracks">
+  <div class="wrap">
+    <div class="sec-head">
+      <div class="eyebrow"><span class="idx">04</span><span class="tick"></span>五大赛道与边界理由</div>
+      <h2>不求全覆盖，只锚定比较优势</h2>
+    </div>
+    <div class="tracks">
+      <div class="track" style="--tc:var(--t1)">
+        <div class="tk-id">赛道 01</div>
+        <div class="tk-name">海岸带技术服务</div>
+        <div class="tk-feat">海岸侵蚀防治、滨海湿地修复、岸线监测</div>
+        <div class="tk-sig"><b>创新信号</b>有自主产品 / 技术标准，非纯施工</div>
+      </div>
+      <div class="track" style="--tc:var(--t2)">
+        <div class="tk-id">赛道 02</div>
+        <div class="tk-name">城市地质数字化</div>
+        <div class="tk-feat">地下空间探测、地质数据 SaaS、InSAR 服务</div>
+        <div class="tk-sig"><b>创新信号</b>数据产品可复用，非项目制</div>
+      </div>
+      <div class="track" style="--tc:var(--t3)">
+        <div class="tk-id">赛道 03</div>
+        <div class="tk-name">蓝碳与生态补偿</div>
+        <div class="tk-feat">碳汇监测、红树林养护、生态价值核算</div>
+        <div class="tk-sig"><b>创新信号</b>有方法学或核算工具，非纯咨询</div>
+      </div>
+      <div class="track" style="--tc:var(--t4)">
+        <div class="tk-id">赛道 04</div>
+        <div class="tk-name">海洋经济数据服务</div>
+        <div class="tk-feat">涉海企业画像、供应链图谱、贸易数据</div>
+        <div class="tk-sig"><b>创新信号</b>数据产品有付费用户</div>
+      </div>
+      <div class="track" style="--tc:var(--t5)">
+        <div class="tk-id">赛道 05</div>
+        <div class="tk-name">近海装备与新材料</div>
+        <div class="tk-feat">小型 ROV、传感器、耐腐蚀材料、监测浮标</div>
+        <div class="tk-sig"><b>创新信号</b>有自主知识产权 + 小批量交付</div>
+      </div>
+    </div>
+    <div class="boundary">
+      <h4>不做什么 · 边界理由</h4>
+      <p>航运物流价值链顶端在宁波舟山与上海洋山；海洋生物医药 VC 集中于上海张江与深圳光明；海洋文旅核心景区在珠海与三亚。<b>广州在这些赛道缺乏比较优势</b>，故列为「配套赛道」作背景信号监测，不作主攻方向。若某赛道出现突破性企业（如科创板上市），走绿色通道年中插队纳入。</p>
+    </div>
+  </div>
+</section>
+
+<!-- 创新信号矩阵 -->
+<section id="signals">
+  <div class="wrap">
+    <div class="sec-head">
+      <div class="eyebrow"><span class="idx">05</span><span class="tick"></span>创新信号矩阵</div>
+      <h2>不按产值排序，按创新信号打分</h2>
+      <p>排名靠前的信号（1–4）集中在<b>涉海业务实质转型 + 政府合作深度</b>，靠后信号（9–10）为参考性指标。这确保地图是治理服务型企业的导航图，而非资本驱动型企业的排行榜。</p>
+    </div>
+    <div class="signals" id="signals"></div>
+    <div class="sig-legend">数据来源均为公开可查：直报系统 · 工商年报 · 企查查/天眼查 · 科技局公示 · 政府采购公告 · 全国标准信息平台 · 资质查询平台</div>
+  </div>
+</section>
+
+<!-- 应用场景 -->
+<section id="apply">
+  <div class="wrap">
+    <div class="sec-head">
+      <div class="eyebrow"><span class="idx">06</span><span class="tick"></span>战略价值与应用场景</div>
+      <h2>给谁看</h2>
+    </div>
+    <div class="aud">
+      <div class="a"><div class="who">市政府 / 发改局</div><div class="use">政策资金投向指引</div><div class="focus">不是投 VC 砸风口，而是补公共服务短板的精准招商。</div></div>
+      <div class="a"><div class="who">自然资源局</div><div class="use">企业动员名单</div><div class="focus">城市地质 / 海岸带规划中，哪些企业能配合完成治理目标。</div></div>
+      <div class="a"><div class="who">科创委</div><div class="use">成果转化供需匹配</div><div class="focus">涉海科研项目与产业化之间的断链点究竟在哪。</div></div>
+      <div class="a"><div class="who">海洋中心自身</div><div class="use">企业数据库</div><div class="focus">日常调研 / 申报 / 服务的各赛道重点联系企业。</div></div>
+    </div>
+  </div>
+</section>
+
+<!-- 路线图 -->
+<section id="road">
+  <div class="wrap">
+    <div class="sec-head">
+      <div class="eyebrow"><span class="idx">07</span><span class="tick"></span>实施路线图</div>
+      <h2>七周，三阶段，第一版上线</h2>
+    </div>
+    <div class="road">
+      <div class="ph">
+        <div class="pnum">Phase 01</div><div class="pname">数据摸底</div><div class="pdur">1 个月</div>
+        <ul><li>导出涉海单位名录，标注经营范围 / 注册时间 / 注册资本</li><li>企查查、天眼查补充专利、软著、招投标数据</li><li>完成 L1–L3 自动分类</li></ul>
+      </div>
+      <div class="ph">
+        <div class="pnum">Phase 02</div><div class="pname">人工核对</div><div class="pdur">2 周</div>
+        <ul><li>逐家核对 L4 企业的治理关联度</li><li>对 L5 候选企业做深度背景调查</li><li>确定最终节点名单 + 边缘观察区</li></ul>
+      </div>
+      <div class="ph">
+        <div class="pnum">Phase 03</div><div class="pname">发布</div><div class="pdur">1 周</div>
+        <ul><li>制作分布热力图</li><li>编写赛道分析报告</li><li>三方联合发布</li></ul>
+      </div>
+    </div>
+  </div>
+</section>
+
+<footer>
+  <div class="wrap">
+    <div class="eyebrow" style="margin-bottom:22px"><span class="idx">08</span><span class="tick"></span>联合发布机制</div>
+    <div class="pub">
+      <div class="org"><div class="r">背书</div><div class="n">市海洋经济发展领导小组</div></div>
+      <div class="org"><div class="r">技术联合</div><div class="n">市规划院 · 市地质调查院</div></div>
+      <div class="org"><div class="r">业务指导</div><div class="n">省自然资源厅海洋处</div></div>
+    </div>
+    <div class="foot-meta">
+      编制单位　广州海洋发展促进中心<br>
+      基准日期　2026 年 6 月　·　第一版预计产出约 80 家节点企业　·　每年更新一次<br>
+      机制说明　软上限 + 边缘观察区 + 年度更新 + 触发式更新 + 第三年回顾评价
+    </div>
+  </div>
+</footer>
+
+<script>
+/* ============================================================
+   数据接口预留：正式版把 DEMO_NODES 换成名录真实数据即可
+   字段：{name 企业名, track 赛道索引0-4, score 创新信号分0-100}
+   ============================================================ */
+const TRACKS = [
+  {key:'t1', name:'海岸带技术服务', color:'#3ad48a'},
+  {key:'t2', name:'城市地质数字化', color:'#4da3ff'},
+  {key:'t3', name:'蓝碳与生态补偿', color:'#23b8a3'},
+  {key:'t4', name:'海洋经济数据服务', color:'#b48bff'},
+  {key:'t5', name:'近海装备与新材料', color:'#ff9f45'},
+];
+
+// —— 生成确定性的示例节点（看起来像真实分布）——
+function buildDemo(){
+  let seed=20260601;
+  const rnd=()=>{seed=(seed*1103515245+12345)&0x7fffffff;return seed/0x7fffffff;};
+  const stems={
+    0:['海岸','岸线','滨海','潮间','护岸'],1:['地探','地信','勘察','岩土','沉降'],
+    2:['蓝碳','红树','碳汇','生态','湿地'],3:['海数','链图','涉海','洋数','蓝图'],
+    4:['海工','海材','海测','潜行','洋感']
+  };
+  const tails=['科技','工程','信息','环境','数据','检测','智造','装备','研究院','测绘'];
+  const counts=[16,16,15,16,17]; // 每赛道节点数，合计80
+  const nodes=[];
+  counts.forEach((c,t)=>{
+    for(let i=0;i<c;i++){
+      const nm=stems[t][Math.floor(rnd()*stems[t].length)]+'·'+tails[Math.floor(rnd()*tails.length)];
+      // 信号分偏态：多数中等，少数高分
+      const score=Math.round(32+Math.pow(rnd(),1.7)*62);
+      nodes.push({name:nm,track:t,score});
+    }
+  });
+  return nodes;
+}
+let NODES = buildDemo();   // 默认示例；loadData() 成功后用 data.json 覆盖
+let DATA_META = null;      // 真实数据的元信息（更新日期 / 来源 / 模式）
+
+/* ---- 图例 ---- */
+const legendEl=document.getElementById('legend');
+const active=[true,true,true,true,true];
+TRACKS.forEach((t,i)=>{
+  const el=document.createElement('button');
+  el.className='lg';el.type='button';
+  el.innerHTML=`<span class="sw" style="background:${t.color};box-shadow:0 0 8px ${t.color}"></span>${t.name}`;
+  el.onclick=()=>{active[i]=!active[i];el.classList.toggle('off',!active[i]);};
+  legendEl.appendChild(el);
+});
+
+/* ---- 节点地图（canvas）---- */
+const cv=document.getElementById('nodeCanvas');
+const ctx=cv.getContext('2d');
+const tip=document.getElementById('tip');
+let W,H,DPR,parts=[],sweep=0,raf;
+const reduce=window.matchMedia('(prefers-reduced-motion:reduce)').matches;
+
+function init(){
+  DPR=Math.min(window.devicePixelRatio||1,2);
+  W=cv.clientWidth;H=cv.clientHeight;
+  cv.width=W*DPR;cv.height=H*DPR;ctx.setTransform(DPR,0,0,DPR,0,0);
+  parts=NODES.map((n,i)=>({
+    n,
+    x:Math.random()*W,y:Math.random()*H,
+    vx:(Math.random()-.5)*.18,vy:(Math.random()-.5)*.18,
+    r:4+ (n.score/100)*9
+  }));
+}
+function draw(){
+  ctx.clearRect(0,0,W,H);
+  // 同心等深线
+  ctx.save();ctx.strokeStyle='rgba(22,64,79,.5)';ctx.lineWidth=1;
+  const cx=W*.5,cy=H*.5;
+  for(let r=60;r<Math.max(W,H);r+=58){ctx.beginPath();ctx.arc(cx,cy,r,0,Math.PI*2);ctx.stroke();}
+  ctx.restore();
+  // 声呐扫描
+  if(!reduce){
+    const g=ctx.createConicGradient ? ctx.createConicGradient(sweep,cx,cy):null;
+    if(g){g.addColorStop(0,'rgba(94,234,212,.10)');g.addColorStop(.06,'rgba(94,234,212,0)');g.addColorStop(1,'rgba(94,234,212,0)');
+      ctx.fillStyle=g;ctx.beginPath();ctx.arc(cx,cy,Math.max(W,H)*.7,0,Math.PI*2);ctx.fill();}
+    sweep+=0.006;
+  }
+  // 节点
+  parts.forEach(p=>{
+    if(!active[p.n.track])return;
+    const c=TRACKS[p.n.track].color;
+    if(!reduce){p.x+=p.vx;p.y+=p.vy;
+      if(p.x<p.r||p.x>W-p.r)p.vx*=-1;
+      if(p.y<p.r||p.y>H-p.r)p.vy*=-1;}
+    ctx.beginPath();ctx.arc(p.x,p.y,p.r,0,Math.PI*2);
+    ctx.fillStyle=c;ctx.globalAlpha=.18;ctx.fill();
+    ctx.globalAlpha=1;ctx.lineWidth=1.4;ctx.strokeStyle=c;ctx.stroke();
+    ctx.beginPath();ctx.arc(p.x,p.y,p.r*.3,0,Math.PI*2);ctx.fillStyle=c;ctx.fill();
+  });
+  raf=requestAnimationFrame(draw);
+}
+// 悬停
+cv.addEventListener('mousemove',e=>{
+  const rc=cv.getBoundingClientRect();
+  const mx=e.clientX-rc.left,my=e.clientY-rc.top;let hit=null;
+  for(const p of parts){if(!active[p.n.track])continue;
+    if((mx-p.x)**2+(my-p.y)**2<(p.r+4)**2){hit=p;break;}}
+  if(hit){
+    tip.style.opacity=1;tip.style.left=Math.min(mx+14,W-220)+'px';tip.style.top=(my+14)+'px';
+    tip.innerHTML=`<div class="tip-name">${hit.n.name}</div><div class="tip-meta">${TRACKS[hit.n.track].name} · 信号分 ${hit.n.score}</div>`;
+    cv.style.cursor='pointer';
+  }else{tip.style.opacity=0;cv.style.cursor='default';}
+});
+cv.addEventListener('mouseleave',()=>{tip.style.opacity=0;});
+
+/* ---- 信号矩阵 ---- */
+const SIGNALS=[
+  ['涉海营收方向（有/无）近3年变化',20,'直报系统 / 工商年报'],
+  ['涉海相关专利 / 软著数量',15,'企查查 / 天眼查'],
+  ['参与市级以上涉海科研项目',15,'科技局公示'],
+  ['产品 / 服务服务于政府 · 事业单位',12,'政府采购公告'],
+  ['涉海标准参编记录',10,'全国标准信息平台'],
+  ['创始团队海洋学科背景',10,'企查查 / 公开资料'],
+  ['近3年获涉海相关资质',8,'资质查询平台'],
+  ['海洋领域国家级 / 省级荣誉',5,'公开表彰公示'],
+  ['员工人数增长率',3,'工商年报'],
+  ['注册在国家级高新区 / 孵化器内',2,'注册地址'],
+];
+const sigWrap=document.getElementById('signals');
+SIGNALS.forEach((s,i)=>{
+  const row=document.createElement('div');
+  row.innerHTML=`
+    <div class="sig-row">
+      <div class="sg-no">${String(i+1).padStart(2,'0')}</div>
+      <div class="sg-name">${s[0]}</div>
+      <div class="sg-src">${s[2]}</div>
+      <div class="sg-w">${s[1]}%</div>
+    </div>
+    <div class="sg-bar"><div class="sg-fill" data-w="${s[1]}"></div></div>`;
+  sigWrap.appendChild(row);
+});
+
+/* ---- 启动 + 动画进入 ---- */
+function start(){init();cancelAnimationFrame(raf);draw();}
+window.addEventListener('resize',()=>{cancelAnimationFrame(raf);start();});
+
+/* ---- 读取真实数据：成功则覆盖示例，失败则保持示例（永不崩）---- */
+const footEl=document.getElementById('mapFoot');
+async function loadData(){
+  try{
+    const res=await fetch('data.json',{cache:'no-store'});
+    if(!res.ok) throw new Error('no data.json');
+    const d=await res.json();
+    if(!d.nodes||!d.nodes.length) throw new Error('empty');
+    NODES=d.nodes.map(n=>({name:n.name,track:n.track,score:n.score||50}));
+    DATA_META=d;
+    const modeTxt=d.mode==='roster'?'名录匹配':'发现模式';
+    footEl.innerHTML=`数据更新 ${d.updated}　|　来源：${d.source}　|　${modeTxt} · 共 ${d.count} 个节点`;
+  }catch(e){
+    footEl.innerHTML='示例数据 · 共 80 个节点　|　尚未生成 data.json（首次抓取后自动切换为真实数据）';
+  }
+  start();
+}
+loadData();
+
+// 信号条进度：进入视口时填充
+const io=new IntersectionObserver(es=>{
+  es.forEach(e=>{if(e.isIntersecting){
+    document.querySelectorAll('.sg-fill').forEach(f=>{f.style.width=(f.dataset.w/20*100)+'%';});
+    io.disconnect();}});
+},{threshold:.2});
+io.observe(document.getElementById('signals'));
+</script>
+</body>
+</html>

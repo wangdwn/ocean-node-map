@@ -1,0 +1,40 @@
+name: 节点地图数据月更
+on:
+  schedule:
+    - cron: '0 2 1 * *'   # 每月1号02:00（别人主动更新名录后，下个月自动反映到图上）
+  workflow_dispatch:       # 也支持手动触发
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: pip
+
+      - name: 安装依赖
+        run: pip install rapidfuzz requests
+
+      - name: 数据抓取
+        run: python scraper.py --demo
+        continue-on-error: true
+
+      - name: 查看结果
+        run: |
+          if [ -f data.json ]; then
+            echo "data.json 已生成"
+            cat data.json | python3 -c "import json,sys; d=json.load(sys.stdin); print(f'节点数: {d[\"count\"]}')"
+            git config user.name 'bot'
+            git config user.email 'bot@users.noreply.github.com'
+            git add data.json
+            git commit -m 'chore: update node data [$(date +%Y-%m-%d)]' || true
+            git push
+          else
+            echo "data.json 未生成（抓取失败或结果为空），保留旧数据"
+          fi
