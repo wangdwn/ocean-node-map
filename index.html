@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="zh-CN">
+<html lang="zh-CN" data-theme="deep">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -7,35 +7,37 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@500;700;900&family=Noto+Sans+SC:wght@300;400;500;700&family=JetBrains+Mono:wght@400;500;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://wangdwn.github.io/design-system/tokens.css">
+<link rel="stylesheet" href="https://wangdwn.github.io/design-system/nav.css">
 <style>
   :root{
-    /* 水深测绘配色 */
-    --sea-0:#04141d;      /* 最深水 */
-    --sea-1:#071f2b;      /* 背景 */
-    --sea-2:#0b2a39;      /* 面板 */
-    --sea-3:#103140;      /* 抬升面 */
-    --line:#16404f;       /* 等深线 / 网格 */
-    --line-soft:#0e2c39;
-    --ink:#e9f3f4;        /* 主文字 */
-    --ink-mute:#7d9aa6;   /* 次文字 */
-    --ink-faint:#4d6b78;
-    --cyan:#5eead4;       /* 主强调 / 测深高亮 */
-    /* 五大赛道 */
+    /* 水深测绘配色 → 共享深海 tokens（data-theme="deep"） */
+    --sea-0:var(--primary-fg); /* 最深水 · #04141d */
+    --sea-1:var(--bg);         /* 背景 */
+    --sea-2:var(--bg-subtle);  /* 面板 */
+    --sea-3:var(--card);       /* 抬升面 */
+    --line:var(--border);      /* 等深线 / 网格 */
+    --line-soft:#0e2c39;       /* 网格线，无对应 token */
+    --ink:var(--fg);           /* 主文字 */
+    --ink-mute:var(--muted);   /* 次文字 */
+    --ink-faint:var(--faint);
+    --cyan:var(--accent);      /* 主强调 / 测深高亮 */
+    /* 五大赛道 — 可视化专用，不走壳层色 */
     --t1:#3ad48a;  /* 海岸带技术服务 */
     --t2:#4da3ff;  /* 城市地质数字化 */
     --t3:#23b8a3;  /* 蓝碳与生态补偿 */
     --t4:#b48bff;  /* 海洋经济数据服务 */
     --t5:#ff9f45;  /* 近海装备与新材料 */
 
-    --serif:"Noto Serif SC",serif;
-    --sans:"Noto Sans SC",system-ui,sans-serif;
-    --mono:"JetBrains Mono","SFMono-Regular",monospace;
+    --serif:var(--font-serif);
+    --sans:var(--font-sans);
+    --mono:var(--font-mono);
 
     --mw:1180px;
   }
 
   *{box-sizing:border-box;margin:0;padding:0}
-  html{scroll-behavior:smooth}
+  html{scroll-behavior:smooth;scroll-padding-top:calc(var(--nav-h,56px) + 52px)}
   body{
     background:var(--sea-1);
     color:var(--ink);
@@ -77,9 +79,12 @@
   .eyebrow .idx{color:var(--ink-faint)}
   .eyebrow .tick{flex:0 0 28px;height:1px;background:var(--cyan);opacity:.6}
 
-  /* ===== 导航 ===== */
-  nav{
-    position:sticky;top:0;z-index:40;
+  /* 共用顶栏与本页内容同宽 */
+  .os-nav__inner{max-width:var(--mw)}
+
+  /* ===== 页内章节导航（与共用 os-nav 分层，避免污染顶栏） ===== */
+  nav.page-nav{
+    position:sticky;top:var(--nav-h,56px);z-index:40;
     backdrop-filter:blur(14px);
     background:linear-gradient(180deg,rgba(4,20,29,.92),rgba(4,20,29,.6));
     border-bottom:1px solid var(--line-soft);
@@ -257,7 +262,23 @@
 <body>
 <div class="chart-bg"></div>
 
-<nav>
+<nav class="os-nav" aria-label="海洋系列">
+  <div class="os-nav__inner">
+    <a class="os-nav__brand" href="https://wangdwn.github.io/">
+      <span class="os-nav__mark" aria-hidden="true"></span>
+      <span class="os-nav__brand-text">海洋系列</span>
+    </a>
+    <div class="os-nav__pills">
+      <a class="os-nav__pill os-nav__pill--a is-current" href="https://wangdwn.github.io/guangzhou-marine-enterprises/" aria-current="page">A 家底</a>
+      <a class="os-nav__pill os-nav__pill--b" href="https://wangdwn.github.io/marine-monitor/">B 经营</a>
+      <a class="os-nav__pill os-nav__pill--c" href="https://wangdwn.github.io/guangzhou-ocean-dashboard/">C 质量</a>
+      <a class="os-nav__pill os-nav__pill--d" href="https://wangdwn.github.io/marine-weekly/">D 底座</a>
+    </div>
+    <a class="os-nav__ds" href="https://wangdwn.github.io/design-system/">设计系统</a>
+  </div>
+</nav>
+
+<nav class="page-nav" aria-label="本页章节">
   <div class="nav-in">
     <div class="brand"><span class="dot"></span> 广州涉海创新节点地图</div>
     <div class="nav-links">
