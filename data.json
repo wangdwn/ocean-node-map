@@ -1,49 +1,8745 @@
 {
-  "updated": "2026-10-01",
-  "source": "广东省政府采购网 · 中标（成交）结果公告",
-  "mode": "discovery",
-  "count": 4,
+  "updated": "2026-10-17",
+  "source": "广海汇·广州涉海企业名录（guangzhou-marine-enterprises/data.json）",
+  "mode": "roster",
+  "count": 672,
+  "note": "由涉海企业名录按赛道关键词/产业分类映射生成；分数来自名录分层（龙头/高成长/潜力），非政采合同分。",
   "nodes": [
     {
-      "name": "广州海岸科技有限公司",
-      "track": 0,
-      "contracts": 2,
-      "latest": "2026-05-12",
-      "samples": [
-        "广州市某海岸带侵蚀防治岸线监测服务项目",
-        "海岸带湿地修复二期工程岸线整治"
-      ],
-      "score": 64
-    },
-    {
-      "name": "广州洋感装备有限公司",
+      "name": "东方国际集装箱(广州)有限公司",
       "track": 4,
-      "contracts": 1,
-      "latest": "2026-05-18",
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
       "samples": [
-        "近海监测浮标与耐腐蚀传感器采购"
+        "其他涉海产业",
+        "集装箱制造"
       ],
-      "score": 52
+      "tier": "龙头",
+      "district": "南沙区"
     },
     {
-      "name": "广州海数信息技术有限公司",
+      "name": "东方电气(广州)重型机器有限公司",
+      "track": 4,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "海洋工程装备",
+        "海洋工程专用设备制造（如核电风电等设备生产）"
+      ],
+      "tier": "龙头",
+      "district": "南沙区"
+    },
+    {
+      "name": "中交(广州)建设有限公司",
       "track": 3,
-      "contracts": 1,
-      "latest": "2026-05-25",
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
       "samples": [
-        "海洋经济涉海企业供应链数据平台建设"
+        "其他涉海产业",
+        "港口码头建设、跨海大桥、海洋相关基础设施"
       ],
-      "score": 52
+      "tier": "龙头",
+      "district": "南沙区"
     },
     {
-      "name": "广州蓝碳生态研究院",
-      "track": 2,
-      "contracts": 1,
-      "latest": "2026-05-20",
+      "name": "中交四航局港湾工程设计院有限公司",
+      "track": 3,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
       "samples": [
-        "南沙区红树林蓝碳碳汇核算技术服务"
+        "其他涉海产业",
+        "海洋工程管理服务"
       ],
-      "score": 52
+      "tier": "龙头",
+      "district": "海珠区"
+    },
+    {
+      "name": "中交四航工程研究院有限公司",
+      "track": 1,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海洋领域的基础地质勘查、工程地质勘察"
+      ],
+      "tier": "龙头/潜力 | 高成长",
+      "district": "白云区"
+    },
+    {
+      "name": "中交广州水运工程设计研究院有限公司",
+      "track": 3,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海洋工程设计"
+      ],
+      "tier": "龙头",
+      "district": "海珠区"
+    },
+    {
+      "name": "中交广州航道局有限公司",
+      "track": 3,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "跨海通道、海洋牧场"
+      ],
+      "tier": "龙头",
+      "district": "海珠区"
+    },
+    {
+      "name": "中交广航疏浚有限公司",
+      "track": 0,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "港航疏浚服务"
+      ],
+      "tier": "龙头 | 高成长",
+      "district": "海珠区"
+    },
+    {
+      "name": "中交第四航务工程勘察设计院有限公司",
+      "track": 1,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海洋工程勘察设计、海洋工程总承包"
+      ],
+      "tier": "龙头",
+      "district": "海珠区"
+    },
+    {
+      "name": "中交第四航务工程局有限公司",
+      "track": 3,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "港口建设、海底管道施工"
+      ],
+      "tier": "龙头",
+      "district": "海珠区"
+    },
+    {
+      "name": "中国南方电网有限责任公司",
+      "track": 3,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海上风电、波浪能发电"
+      ],
+      "tier": "龙头",
+      "district": "黄埔区"
+    },
+    {
+      "name": "中国南方航空股份有限公司",
+      "track": 3,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "涉海公共运输服务（航空运输）"
+      ],
+      "tier": "龙头 | 高成长",
+      "district": "黄埔区"
+    },
+    {
+      "name": "中国外运华南有限公司",
+      "track": 3,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "船务代理、货运代理、货运港口"
+      ],
+      "tier": "龙头 | 高成长",
+      "district": "黄埔区"
+    },
+    {
+      "name": "中国检验认证集团广东有限公司",
+      "track": 4,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "船舶检测"
+      ],
+      "tier": "龙头 | 高成长",
+      "district": "天河区"
+    },
+    {
+      "name": "中国电建集团城市规划设计研究院有限公司",
+      "track": 0,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海洋资源开发与利用咨询"
+      ],
+      "tier": "龙头 | 高成长",
+      "district": "南沙区"
+    },
+    {
+      "name": "中国能源建设集团华南电力试验研究院有限公司",
+      "track": 3,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海上风电相关系统研发"
+      ],
+      "tier": "龙头",
+      "district": "黄埔区"
+    },
+    {
+      "name": "中国能源建设集团广东省电力设计研究院有限公司",
+      "track": 1,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海上风电规划咨询、海上风电勘察设计、海上风电项目总承包"
+      ],
+      "tier": "龙头 | 高成长",
+      "district": "黄埔区"
+    },
+    {
+      "name": "中国船舶集团广州船舶工业有限公司",
+      "track": 4,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "海洋工程装备",
+        "船舶设计、总装建造"
+      ],
+      "tier": "龙头 | 高成长",
+      "district": "越秀区"
+    },
+    {
+      "name": "中建四局第一建设有限公司",
+      "track": 4,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "填海工程"
+      ],
+      "tier": "龙头 | 高成长",
+      "district": "花都区"
+    },
+    {
+      "name": "中水珠江规划勘测设计有限公司",
+      "track": 3,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "参与港口建设、航道规划及海洋资源管理项目。"
+      ],
+      "tier": "龙头 | 高成长",
+      "district": "天河区"
+    },
+    {
+      "name": "中海散货运输有限公司",
+      "track": 4,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "国际船舶租赁服务"
+      ],
+      "tier": "龙头",
+      "district": "南沙区"
+    },
+    {
+      "name": "中煤江南建设发展集团有限公司",
+      "track": 1,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海洋地质产业"
+      ],
+      "tier": "龙头",
+      "district": "越秀区"
+    },
+    {
+      "name": "中石化第五建设有限公司",
+      "track": 1,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海洋石油工程"
+      ],
+      "tier": "龙头",
+      "district": "荔湾区"
+    },
+    {
+      "name": "中科检测技术服务(广州)股份有限公司",
+      "track": 4,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海洋检测监测、海域使用论证、船舶检测"
+      ],
+      "tier": "龙头",
+      "district": "天河区"
+    },
+    {
+      "name": "中科院广州化灌工程有限公司",
+      "track": 0,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "地基基础工程、环境保护工程，灌浆材料可用于海底隧道工程或海岸边坡加固"
+      ],
+      "tier": "龙头",
+      "district": "天河区"
+    },
+    {
+      "name": "中能拾贝科技有限公司",
+      "track": 3,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海上风电领域"
+      ],
+      "tier": "龙头",
+      "district": "黄埔区"
+    },
+    {
+      "name": "中船华南船舶机械广州有限公司",
+      "track": 4,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "海洋工程装备",
+        "造船"
+      ],
+      "tier": "龙头 | 高成长",
+      "district": "南沙区"
+    },
+    {
+      "name": "中船工业互联网有限公司",
+      "track": 4,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海洋信息系统开发集成（智能船舶领域）"
+      ],
+      "tier": "龙头 | 高成长",
+      "district": "黄埔区"
+    },
+    {
+      "name": "中船黄埔文冲船舶有限公司",
+      "track": 4,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "海洋工程装备",
+        "造船"
+      ],
+      "tier": "龙头 | 高成长",
+      "district": "黄埔区"
+    },
+    {
+      "name": "中远大唐航运股份有限公司",
+      "track": 3,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "多式联运、运输代理业"
+      ],
+      "tier": "龙头 | 高成长",
+      "district": "海珠区"
+    },
+    {
+      "name": "中远海运散货运输有限公司",
+      "track": 3,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "远洋货运运输、沿海货物运输服务"
+      ],
+      "tier": "龙头",
+      "district": "南沙区"
+    },
+    {
+      "name": "中远海运特种运输股份有限公司",
+      "track": 3,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "远洋货运"
+      ],
+      "tier": "龙头 | 高成长",
+      "district": "黄埔区"
+    },
+    {
+      "name": "中通服建设有限公司",
+      "track": 1,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海底通信工程建设"
+      ],
+      "tier": "龙头",
+      "district": "越秀区"
+    },
+    {
+      "name": "中铁十九局集团广州工程有限公司",
+      "track": 3,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "珠海港、粤海铁路"
+      ],
+      "tier": "龙头",
+      "district": "南沙区"
+    },
+    {
+      "name": "中铁建港航局集团勘察设计院有限公司",
+      "track": 1,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海洋工程勘察设计"
+      ],
+      "tier": "龙头",
+      "district": "南沙区"
+    },
+    {
+      "name": "乐味餐饮集团有限公司",
+      "track": 0,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海水产品特色快餐服务（团餐）"
+      ],
+      "tier": "龙头 | 高成长",
+      "district": "白云区"
+    },
+    {
+      "name": "九元航空有限公司",
+      "track": 3,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "涉海公共运输服务（航空运输）"
+      ],
+      "tier": "龙头 | 高成长",
+      "district": "白云区"
+    },
+    {
+      "name": "亿航智能设备(广州)有限公司",
+      "track": 4,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "海洋工程装备",
+        "无人机、空中交通"
+      ],
+      "tier": "龙头 | 高成长",
+      "district": "黄埔区"
+    },
+    {
+      "name": "保利(广州)旅游产业有限公司",
+      "track": 0,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "旅游项目开发、旅行社及相关服务"
+      ],
+      "tier": "龙头",
+      "district": "海珠区"
+    },
+    {
+      "name": "保利长大工程有限公司",
+      "track": 3,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "跨海通道、港口与航道、深中通道"
+      ],
+      "tier": "龙头",
+      "district": "天河区"
+    },
+    {
+      "name": "克劳斯合成科技(广东)有限公司",
+      "track": 4,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "利用海洋塑料垃圾（如破损渔网）生产隧道建设用防水膜支撑结构固定件"
+      ],
+      "tier": "龙头",
+      "district": "黄埔区"
+    },
+    {
+      "name": "北明软件有限公司",
+      "track": 3,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海洋信息系统开发集成（海事监管领域）"
+      ],
+      "tier": "龙头",
+      "district": "天河区"
+    },
+    {
+      "name": "华南中外运集装箱物流有限公司",
+      "track": 3,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "货物运输代理、船务代理、报关代理"
+      ],
+      "tier": "龙头",
+      "district": "南沙区"
+    },
+    {
+      "name": "华南中远海运集装箱运输有限公司",
+      "track": 4,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "国际货物运输代理、国内货物运输代理、船舶运输代理等"
+      ],
+      "tier": "龙头 | 高成长",
+      "district": "南沙区"
+    },
+    {
+      "name": "华润万家生活超市(广州)有限公司",
+      "track": 3,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海洋水产品零售、海味干货零售"
+      ],
+      "tier": "龙头",
+      "district": "越秀区"
+    },
+    {
+      "name": "华润水泥技术研发有限公司",
+      "track": 3,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "水泥抗海水腐蚀研究"
+      ],
+      "tier": "龙头",
+      "district": "白云区"
+    },
+    {
+      "name": "南方电网数字电网科技(广东)有限公司",
+      "track": 3,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海上风电领域"
+      ],
+      "tier": "龙头",
+      "district": "黄埔区"
+    },
+    {
+      "name": "南方电网电力科技股份有限公司",
+      "track": 3,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海上风电相关系统研发、波浪能发电装置研发"
+      ],
+      "tier": "龙头 | 高成长",
+      "district": "越秀区"
+    },
+    {
+      "name": "南海渔村集团有限公司",
+      "track": 0,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海水产品特色正餐服务"
+      ],
+      "tier": "龙头 | 高成长",
+      "district": "越秀区"
+    },
+    {
+      "name": "威凯检测技术有限公司",
+      "track": 4,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "船舶检验服务"
+      ],
+      "tier": "龙头 | 高成长",
+      "district": "黄埔区"
+    },
+    {
+      "name": "安利(中国)日用品有限公司",
+      "track": 2,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "海洋生物医药",
+        "深海鲑鱼油胶囊"
+      ],
+      "tier": "龙头",
+      "district": "黄埔区"
+    },
+    {
+      "name": "广东三元麦当劳食品有限公司",
+      "track": 0,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海水产品特色快餐服务"
+      ],
+      "tier": "龙头 | 高成长",
+      "district": "荔湾区"
+    },
+    {
+      "name": "广东中瑞通货运代理有限公司",
+      "track": 3,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "装卸搬运和运输代理"
+      ],
+      "tier": "龙头 | 高成长",
+      "district": "花都区"
+    },
+    {
+      "name": "广东亚洲国际大酒店有限公司",
+      "track": 3,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海洋餐饮、酒店"
+      ],
+      "tier": "龙头",
+      "district": "越秀区"
+    },
+    {
+      "name": "广东京东星佑物流有限公司",
+      "track": 3,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "多式联运"
+      ],
+      "tier": "龙头",
+      "district": "黄埔区"
+    },
+    {
+      "name": "广东京邦达供应链科技有限公司",
+      "track": 3,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "多式联运、仓储服务、装卸搬运"
+      ],
+      "tier": "龙头 | 高成长",
+      "district": "黄埔区"
+    },
+    {
+      "name": "广东兴亿海洋生物工程股份有限公司",
+      "track": 4,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海洋生物制品研发"
+      ],
+      "tier": "龙头",
+      "district": "黄埔区"
+    },
+    {
+      "name": "广东冠粤路桥有限公司",
+      "track": 3,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "跨海大桥"
+      ],
+      "tier": "龙头",
+      "district": "番禺区"
+    },
+    {
+      "name": "广东包道美食(集团)有限公司",
+      "track": 0,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海水产品特色快餐服务"
+      ],
+      "tier": "龙头",
+      "district": "南沙区"
+    },
+    {
+      "name": "广东华路交通科技有限公司",
+      "track": 1,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海洋工程监理"
+      ],
+      "tier": "龙头",
+      "district": "白云区"
+    },
+    {
+      "name": "广东南油对外服务有限公司",
+      "track": 0,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "涉海商务服务（劳务服务）"
+      ],
+      "tier": "龙头",
+      "district": "越秀区"
+    },
+    {
+      "name": "广东南缆电缆有限公司",
+      "track": 4,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "船用电力电缆"
+      ],
+      "tier": "龙头 | 高成长",
+      "district": "白云区"
+    },
+    {
+      "name": "广东国地科技股份有限公司",
+      "track": 0,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海洋资源管理服务"
+      ],
+      "tier": "龙头",
+      "district": "天河区"
+    },
+    {
+      "name": "广东天虹电缆有限公司",
+      "track": 3,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "舶用电缆"
+      ],
+      "tier": "龙头",
+      "district": "黄埔区"
+    },
+    {
+      "name": "广东希普生物科技股份有限公司",
+      "track": 3,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "水产饲料（鱼粉、虾粉）"
+      ],
+      "tier": "龙头",
+      "district": "从化区"
+    },
+    {
+      "name": "广东循证滋补生命科技有限公司",
+      "track": 2,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "海洋生物医药",
+        "即食花胶、海参产品"
+      ],
+      "tier": "龙头 | 高成长",
+      "district": "海珠区"
+    },
+    {
+      "name": "广东微量元素制药有限公司",
+      "track": 2,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "海洋生物医药",
+        "海洋鱼低聚肽粉"
+      ],
+      "tier": "龙头 | 高成长",
+      "district": "白云区"
+    },
+    {
+      "name": "广东微量元素生物科技有限公司",
+      "track": 2,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "海洋生物医药",
+        "海洋生物活性肽、多糖（如牡蛎肽、海藻提取物）"
+      ],
+      "tier": "龙头 | 高成长",
+      "district": "黄埔区"
+    },
+    {
+      "name": "广东德洛斯照明工业有限公司",
+      "track": 4,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "海洋工程装备",
+        "港口码头照明工程"
+      ],
+      "tier": "龙头 | 高成长",
+      "district": "天河区"
+    },
+    {
+      "name": "广东德邦物流有限公司",
+      "track": 3,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "装卸搬运、快递业务"
+      ],
+      "tier": "龙头",
+      "district": "南沙区"
+    },
+    {
+      "name": "广东怡高国际货运代理有限公司",
+      "track": 3,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "国际货运代理"
+      ],
+      "tier": "龙头",
+      "district": "天河区"
+    },
+    {
+      "name": "广东恒进食品科技有限公司",
+      "track": 3,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海洋水产品速冻食品"
+      ],
+      "tier": "龙头 | 高成长",
+      "district": "番禺区"
+    },
+    {
+      "name": "广东拓南船务集团有限公司",
+      "track": 3,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "船员、引航员培训"
+      ],
+      "tier": "龙头 | 高成长",
+      "district": "南沙区"
+    },
+    {
+      "name": "广东新白云宾馆有限公司",
+      "track": 3,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海洋餐饮、酒店"
+      ],
+      "tier": "龙头",
+      "district": "越秀区"
+    },
+    {
+      "name": "广东新禾智慧数字科技有限公司",
+      "track": 3,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海洋信息采集、海洋信息系统开发集成（自然资源监管领域）"
+      ],
+      "tier": "龙头",
+      "district": "黄埔区"
+    },
+    {
+      "name": "广东明世教育集团有限公司",
+      "track": 3,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海运及海运辅助业人员培训"
+      ],
+      "tier": "龙头",
+      "district": "番禺区"
+    },
+    {
+      "name": "广东景泽生态环境股份有限公司",
+      "track": 4,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "生态系统修复、水环境治理；新型珊瑚礁基的研发与应用，设计生产人工礁基产品"
+      ],
+      "tier": "龙头",
+      "district": "天河区"
+    },
+    {
+      "name": "广东智环创新环境科技有限公司",
+      "track": 0,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "涉海项目论证，海洋生态环境评价服务"
+      ],
+      "tier": "龙头",
+      "district": "越秀区"
+    },
+    {
+      "name": "广东有色工程勘察设计院",
+      "track": 1,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海洋工程勘察设计"
+      ],
+      "tier": "龙头",
+      "district": "越秀区"
+    },
+    {
+      "name": "广东林顿重工有限公司",
+      "track": 4,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "海洋工程装备",
+        "海洋工程设备制造、海水淡化设备"
+      ],
+      "tier": "龙头",
+      "district": "南沙区"
+    },
+    {
+      "name": "广东森霖造绿有限公司",
+      "track": 0,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "参与海洋生态修复管理，承担红树林生态抚育性修复项目"
+      ],
+      "tier": "龙头",
+      "district": "天河区"
+    },
+    {
+      "name": "广东正当年生物科技股份有限公司",
+      "track": 2,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "海洋生物医药",
+        "海洋鱼胶原蛋白肽粉"
+      ],
+      "tier": "龙头 | 高成长",
+      "district": "南沙区"
+    },
+    {
+      "name": "广东永辉超市有限公司",
+      "track": 3,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海洋水产品零售、海味干货零售"
+      ],
+      "tier": "龙头",
+      "district": "海珠区"
+    },
+    {
+      "name": "广东海因特生物技术集团有限公司",
+      "track": 3,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "属于水产饲料"
+      ],
+      "tier": "龙头 | 高成长",
+      "district": "黄埔区"
+    },
+    {
+      "name": "广东海大集团股份有限公司",
+      "track": 4,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "水产种苗（南美白对虾）、水产饲料、水产动保等"
+      ],
+      "tier": "龙头 | 高成长",
+      "district": "番禺区"
+    },
+    {
+      "name": "广东海安水运技术服务有限公司",
+      "track": 4,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "海洋工程装备",
+        "船舶制造、船舶修理、船舶改装等"
+      ],
+      "tier": "龙头 | 高成长",
+      "district": "南沙区"
+    },
+    {
+      "name": "广东海格怡创科技有限公司",
+      "track": 0,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海洋通信传输服务"
+      ],
+      "tier": "龙头",
+      "district": "天河区"
+    },
+    {
+      "name": "广东省中园生态规划设计院有限公司",
+      "track": 0,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "参与海洋生态修复管理，开展红树林修复、海岸带生态保护等海洋生态项目"
+      ],
+      "tier": "龙头",
+      "district": "花都区"
+    },
+    {
+      "name": "广东省城乡规划设计研究院科技集团股份有限公司",
+      "track": 0,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海洋规划咨询、海洋生态保护修复等"
+      ],
+      "tier": "龙头",
+      "district": "海珠区"
+    },
+    {
+      "name": "广东省基础工程集团有限公司",
+      "track": 4,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "填海工程、生态海底"
+      ],
+      "tier": "龙头",
+      "district": "天河区"
+    },
+    {
+      "name": "广东省岭南院勘察设计有限公司",
+      "track": 1,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海洋资源管理服务"
+      ],
+      "tier": "龙头",
+      "district": "越秀区"
+    },
+    {
+      "name": "广东省建筑工程集团有限公司",
+      "track": 0,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海上风电、生态海堤"
+      ],
+      "tier": "龙头",
+      "district": "荔湾区"
+    },
+    {
+      "name": "广东省建设工程质量安全检测总站有限公司",
+      "track": 3,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海洋工程质量检测"
+      ],
+      "tier": "龙头 | 高成长",
+      "district": "天河区"
+    },
+    {
+      "name": "广东省机械研究所有限公司",
+      "track": 4,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "海洋工程装备",
+        "养殖尾水处理设备、污水处理设备"
+      ],
+      "tier": "龙头 | 高成长",
+      "district": "黄埔区"
+    },
+    {
+      "name": "广东省源天工程有限公司",
+      "track": 0,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海堤生态保护、水下工程、水利水电"
+      ],
+      "tier": "龙头",
+      "district": "增城区"
+    },
+    {
+      "name": "广东省航运规划设计院有限公司",
+      "track": 1,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海洋工程勘察设计"
+      ],
+      "tier": "龙头",
+      "district": "越秀区"
+    },
+    {
+      "name": "广东福维德焊接股份有限公司",
+      "track": 4,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "海洋工程装备",
+        "造船焊接、海洋油管"
+      ],
+      "tier": "龙头",
+      "district": "黄埔区"
+    },
+    {
+      "name": "广东科诺勘测工程有限公司",
+      "track": 1,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海洋工程勘测、海上风电勘测、海洋测绘"
+      ],
+      "tier": "龙头",
+      "district": "黄埔区"
+    },
+    {
+      "name": "广东粤新海洋工程装备股份有限公司",
+      "track": 4,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "海洋工程装备",
+        "海洋工程作业船"
+      ],
+      "tier": "龙头 | 高成长",
+      "district": "南沙区"
+    },
+    {
+      "name": "广东粤通铁路物流有限公司",
+      "track": 3,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "货运代理服务、铁路运输服务、货场管理服务"
+      ],
+      "tier": "龙头",
+      "district": "白云区"
+    },
+    {
+      "name": "广东美亚商旅科技有限公司",
+      "track": 3,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "旅游策划、旅客票务代理"
+      ],
+      "tier": "龙头 | 高成长",
+      "district": "黄埔区"
+    },
+    {
+      "name": "广东美亚旅游科技集团股份有限公司",
+      "track": 3,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "旅游策划、旅客票务代理、拥有国际航协代理人资质"
+      ],
+      "tier": "龙头 | 高成长",
+      "district": "黄埔区"
+    },
+    {
+      "name": "广东艾博电力设计院(集团)有限公司",
+      "track": 3,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海上风电项目设计"
+      ],
+      "tier": "龙头",
+      "district": "越秀区"
+    },
+    {
+      "name": "广东芯聚能半导体有限公司",
+      "track": 4,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "海洋工程装备",
+        "工业级碳化硅，运用于光伏风能等领域"
+      ],
+      "tier": "龙头 | 高成长",
+      "district": "南沙区"
+    },
+    {
+      "name": "广东长宏建设集团有限公司",
+      "track": 3,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "港口及航运设施工程建筑"
+      ],
+      "tier": "龙头",
+      "district": "增城区"
+    },
+    {
+      "name": "广东驱动力生物科技集团股份有限公司",
+      "track": 4,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "动物饲料添加剂（如功能性蛋白、酶制剂）"
+      ],
+      "tier": "龙头",
+      "district": "白云区"
+    },
+    {
+      "name": "广东高捷航运物流有限公司",
+      "track": 3,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "国际货物运输"
+      ],
+      "tier": "龙头 | 高成长",
+      "district": "白云区"
+    },
+    {
+      "name": "广州东塑石油钻采专用设备有限公司",
+      "track": 4,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "海洋工程装备",
+        "石油、天然气钻采"
+      ],
+      "tier": "龙头",
+      "district": "番禺区"
+    },
+    {
+      "name": "广州东方电力有限公司",
+      "track": 3,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "火力发电海水冷却"
+      ],
+      "tier": "龙头",
+      "district": "南沙区"
+    },
+    {
+      "name": "广州中交通信有限公司",
+      "track": 4,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海洋通信传输服务、海洋信息系统开发集成（船舶通导、航海保障）"
+      ],
+      "tier": "龙头",
+      "district": "黄埔区"
+    },
+    {
+      "name": "广州中味餐饮服务有限公司",
+      "track": 0,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海水产品特色快餐服务（团餐）"
+      ],
+      "tier": "龙头 | 高成长",
+      "district": "黄埔区"
+    },
+    {
+      "name": "广州中海电信有限公司",
+      "track": 4,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "船舶通导"
+      ],
+      "tier": "龙头 | 高成长",
+      "district": "海珠区"
+    },
+    {
+      "name": "广州中海达卫星导航技术股份有限公司",
+      "track": 3,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "卫星导航"
+      ],
+      "tier": "龙头 | 高成长",
+      "district": "番禺区"
+    },
+    {
+      "name": "广州中科智云科技有限公司",
+      "track": 3,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海洋信息系统开发集成（港航领域）"
+      ],
+      "tier": "龙头 | 高成长",
+      "district": "黄埔区"
+    },
+    {
+      "name": "广州中船德内斯船用设备有限公司",
+      "track": 4,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "海洋工程装备",
+        "重型船用起重机"
+      ],
+      "tier": "龙头 | 高成长",
+      "district": "南沙区"
+    },
+    {
+      "name": "广州中远海运净海环保科技有限公司",
+      "track": 0,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "船舶污染防治、海洋溢油应急、海洋生态修复等"
+      ],
+      "tier": "龙头 | 高成长",
+      "district": "番禺区"
+    },
+    {
+      "name": "广州中远海运船舶技术工程有限公司",
+      "track": 4,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "船员、引航员培训"
+      ],
+      "tier": "龙头",
+      "district": "黄埔区"
+    },
+    {
+      "name": "广州中远海运集装箱运输有限公司",
+      "track": 4,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "国际货运代理、国际船舶代理"
+      ],
+      "tier": "龙头 | 高成长",
+      "district": "海珠区"
+    },
+    {
+      "name": "广州乾瑞供应链管理有限公司",
+      "track": 3,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "国际货物运输代理、供应链服务、仓储服务"
+      ],
+      "tier": "龙头",
+      "district": "南沙区"
+    },
+    {
+      "name": "广州五所环境仪器有限公司",
+      "track": 4,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "海洋工程装备",
+        "海雾箱等环境试验仪器设备"
+      ],
+      "tier": "龙头 | 高成长",
+      "district": "增城区"
+    },
+    {
+      "name": "广州信环技术有限公司",
+      "track": 4,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "海洋工程装备",
+        "海洋环境治理设备"
+      ],
+      "tier": "龙头",
+      "district": "南沙区"
+    },
+    {
+      "name": "广州公路工程集团有限公司",
+      "track": 4,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "桥梁重建、船舶碰撞桥梁隐患治理"
+      ],
+      "tier": "龙头 | 高成长",
+      "district": "越秀区"
+    },
+    {
+      "name": "广州凯恒特种电线电缆有限公司",
+      "track": 3,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "​​船用特种电缆"
+      ],
+      "tier": "龙头 | 高成长",
+      "district": "南沙区"
+    },
+    {
+      "name": "广州创能船舶燃料供应有限公司",
+      "track": 4,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "船舶燃料油供应、成品油批发贸易"
+      ],
+      "tier": "龙头",
+      "district": "番禺区"
+    },
+    {
+      "name": "广州华侨大厦企业有限公司",
+      "track": 3,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海洋餐饮、酒店"
+      ],
+      "tier": "龙头 | 高成长",
+      "district": "越秀区"
+    },
+    {
+      "name": "广州华润热电有限公司",
+      "track": 3,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "火力发电海水冷却"
+      ],
+      "tier": "龙头",
+      "district": "南沙区"
+    },
+    {
+      "name": "广州华贸国际物流有限公司",
+      "track": 3,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "货物运输代理"
+      ],
+      "tier": "龙头",
+      "district": "天河区"
+    },
+    {
+      "name": "广州南方卫星导航仪器有限公司",
+      "track": 1,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "海洋工程装备",
+        "智能无人船、海洋测绘勘察系统"
+      ],
+      "tier": "龙头",
+      "district": "天河区"
+    },
+    {
+      "name": "广州南方智能技术有限公司",
+      "track": 3,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海洋信息采集、海洋信息系统开发集成（智慧港航、智慧海事、自然资源监管等领域）"
+      ],
+      "tier": "龙头 | 高成长",
+      "district": "天河区"
+    },
+    {
+      "name": "广州南方测绘科技股份有限公司",
+      "track": 1,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "海洋工程装备",
+        "雷达、海洋测绘勘察系统"
+      ],
+      "tier": "龙头",
+      "district": "天河区"
+    },
+    {
+      "name": "广州南方管道有限公司",
+      "track": 4,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "桩基钢管（应用于涉海工程）"
+      ],
+      "tier": "龙头",
+      "district": "黄埔区"
+    },
+    {
+      "name": "广州南沙明珠农业发展有限公司",
+      "track": 3,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海洋水产品批发零售"
+      ],
+      "tier": "龙头 | 高成长",
+      "district": "南沙区"
+    },
+    {
+      "name": "广州南沙海大生物科技有限公司",
+      "track": 3,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "水产饲料及动保产品"
+      ],
+      "tier": "龙头 | 高成长",
+      "district": "南沙区"
+    },
+    {
+      "name": "广州南沙海港集装箱码头有限公司",
+      "track": 3,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "集装箱装卸业务"
+      ],
+      "tier": "龙头",
+      "district": "南沙区"
+    },
+    {
+      "name": "广州南洋电缆集团有限公司",
+      "track": 4,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海洋工程及船舶用电缆"
+      ],
+      "tier": "龙头 | 高成长",
+      "district": "黄埔区"
+    },
+    {
+      "name": "广州吉欧电子科技有限公司",
+      "track": 4,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "海洋工程装备",
+        "导航、测绘、气象及海洋专用仪器制造"
+      ],
+      "tier": "龙头 | 高成长",
+      "district": "黄埔区"
+    },
+    {
+      "name": "广州启辰职业技能培训有限公司",
+      "track": 3,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海运及海运辅助业人员培训"
+      ],
+      "tier": "龙头",
+      "district": "黄埔区"
+    },
+    {
+      "name": "广州和源生态科技发展股份有限公司",
+      "track": 3,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "水环境流域生态治理​"
+      ],
+      "tier": "龙头 | 高成长",
+      "district": "越秀区"
+    },
+    {
+      "name": "广州回天新材料有限公司",
+      "track": 4,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "通信电子胶粘剂（应用于深海装备、海底管道等场景）"
+      ],
+      "tier": "龙头 | 高成长",
+      "district": "花都区"
+    },
+    {
+      "name": "广州地铁集团有限公司",
+      "track": 3,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "涉海公共运输服务（城市轨道交通）"
+      ],
+      "tier": "龙头",
+      "district": "海珠区"
+    },
+    {
+      "name": "广州城方建筑设计院有限公司",
+      "track": 3,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海洋工程管理服务、涉海规划设计管理"
+      ],
+      "tier": "龙头",
+      "district": "番禺区"
+    },
+    {
+      "name": "广州城港旅游发展有限公司",
+      "track": 0,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海洋旅游管理票务服务"
+      ],
+      "tier": "龙头 | 高成长",
+      "district": "海珠区"
+    },
+    {
+      "name": "广州太二餐饮连锁有限公司",
+      "track": 0,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海水产品特色正餐服务"
+      ],
+      "tier": "龙头",
+      "district": "天河区"
+    },
+    {
+      "name": "广州威能机电有限公司",
+      "track": 4,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "海洋工程装备",
+        "船用发电机组，海洋能源供应及电力解决方案"
+      ],
+      "tier": "龙头",
+      "district": "番禺区"
+    },
+    {
+      "name": "广州岭南集团控股股份有限公司",
+      "track": 3,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海洋餐饮、酒店"
+      ],
+      "tier": "龙头 | 高成长",
+      "district": "越秀区"
+    },
+    {
+      "name": "广州工程总承包集团有限公司",
+      "track": 3,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "桥梁、港口工程"
+      ],
+      "tier": "龙头",
+      "district": "海珠区"
+    },
+    {
+      "name": "广州巴士集团有限公司",
+      "track": 3,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "涉海公共运输服务（公共电汽车客运）"
+      ],
+      "tier": "龙头",
+      "district": "越秀区"
+    },
+    {
+      "name": "广州市上赛电子科技有限公司",
+      "track": 3,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "船用产品开发、雷达"
+      ],
+      "tier": "龙头 | 高成长",
+      "district": "天河区"
+    },
+    {
+      "name": "广州市中海达测绘仪器有限公司",
+      "track": 1,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "海洋工程装备",
+        "智能无人测量船"
+      ],
+      "tier": "龙头 | 高成长",
+      "district": "番禺区"
+    },
+    {
+      "name": "广州市中盈钢结构有限公司",
+      "track": 4,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "海洋工程装备",
+        "船舶舾装件（船舶排烟管、锚链筒、特种船舶铝制电气件等）"
+      ],
+      "tier": "龙头 | 高成长",
+      "district": "南沙区"
+    },
+    {
+      "name": "广州市交通规划研究院有限公司",
+      "track": 3,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "参与交通枢纽规划起草、港口与航道交通设计。"
+      ],
+      "tier": "龙头",
+      "district": "越秀区"
+    },
+    {
+      "name": "广州市华测检测认证技术有限公司",
+      "track": 4,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "船舶检验服务、海洋环境监测"
+      ],
+      "tier": "龙头 | 高成长",
+      "district": "黄埔区"
+    },
+    {
+      "name": "广州市华琪生物科技有限公司",
+      "track": 4,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "生产海鲜肽等功能性调味料"
+      ],
+      "tier": "龙头 | 高成长",
+      "district": "从化区"
+    },
+    {
+      "name": "广州市合景领峰园酒店管理有限公司",
+      "track": 3,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海洋餐饮、酒店"
+      ],
+      "tier": "龙头 | 高成长",
+      "district": "天河区"
+    },
+    {
+      "name": "广州市喜洋物流有限公司",
+      "track": 3,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "国际货物运输代理、代办国内货物运输手续、"
+      ],
+      "tier": "龙头 | 高成长",
+      "district": "越秀区"
+    },
+    {
+      "name": "广州市城市规划勘测设计研究院有限公司",
+      "track": 0,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "参与海洋战略规划等起草、拟定，参与海洋生态修复管理和海域使用与海岛保护利用管理项"
+      ],
+      "tier": "龙头",
+      "district": "越秀区"
+    },
+    {
+      "name": "广州市城市规划设计有限公司",
+      "track": 3,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "参与海洋战略规划等起草、拟定"
+      ],
+      "tier": "龙头",
+      "district": "越秀区"
+    },
+    {
+      "name": "广州市宝俪涂料有限公司",
+      "track": 2,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "船壳涂料（耐腐蚀、防海洋生物附着）"
+      ],
+      "tier": "龙头 | 高成长",
+      "district": "增城区"
+    },
+    {
+      "name": "广州市广骏旅游汽车企业集团有限公司",
+      "track": 3,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "涉海公共运输服务"
+      ],
+      "tier": "龙头/潜力 | 高成长",
+      "district": "白云区"
+    },
+    {
+      "name": "广州市微生物研究所集团股份有限公司",
+      "track": 3,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "涉海第三方检测服务"
+      ],
+      "tier": "龙头",
+      "district": "黄埔区"
+    },
+    {
+      "name": "广州市德邦物流服务有限公司",
+      "track": 3,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "货运代理、装卸搬运"
+      ],
+      "tier": "龙头",
+      "district": "白云区"
+    },
+    {
+      "name": "广州市新之地环保产业股份有限公司",
+      "track": 4,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "海洋工程装备",
+        "污水处理设备（如刮吸泥机）"
+      ],
+      "tier": "龙头 | 高成长",
+      "district": "荔湾区"
+    },
+    {
+      "name": "广州市昕恒泵业制造有限公司",
+      "track": 4,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "海洋工程装备",
+        "石油化工流程泵、海水深井泵等"
+      ],
+      "tier": "龙头 | 高成长",
+      "district": "黄埔区"
+    },
+    {
+      "name": "广州市星河湾酒店有限公司",
+      "track": 3,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海洋餐饮、酒店"
+      ],
+      "tier": "龙头",
+      "district": "番禺区"
+    },
+    {
+      "name": "广州市朗琴轮胎有限公司",
+      "track": 3,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "港口堆高机及正面吊专用实心轮胎、港口码头拖车专用实心轮胎"
+      ],
+      "tier": "龙头 | 高成长",
+      "district": "天河区"
+    },
+    {
+      "name": "广州市海皇科技有限公司",
+      "track": 4,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "海洋工程装备",
+        "智能电动船建造"
+      ],
+      "tier": "龙头 | 高成长",
+      "district": "南沙区"
+    },
+    {
+      "name": "广州市海越陶陶居餐饮管理有限公司",
+      "track": 0,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海水产品特色正餐服务"
+      ],
+      "tier": "龙头",
+      "district": "越秀区"
+    },
+    {
+      "name": "广州市环境保护工程设计院有限公司",
+      "track": 1,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海洋环境工程"
+      ],
+      "tier": "龙头",
+      "district": "越秀区"
+    },
+    {
+      "name": "广州市生生国际旅行社有限公司",
+      "track": 0,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "旅游项目开发、旅行社及相关服务"
+      ],
+      "tier": "龙头 | 高成长",
+      "district": "海珠区"
+    },
+    {
+      "name": "广州市番禺目标压铸灯饰有限公司",
+      "track": 4,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "海洋工程装备",
+        "船用灯具（如防水信号灯、船舱照明灯）"
+      ],
+      "tier": "龙头",
+      "district": "番禺区"
+    },
+    {
+      "name": "广州市第四建筑工程有限公司",
+      "track": 3,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "体育基础设施（涉海）"
+      ],
+      "tier": "龙头",
+      "district": "海珠区"
+    },
+    {
+      "name": "广州市综合交通枢纽有限公司",
+      "track": 3,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "国际货物运输代理、投资与资产管理"
+      ],
+      "tier": "龙头",
+      "district": "增城区"
+    },
+    {
+      "name": "广州市联鲲生物科技有限公司",
+      "track": 3,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海洋养殖业水产饲料预混料（海洋原料）"
+      ],
+      "tier": "龙头",
+      "district": "番禺区"
+    },
+    {
+      "name": "广州市艾贝泰生物科技有限公司",
+      "track": 4,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "海洋工程装备",
+        "船用生物反应器系统（用于远洋科考船）"
+      ],
+      "tier": "龙头 | 高成长",
+      "district": "番禺区"
+    },
+    {
+      "name": "广州市设计院集团有限公司",
+      "track": 0,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海洋规划咨询"
+      ],
+      "tier": "龙头 | 高成长",
+      "district": "天河区"
+    },
+    {
+      "name": "广州市诚一水产科技有限公司",
+      "track": 3,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "水产饲料、动保产品（如水质改良剂、病害防治药剂）"
+      ],
+      "tier": "龙头",
+      "district": "番禺区"
+    },
+    {
+      "name": "广州市顺海造船有限公司",
+      "track": 4,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "海洋工程装备",
+        "造船"
+      ],
+      "tier": "龙头 | 高成长",
+      "district": "番禺区"
+    },
+    {
+      "name": "广州广之旅国际旅行社股份有限公司",
+      "track": 0,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "旅游项目开发、旅行社及相关服务"
+      ],
+      "tier": "龙头 | 高成长",
+      "district": "白云区"
+    },
+    {
+      "name": "广州广船海洋工程装备有限公司",
+      "track": 4,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "海洋工程装备",
+        "造船"
+      ],
+      "tier": "龙头 | 高成长",
+      "district": "南沙区"
+    },
+    {
+      "name": "广州广重企业集团有限公司",
+      "track": 4,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "海洋工程装备",
+        "大型船用产品生产（如船用燃料罐、船用汽轮机等）"
+      ],
+      "tier": "龙头",
+      "district": "海珠区"
+    },
+    {
+      "name": "广州彩熠科技股份有限公司",
+      "track": 4,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "海洋工程装备",
+        "船舶演艺灯光工程服务"
+      ],
+      "tier": "龙头",
+      "district": "白云区"
+    },
+    {
+      "name": "广州忠信世纪电子材料制造有限公司",
+      "track": 4,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "海洋工程装备",
+        "船舶电子元器件"
+      ],
+      "tier": "龙头",
+      "district": "南沙区"
+    },
+    {
+      "name": "广州慧谷新材料科技股份有限公司",
+      "track": 4,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "船舶减阻涂层（应用于远洋货轮）"
+      ],
+      "tier": "龙头",
+      "district": "海珠区"
+    },
+    {
+      "name": "广州成至智能机器科技有限公司",
+      "track": 4,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "海洋工程装备",
+        "无人机任务载荷（强声驱散器、探照灯、通信中继），应用于海事、海上搜救、海洋监测等"
+      ],
+      "tier": "龙头",
+      "district": "天河区"
+    },
+    {
+      "name": "广州打捞局",
+      "track": 3,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "救助打捞、半潜船运输、建筑施工、港口航道、隧道工程"
+      ],
+      "tier": "龙头 | 高成长",
+      "district": "海珠区"
+    },
+    {
+      "name": "广州振华航科有限公司",
+      "track": 3,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "沿海货物运输"
+      ],
+      "tier": "龙头",
+      "district": "海珠区"
+    },
+    {
+      "name": "广州探鱼餐饮管理有限公司",
+      "track": 0,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海水产品特色正餐服务"
+      ],
+      "tier": "龙头",
+      "district": "白云区"
+    },
+    {
+      "name": "广州数鹏通科技有限公司",
+      "track": 3,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海洋信息系统开发集成（自然资源、生态环境等领域）"
+      ],
+      "tier": "龙头",
+      "district": "天河区"
+    },
+    {
+      "name": "广州文冲船舶修造有限公司",
+      "track": 4,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "海洋工程装备",
+        "造船"
+      ],
+      "tier": "龙头 | 高成长",
+      "district": "南沙区"
+    },
+    {
+      "name": "广州文船重工有限公司",
+      "track": 4,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "海洋工程装备",
+        "海上风电导管架、浮式基础等产品/金属船舶制造、海工装备"
+      ],
+      "tier": "龙头",
+      "district": "南沙区"
+    },
+    {
+      "name": "广州智光储能科技有限公司",
+      "track": 4,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "海洋工程装备",
+        "海上风电场储能系统"
+      ],
+      "tier": "龙头 | 高成长",
+      "district": "黄埔区"
+    },
+    {
+      "name": "广州智特奇生物科技股份有限公司",
+      "track": 3,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "虾青素"
+      ],
+      "tier": "龙头 | 高成长",
+      "district": "黄埔区"
+    },
+    {
+      "name": "广州柴油机厂股份有限公司",
+      "track": 4,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "海洋工程装备",
+        "船用柴油机制造"
+      ],
+      "tier": "龙头",
+      "district": "荔湾区"
+    },
+    {
+      "name": "广州欧华国际货运代理有限公司",
+      "track": 3,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "国际货物运输代理服务、货物报关代理服务、仓储代理服务"
+      ],
+      "tier": "龙头",
+      "district": "天河区"
+    },
+    {
+      "name": "广州欧科信息技术股份有限公司",
+      "track": 3,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海洋专题信息采集（海洋考古领域）"
+      ],
+      "tier": "龙头 | 高成长",
+      "district": "黄埔区"
+    },
+    {
+      "name": "广州沃尔玛百货有限公司",
+      "track": 3,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海洋水产品零售、海味干货零售"
+      ],
+      "tier": "龙头 | 高成长",
+      "district": "番禺区"
+    },
+    {
+      "name": "广州泰阳能源科技有限公司",
+      "track": 3,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "光伏储能"
+      ],
+      "tier": "龙头 | 高成长",
+      "district": "黄埔区"
+    },
+    {
+      "name": "广州泽力医药科技有限公司",
+      "track": 2,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "海洋生物医药",
+        "提取海洋生物活性肽"
+      ],
+      "tier": "龙头",
+      "district": "黄埔区"
+    },
+    {
+      "name": "广州海格通信集团股份有限公司",
+      "track": 4,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "海洋工程装备",
+        "通信装备制造（如北斗等）"
+      ],
+      "tier": "龙头",
+      "district": "黄埔区"
+    },
+    {
+      "name": "广州港工程管理有限公司",
+      "track": 3,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海洋工程管理服务"
+      ],
+      "tier": "龙头",
+      "district": "黄埔区"
+    },
+    {
+      "name": "广州港数据科技有限公司",
+      "track": 3,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海洋信息系统开发集成（港航领域）"
+      ],
+      "tier": "龙头 | 高成长",
+      "district": "黄埔区"
+    },
+    {
+      "name": "广州港物流有限公司",
+      "track": 4,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "国内水运船舶代理、水上货物运输代理、道路货物运输代理"
+      ],
+      "tier": "龙头 | 高成长",
+      "district": "黄埔区"
+    },
+    {
+      "name": "广州港股份有限公司",
+      "track": 3,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "港口装卸仓储服务"
+      ],
+      "tier": "龙头 | 高成长",
+      "district": "南沙区"
+    },
+    {
+      "name": "广州爱派克斯国际货运代理有限公司",
+      "track": 3,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "多式联运和运输代理业"
+      ],
+      "tier": "龙头",
+      "district": "天河区"
+    },
+    {
+      "name": "广州环投技术设备有限公司",
+      "track": 4,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "海洋工程装备",
+        "移动式排筏、水处理项目"
+      ],
+      "tier": "龙头 | 高成长",
+      "district": "白云区"
+    },
+    {
+      "name": "广州白云山医药集团股份有限公司",
+      "track": 2,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "海洋生物医药",
+        "深海鱼油产品、海洋原料小分子蛋白肽产品"
+      ],
+      "tier": "龙头",
+      "district": "荔湾区"
+    },
+    {
+      "name": "广州白云山拜迪生物医药有限公司",
+      "track": 2,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "生物医药技术研究"
+      ],
+      "tier": "龙头",
+      "district": "番禺区"
+    },
+    {
+      "name": "广州白云山汉方现代药业有限公司",
+      "track": 2,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "海洋生物医药",
+        "姬松茸海洋鱼低聚肽"
+      ],
+      "tier": "龙头",
+      "district": "从化区"
+    },
+    {
+      "name": "广州秀珀化工涂料有限公司",
+      "track": 4,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海洋工程防护材料、船壳涂料、海洋防腐涂料"
+      ],
+      "tier": "龙头",
+      "district": "番禺区"
+    },
+    {
+      "name": "广州科思创聚合物有限公司",
+      "track": 4,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海洋工程的聚氨酯涂料、船舶涂料、管道保护材料"
+      ],
+      "tier": "龙头",
+      "district": "黄埔区"
+    },
+    {
+      "name": "广州穗华能源科技有限公司",
+      "track": 4,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "风电场装备、太阳能热利用产品研发"
+      ],
+      "tier": "龙头 | 高成长",
+      "district": "黄埔区"
+    },
+    {
+      "name": "广州立白企业集团有限公司",
+      "track": 2,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海洋生物酶洗涤产品（深海红海藻提取活性生物酶）"
+      ],
+      "tier": "龙头",
+      "district": "荔湾区"
+    },
+    {
+      "name": "广州立邦涂料有限公司",
+      "track": 4,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "船舶涂料"
+      ],
+      "tier": "龙头",
+      "district": "黄埔区"
+    },
+    {
+      "name": "广州粤能电力科技开发有限公司",
+      "track": 3,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海上风电相关系统研发；风电场相关系统研发"
+      ],
+      "tier": "龙头 | 高成长",
+      "district": "越秀区"
+    },
+    {
+      "name": "广州红帆科技有限公司",
+      "track": 3,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海洋信息系统开发集成（智能船舶、数字化造船等领域）"
+      ],
+      "tier": "龙头 | 高成长",
+      "district": "天河区"
+    },
+    {
+      "name": "广州纳诺新材料科技有限公司",
+      "track": 4,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "海洋工程装备",
+        "气凝胶绝热毡(应用于LNG运输船保温系统)"
+      ],
+      "tier": "龙头 | 高成长",
+      "district": "番禺区"
+    },
+    {
+      "name": "广州绿邦环境技术有限公司",
+      "track": 3,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "水资源处理和海水淡化技术"
+      ],
+      "tier": "龙头 | 高成长",
+      "district": "黄埔区"
+    },
+    {
+      "name": "广州致新电力科技有限公司",
+      "track": 3,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "太阳能光伏供电系统的研究、开发、设计"
+      ],
+      "tier": "龙头 | 高成长",
+      "district": "白云区"
+    },
+    {
+      "name": "广州艾格生物科技有限公司",
+      "track": 3,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "生物技术开发、医药研发"
+      ],
+      "tier": "龙头",
+      "district": "黄埔区"
+    },
+    {
+      "name": "广州蜗牛网国际旅行社有限公司",
+      "track": 0,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "旅游项目开发、旅行社及相关服务"
+      ],
+      "tier": "龙头",
+      "district": "白云区"
+    },
+    {
+      "name": "广州谷雨生物科技有限公司",
+      "track": 2,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "海洋生物医药",
+        "海洋生物活性成分（如海藻多糖、依克多因）美白护肤产品"
+      ],
+      "tier": "龙头 | 高成长",
+      "district": "黄埔区"
+    },
+    {
+      "name": "广州跨越速运有限公司",
+      "track": 3,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "货物运输代理"
+      ],
+      "tier": "龙头 | 高成长",
+      "district": "花都区"
+    },
+    {
+      "name": "广州辰创科技发展有限公司",
+      "track": 4,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "海洋工程装备",
+        "海防雷达、舰载采集终端"
+      ],
+      "tier": "龙头 | 高成长",
+      "district": "天河区"
+    },
+    {
+      "name": "广州远洋宾馆有限公司",
+      "track": 3,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海洋餐饮、酒店"
+      ],
+      "tier": "龙头",
+      "district": "越秀区"
+    },
+    {
+      "name": "广州远海汽车船运输有限公司",
+      "track": 3,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "远洋货物运输"
+      ],
+      "tier": "龙头 | 高成长",
+      "district": "南沙区"
+    },
+    {
+      "name": "广州远海特种运输有限公司",
+      "track": 3,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "国际远洋货物运输"
+      ],
+      "tier": "龙头 | 高成长",
+      "district": "南沙区"
+    },
+    {
+      "name": "广州遇见小面餐饮股份有限公司",
+      "track": 0,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海水产品特色快餐服务"
+      ],
+      "tier": "龙头 | 高成长",
+      "district": "天河区"
+    },
+    {
+      "name": "广州都市圈网络科技有限公司",
+      "track": 1,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海洋测绘、海洋观测浮标"
+      ],
+      "tier": "龙头",
+      "district": "番禺区"
+    },
+    {
+      "name": "广州酒家集团利口福食品有限公司",
+      "track": 4,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "速冻食品（海鲜食材）"
+      ],
+      "tier": "龙头",
+      "district": "番禺区"
+    },
+    {
+      "name": "广州酒家集团电子商务有限公司",
+      "track": 0,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海水产品特色正餐服务"
+      ],
+      "tier": "龙头",
+      "district": "荔湾区"
+    },
+    {
+      "name": "广州酒家集团餐饮管理有限公司",
+      "track": 0,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海水产品特色正餐服务"
+      ],
+      "tier": "龙头 | 高成长",
+      "district": "荔湾区"
+    },
+    {
+      "name": "广州金水动物保健品有限公司",
+      "track": 3,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "水产用兽药（如水产杀菌剂、驱虫药）或水产饲料添加剂"
+      ],
+      "tier": "龙头",
+      "district": "白云区"
+    },
+    {
+      "name": "广州金至检测技术有限公司",
+      "track": 3,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "涉海医学检验检测服务"
+      ],
+      "tier": "龙头",
+      "district": "海珠区"
+    },
+    {
+      "name": "广州铭源船舶管理有限公司",
+      "track": 4,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "涉海商务服务（船员管理服务）"
+      ],
+      "tier": "龙头",
+      "district": "黄埔区"
+    },
+    {
+      "name": "广州长隆集团有限公司",
+      "track": 3,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海洋餐饮、酒店，海洋主题乐园（在珠海）"
+      ],
+      "tier": "龙头 | 高成长",
+      "district": "番禺区"
+    },
+    {
+      "name": "广州隽沐生物科技股份有限公司",
+      "track": 2,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "海洋生物医药",
+        "海洋生物活性物质提取、纯化、合成技术研发"
+      ],
+      "tier": "龙头",
+      "district": "黄埔区"
+    },
+    {
+      "name": "广州集泰化工股份有限公司",
+      "track": 4,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "环境友好型胶粘剂和涂料产品（船舶用胶、集装箱漆、集装箱胶等）"
+      ],
+      "tier": "龙头",
+      "district": "黄埔区"
+    },
+    {
+      "name": "广州领鲜生物科技有限公司",
+      "track": 3,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "水产料产品"
+      ],
+      "tier": "龙头",
+      "district": "白云区"
+    },
+    {
+      "name": "广州飞特物流有限公司",
+      "track": 3,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "国际物流代理"
+      ],
+      "tier": "龙头",
+      "district": "白云区"
+    },
+    {
+      "name": "广州飞禧特生物科技有限公司",
+      "track": 4,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "水产饲料用益生菌、酶制剂"
+      ],
+      "tier": "龙头",
+      "district": "天河区"
+    },
+    {
+      "name": "广州高澜节能技术股份有限公司",
+      "track": 4,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "海洋工程装备",
+        "海上风电柔直输电工程冷却系统"
+      ],
+      "tier": "龙头 | 高成长",
+      "district": "黄埔区"
+    },
+    {
+      "name": "广州鹰金钱食品集团有限公司",
+      "track": 3,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "水产罐头"
+      ],
+      "tier": "龙头 | 高成长",
+      "district": "天河区"
+    },
+    {
+      "name": "广州黄船海洋工程有限公司",
+      "track": 4,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "海洋工程装备",
+        "造船"
+      ],
+      "tier": "龙头 | 高成长",
+      "district": "黄埔区"
+    },
+    {
+      "name": "广州龙穴管业有限公司",
+      "track": 4,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "船舶管系，船舶舾装件、钢结构"
+      ],
+      "tier": "龙头 | 高成长",
+      "district": "南沙区"
+    },
+    {
+      "name": "广电计量检测集团股份有限公司",
+      "track": 4,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海洋环境服务、深海工程检测、船舶检验服务"
+      ],
+      "tier": "龙头 | 高成长",
+      "district": "天河区"
+    },
+    {
+      "name": "广船国际有限公司",
+      "track": 4,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "海洋工程装备",
+        "造船"
+      ],
+      "tier": "龙头 | 高成长",
+      "district": "南沙区"
+    },
+    {
+      "name": "庞贝捷工业涂料(广州)有限公司",
+      "track": 1,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海洋工程防护涂料"
+      ],
+      "tier": "龙头",
+      "district": "南沙区"
+    },
+    {
+      "name": "建峰索具有限公司",
+      "track": 3,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "深海油气开发及海上风电用索具"
+      ],
+      "tier": "龙头",
+      "district": "黄埔区"
+    },
+    {
+      "name": "慕恩(广州)生物科技有限公司",
+      "track": 2,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "海洋生物医药",
+        "海洋源生物医用PHA材料研发、海洋来源新型抗血栓药物研发、海洋生物酶等"
+      ],
+      "tier": "龙头",
+      "district": "黄埔区"
+    },
+    {
+      "name": "李锦记(广州)食品有限公司",
+      "track": 3,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海鲜酱油、蚝油等调味品"
+      ],
+      "tier": "龙头",
+      "district": "黄埔区"
+    },
+    {
+      "name": "海虹老人涂料(广州)有限公司",
+      "track": 4,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "船舶涂料"
+      ],
+      "tier": "龙头",
+      "district": "黄埔区"
+    },
+    {
+      "name": "白天鹅宾馆有限公司",
+      "track": 3,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海洋餐饮、酒店"
+      ],
+      "tier": "龙头 | 高成长",
+      "district": "荔湾区"
+    },
+    {
+      "name": "磐索地勘科技(广州)有限公司",
+      "track": 1,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海洋地质勘探装备研发制造、海洋地质勘察工程服务、海洋探测技术研发、海洋数据采集分"
+      ],
+      "tier": "龙头",
+      "district": "黄埔区"
+    },
+    {
+      "name": "纽斯葆广赛(广东)生物科技股份有限公司",
+      "track": 2,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "海洋生物医药",
+        "海洋鱼低聚肽粉（含鳕鱼胶原蛋白肽）"
+      ],
+      "tier": "龙头",
+      "district": "从化区"
+    },
+    {
+      "name": "联通(广东)产业互联网有限公司",
+      "track": 3,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海洋信息系统开发集成（5G渔船、海洋牧场生态监测系统、海上风电智能化、数字海洋）"
+      ],
+      "tier": "龙头",
+      "district": "黄埔区"
+    },
+    {
+      "name": "英辉南方造船(广州番禺)有限公司",
+      "track": 4,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "海洋工程装备",
+        "造船"
+      ],
+      "tier": "龙头 | 高成长",
+      "district": "番禺区"
+    },
+    {
+      "name": "贝格工业涂料(广州)有限公司",
+      "track": 4,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "船舶、海洋设施防护涂装"
+      ],
+      "tier": "龙头",
+      "district": "黄埔区"
+    },
+    {
+      "name": "赛尔特建筑科技(广东)有限公司",
+      "track": 0,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "抗盐雾腐蚀折叠房（用于滨海旅游业）"
+      ],
+      "tier": "龙头",
+      "district": "番禺区"
+    },
+    {
+      "name": "金发科技股份有限公司",
+      "track": 4,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海洋塑料废弃物回收、趋海再生塑料研发与应用"
+      ],
+      "tier": "龙头 | 高成长",
+      "district": "黄埔区"
+    },
+    {
+      "name": "金银卡(广州)生物科技股份有限公司",
+      "track": 3,
+      "score": 88,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "水产饲料"
+      ],
+      "tier": "龙头",
+      "district": "黄埔区"
+    },
+    {
+      "name": "中交华南交通建设有限公司",
+      "track": 3,
+      "score": 72,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "港口建设"
+      ],
+      "tier": "潜力 | 高成长",
+      "district": "海珠区"
+    },
+    {
+      "name": "中交四航局第二工程有限公司",
+      "track": 3,
+      "score": 72,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "港口航道工程"
+      ],
+      "tier": "潜力 | 高成长",
+      "district": "海珠区"
+    },
+    {
+      "name": "中兴海陆工程有限公司",
+      "track": 4,
+      "score": 72,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "船舶与海洋工程无损检测"
+      ],
+      "tier": "潜力 | 高成长",
+      "district": "黄埔区"
+    },
+    {
+      "name": "中能拾贝（广州）科技有限公司",
+      "track": 3,
+      "score": 72,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海上风电领域"
+      ],
+      "tier": "高成长",
+      "district": ""
+    },
+    {
+      "name": "中铁广州工程局集团桥梁工程有限公司",
+      "track": 1,
+      "score": 72,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "桥梁建设"
+      ],
+      "tier": "潜力 | 高成长",
+      "district": "花都区"
+    },
+    {
+      "name": "侨益物流股份有限公司",
+      "track": 3,
+      "score": 72,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "远洋运输、近洋运输、沿海运输服务,进出口海运订舱、港口装卸、驳运船队等综合物流服"
+      ],
+      "tier": "潜力 | 高成长",
+      "district": "黄埔区"
+    },
+    {
+      "name": "威凯认证检测有限公司",
+      "track": 4,
+      "score": 72,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "船舶检验服务"
+      ],
+      "tier": "潜力 | 高成长",
+      "district": "黄埔区"
+    },
+    {
+      "name": "广东一八供应链管理有限公司",
+      "track": 3,
+      "score": 72,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海运、空运、铁路运输、海外仓储、国际货运代理"
+      ],
+      "tier": "潜力 | 高成长",
+      "district": "白云区"
+    },
+    {
+      "name": "广东一诚环保科技有限公司",
+      "track": 4,
+      "score": 72,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "海洋工程装备",
+        "船舶尾气污染治理设备"
+      ],
+      "tier": "潜力 | 高成长",
+      "district": "天河区"
+    },
+    {
+      "name": "广东中威复合材料有限公司",
+      "track": 4,
+      "score": 72,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "海洋工程装备",
+        "造船"
+      ],
+      "tier": "潜力 | 高成长",
+      "district": "南沙区"
+    },
+    {
+      "name": "广东中科凯泽信息科技有限公司",
+      "track": 3,
+      "score": 72,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海洋信息系统开发集成（自然资源治理领域）"
+      ],
+      "tier": "潜力 | 高成长",
+      "district": "南沙区"
+    },
+    {
+      "name": "广东利茂建设有限公司",
+      "track": 1,
+      "score": 72,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "渔港渔船泊位建设"
+      ],
+      "tier": "潜力 | 高成长",
+      "district": "白云区"
+    },
+    {
+      "name": "广东南苑餐饮管理有限公司",
+      "track": 0,
+      "score": 72,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海水产品特色正餐服务"
+      ],
+      "tier": "潜力 | 高成长",
+      "district": "从化区"
+    },
+    {
+      "name": "广东广船国际海洋科技研究院有限公司",
+      "track": 4,
+      "score": 72,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "船舶设计"
+      ],
+      "tier": "潜力 | 高成长",
+      "district": "南沙区"
+    },
+    {
+      "name": "广东景和检测有限公司",
+      "track": 0,
+      "score": 72,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海洋环境服务"
+      ],
+      "tier": "潜力 | 高成长",
+      "district": "黄埔区"
+    },
+    {
+      "name": "广东桥信建设安装工程有限公司",
+      "track": 1,
+      "score": 72,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "渔港渔船泊位建设"
+      ],
+      "tier": "潜力 | 高成长",
+      "district": "番禺区"
+    },
+    {
+      "name": "广东水电二局集团有限公司",
+      "track": 3,
+      "score": 72,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海上风电"
+      ],
+      "tier": "潜力 | 高成长",
+      "district": "增城区"
+    },
+    {
+      "name": "广东海兰图环境技术研究有限公司",
+      "track": 0,
+      "score": 72,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海域使用技术服务"
+      ],
+      "tier": "潜力 | 高成长",
+      "district": "南沙区"
+    },
+    {
+      "name": "广东海吉机电设备股份有限公司",
+      "track": 4,
+      "score": 72,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "海洋工程装备",
+        "船舶配套"
+      ],
+      "tier": "高成长",
+      "district": ""
+    },
+    {
+      "name": "广东海启星海洋科技有限公司",
+      "track": 3,
+      "score": 72,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海洋预警减灾系统开发集成"
+      ],
+      "tier": "潜力 | 高成长",
+      "district": "番禺区"
+    },
+    {
+      "name": "广东海赢国际物流有限公司",
+      "track": 3,
+      "score": 72,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "国际货运代理、海运物流服务"
+      ],
+      "tier": "潜力 | 高成长",
+      "district": "黄埔区"
+    },
+    {
+      "name": "广东珠江国际货运代理有限公司",
+      "track": 3,
+      "score": 72,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "国际货运代理、海运订舱、报关服"
+      ],
+      "tier": "潜力 | 高成长",
+      "district": "海珠区"
+    },
+    {
+      "name": "广东省城乡规划设计研究院有限责任公司",
+      "track": 0,
+      "score": 72,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海洋规划咨询、海洋生态保护修复等"
+      ],
+      "tier": "高成长",
+      "district": ""
+    },
+    {
+      "name": "广东粤水建工有限公司",
+      "track": 3,
+      "score": 72,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "港口及航运设施工程"
+      ],
+      "tier": "潜力 | 高成长",
+      "district": "黄埔区"
+    },
+    {
+      "name": "广东翼景信息科技有限公司",
+      "track": 3,
+      "score": 72,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "无人机巡检"
+      ],
+      "tier": "潜力 | 高成长",
+      "district": "黄埔区"
+    },
+    {
+      "name": "广东聚纤缆通信股份有限公司",
+      "track": 3,
+      "score": 72,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "水底光缆"
+      ],
+      "tier": "潜力 | 高成长",
+      "district": "黄埔区"
+    },
+    {
+      "name": "广东金羊城供应链科技股份有限公司",
+      "track": 3,
+      "score": 72,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海上国际货物运输代理"
+      ],
+      "tier": "潜力 | 高成长",
+      "district": "白云区"
+    },
+    {
+      "name": "广州中大凯丰酒店有限公司",
+      "track": 3,
+      "score": 72,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海洋餐饮、酒店"
+      ],
+      "tier": "潜力 | 高成长",
+      "district": "海珠区"
+    },
+    {
+      "name": "广州中物储国际货运代理有限公司",
+      "track": 3,
+      "score": 72,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海上国际货物运输代理"
+      ],
+      "tier": "潜力 | 高成长",
+      "district": "黄埔区"
+    },
+    {
+      "name": "广州中远海运航空物流有限公司",
+      "track": 3,
+      "score": 72,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海运整箱、拼箱服务，跨境电商物流服务"
+      ],
+      "tier": "潜力 | 高成长",
+      "district": "花都区"
+    },
+    {
+      "name": "广州中远海运船舶工程有限公司",
+      "track": 4,
+      "score": 72,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "海洋工程装备",
+        "船舶配套"
+      ],
+      "tier": "潜力 | 高成长",
+      "district": "黄埔区"
+    },
+    {
+      "name": "广州中雷电科科技有限公司",
+      "track": 4,
+      "score": 72,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "海洋工程装备",
+        "雷达"
+      ],
+      "tier": "潜力 | 高成长",
+      "district": "黄埔区"
+    },
+    {
+      "name": "广州兰泉环保科技股份有限公司",
+      "track": 3,
+      "score": 72,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "水处理药剂"
+      ],
+      "tier": "潜力 | 高成长",
+      "district": "黄埔区"
+    },
+    {
+      "name": "广州华景建设有限公司",
+      "track": 3,
+      "score": 72,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "港口建设，水上水下工程服务"
+      ],
+      "tier": "潜力 | 高成长",
+      "district": "白云区"
+    },
+    {
+      "name": "广州华科环保工程有限公司",
+      "track": 4,
+      "score": 72,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海洋环境服务、船舶检测服务"
+      ],
+      "tier": "潜力 | 高成长",
+      "district": "天河区"
+    },
+    {
+      "name": "广州南部假期国际旅行社有限公司",
+      "track": 3,
+      "score": 72,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "国内旅游业务、出入境旅游业务"
+      ],
+      "tier": "潜力 | 高成长",
+      "district": "白云区"
+    },
+    {
+      "name": "广州发展南沙电力有限公司",
+      "track": 3,
+      "score": 72,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "火力发电海水冷却"
+      ],
+      "tier": "潜力 | 高成长",
+      "district": "南沙区"
+    },
+    {
+      "name": "广州发展新能源股份有限公司",
+      "track": 3,
+      "score": 72,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "风力发电(包含海上风电)"
+      ],
+      "tier": "高成长",
+      "district": ""
+    },
+    {
+      "name": "广州合成材料研究院有限公司",
+      "track": 3,
+      "score": 72,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海洋防护技术研发与服务"
+      ],
+      "tier": "潜力 | 高成长",
+      "district": "天河区"
+    },
+    {
+      "name": "广州喜朋酒店有限公司",
+      "track": 3,
+      "score": 72,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海洋餐饮、酒店"
+      ],
+      "tier": "潜力 | 高成长",
+      "district": "天河区"
+    },
+    {
+      "name": "广州天钺国际货运代理有限公司",
+      "track": 3,
+      "score": 72,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海上国际货物运输代理业务"
+      ],
+      "tier": "潜力 | 高成长",
+      "district": "天河区"
+    },
+    {
+      "name": "广州宇阳电力科技有限公司",
+      "track": 0,
+      "score": 72,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海洋电力技术服务"
+      ],
+      "tier": "潜力 | 高成长",
+      "district": "越秀区"
+    },
+    {
+      "name": "广州安达净水材料有限公司",
+      "track": 3,
+      "score": 72,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "反渗透膜、超滤膜等水处理药剂（应用于海水淡化、纯水处理）"
+      ],
+      "tier": "潜力 | 高成长",
+      "district": "花都区"
+    },
+    {
+      "name": "广州寿司郎餐饮有限公司",
+      "track": 0,
+      "score": 72,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海水产品特色正餐服务"
+      ],
+      "tier": "潜力 | 高成长",
+      "district": "天河区"
+    },
+    {
+      "name": "广州岭南花园大角山酒店发展有限公司",
+      "track": 3,
+      "score": 72,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海洋餐饮、酒店"
+      ],
+      "tier": "潜力 | 高成长",
+      "district": "南沙区"
+    },
+    {
+      "name": "广州市三鼎油品运输有限公司",
+      "track": 4,
+      "score": 72,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "国际船舶运输、内贸液货危险品运输，海上油品运输,国际海运代理业务"
+      ],
+      "tier": "潜力 | 高成长",
+      "district": "南沙区"
+    },
+    {
+      "name": "广州市交通设计研究院有限公司",
+      "track": 3,
+      "score": 72,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海洋工程技术服务"
+      ],
+      "tier": "潜力 | 高成长",
+      "district": "番禺区"
+    },
+    {
+      "name": "广州市佳境水处理技术工程有限公司",
+      "track": 4,
+      "score": 72,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "船舶污水处理领域"
+      ],
+      "tier": "潜力 | 高成长",
+      "district": "黄埔区"
+    },
+    {
+      "name": "广州市假日通国际旅行社有限公司",
+      "track": 3,
+      "score": 72,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "国内旅游业务、出入境旅游业务"
+      ],
+      "tier": "潜力 | 高成长",
+      "district": "越秀区"
+    },
+    {
+      "name": "广州市公路实业发展有限公司",
+      "track": 3,
+      "score": 72,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "跨海桥梁"
+      ],
+      "tier": "潜力 | 高成长",
+      "district": "天河区"
+    },
+    {
+      "name": "广州市卡威尔酒店有限公司",
+      "track": 3,
+      "score": 72,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海洋餐饮、酒店"
+      ],
+      "tier": "潜力 | 高成长",
+      "district": "海珠区"
+    },
+    {
+      "name": "广州市品成物流有限公司",
+      "track": 3,
+      "score": 72,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "国际货运代理、货物进出口、仓储服务"
+      ],
+      "tier": "潜力 | 高成长",
+      "district": "南沙区"
+    },
+    {
+      "name": "广州市声讯电子科技股份有限公司",
+      "track": 4,
+      "score": 72,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "海洋工程装备",
+        "军警、应急“声防”（舰载强声驱散产品）"
+      ],
+      "tier": "潜力 | 高成长",
+      "district": "白云区"
+    },
+    {
+      "name": "广州市市政工程试验检测有限公司",
+      "track": 3,
+      "score": 72,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海洋工程检测"
+      ],
+      "tier": "潜力 | 高成长",
+      "district": "越秀区"
+    },
+    {
+      "name": "广州市广州宾馆有限公司",
+      "track": 3,
+      "score": 72,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海洋餐饮、酒店"
+      ],
+      "tier": "潜力 | 高成长",
+      "district": "越秀区"
+    },
+    {
+      "name": "广州市斯睿特智能科技有限公司",
+      "track": 4,
+      "score": 72,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "海洋工程装备",
+        "工业AI人工智能解决方案研发、生产及应用，其中智能 AI+CV 技术应用于海洋行"
+      ],
+      "tier": "潜力 | 高成长",
+      "district": "黄埔区"
+    },
+    {
+      "name": "广州市水濑餐饮管理有限公司",
+      "track": 0,
+      "score": 72,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海水产品特色正餐服务"
+      ],
+      "tier": "潜力 | 高成长",
+      "district": "天河区"
+    },
+    {
+      "name": "广州市海诚国际货运代理有限公司",
+      "track": 3,
+      "score": 72,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "国际货运代理、跨境电商物流、海运订舱"
+      ],
+      "tier": "潜力 | 高成长",
+      "district": "南沙区"
+    },
+    {
+      "name": "广州市环旅旅行社有限公司",
+      "track": 3,
+      "score": 72,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "国内旅游业务、出入境旅游业务"
+      ],
+      "tier": "潜力 | 高成长",
+      "district": "天河区"
+    },
+    {
+      "name": "广州市百福电气设备有限公司",
+      "track": 4,
+      "score": 72,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "海洋工程装备",
+        "光伏扬水系统（应用于海水淡化工程）"
+      ],
+      "tier": "潜力 | 高成长",
+      "district": "荔湾区"
+    },
+    {
+      "name": "广州市礼顿酒店有限公司",
+      "track": 3,
+      "score": 72,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海洋餐饮、酒店"
+      ],
+      "tier": "潜力 | 高成长",
+      "district": "天河区"
+    },
+    {
+      "name": "广州市秀祥船舶制造有限公司",
+      "track": 4,
+      "score": 72,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "海洋工程装备",
+        "造船"
+      ],
+      "tier": "潜力 | 高成长",
+      "district": "番禺区"
+    },
+    {
+      "name": "广州市科尔海悦酒店有限公司",
+      "track": 3,
+      "score": 72,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海洋餐饮、酒店"
+      ],
+      "tier": "潜力 | 高成长",
+      "district": "番禺区"
+    },
+    {
+      "name": "广州市维多利酒店管理有限公司",
+      "track": 3,
+      "score": 72,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海洋餐饮、酒店"
+      ],
+      "tier": "潜力 | 高成长",
+      "district": "天河区"
+    },
+    {
+      "name": "广州市莱帝亚照明股份有限公司",
+      "track": 4,
+      "score": 72,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "海洋工程装备",
+        "港口照明工程"
+      ],
+      "tier": "潜力 | 高成长",
+      "district": "花都区"
+    },
+    {
+      "name": "广州帝都酒店管理有限公司",
+      "track": 3,
+      "score": 72,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海洋餐饮、酒店"
+      ],
+      "tier": "潜力 | 高成长",
+      "district": "天河区"
+    },
+    {
+      "name": "广州慧庭酒店管理有限公司",
+      "track": 3,
+      "score": 72,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海洋餐饮、酒店"
+      ],
+      "tier": "潜力 | 高成长",
+      "district": "天河区"
+    },
+    {
+      "name": "广州拓威天海国际物流有限公司",
+      "track": 3,
+      "score": 72,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海上国际货物运输代理"
+      ],
+      "tier": "高成长",
+      "district": ""
+    },
+    {
+      "name": "广州易起行信息技术有限公司",
+      "track": 3,
+      "score": 72,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "文旅信息化服务（含海洋旅游）"
+      ],
+      "tier": "潜力 | 高成长",
+      "district": "白云区"
+    },
+    {
+      "name": "广州晔雅酒店管理有限公司",
+      "track": 3,
+      "score": 72,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海洋餐饮、酒店"
+      ],
+      "tier": "潜力 | 高成长",
+      "district": "天河区"
+    },
+    {
+      "name": "广州桓乐生态环境科技有限公司",
+      "track": 0,
+      "score": 72,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海洋环境技术服务、海洋气象服务"
+      ],
+      "tier": "潜力 | 高成长",
+      "district": "南沙区"
+    },
+    {
+      "name": "广州正源生物技术有限公司",
+      "track": 2,
+      "score": 72,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海洋生物技术服务"
+      ],
+      "tier": "潜力 | 高成长",
+      "district": "南沙区"
+    },
+    {
+      "name": "广州海兰图检测技术有限公司",
+      "track": 0,
+      "score": 72,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海洋气象、海洋生态监测、海洋测绘"
+      ],
+      "tier": "潜力 | 高成长",
+      "district": "南沙区"
+    },
+    {
+      "name": "广州海卓船舶技术有限公司",
+      "track": 4,
+      "score": 72,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "海洋工程装备",
+        "船舶配套"
+      ],
+      "tier": "潜力 | 高成长",
+      "district": "增城区"
+    },
+    {
+      "name": "广州海工船舶设备有限公司",
+      "track": 4,
+      "score": 72,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "海洋工程装备",
+        "动力系统"
+      ],
+      "tier": "潜力 | 高成长",
+      "district": "番禺区"
+    },
+    {
+      "name": "广州海格星航信息科技有限公司",
+      "track": 3,
+      "score": 72,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海洋卫星导航服务、海洋数据服务"
+      ],
+      "tier": "潜力 | 高成长",
+      "district": "黄埔区"
+    },
+    {
+      "name": "广州海格晶维信息产业有限公司",
+      "track": 4,
+      "score": 72,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "海洋工程装备",
+        "导航终端制造、卫星导航服务"
+      ],
+      "tier": "潜力 | 高成长",
+      "district": "黄埔区"
+    },
+    {
+      "name": "广州涵文国际货运代理有限公司",
+      "track": 3,
+      "score": 72,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海上国际货物运输代理"
+      ],
+      "tier": "潜力 | 高成长",
+      "district": "越秀区"
+    },
+    {
+      "name": "广州渔民新村餐饮企业管理有限公司",
+      "track": 0,
+      "score": 72,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海水产品特色正餐服务"
+      ],
+      "tier": "潜力 | 高成长",
+      "district": "天河区"
+    },
+    {
+      "name": "广州港船务有限公司",
+      "track": 4,
+      "score": 72,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "港口船舶拖带、引航协助、货物装卸等"
+      ],
+      "tier": "潜力 | 高成长",
+      "district": "黄埔区"
+    },
+    {
+      "name": "广州源美生物科技发展有限公司",
+      "track": 0,
+      "score": 72,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海洋科技推广与交流服务（生物技术类）"
+      ],
+      "tier": "潜力 | 高成长",
+      "district": "南沙区"
+    },
+    {
+      "name": "广州澳兴光电传输科技股份有限公司",
+      "track": 4,
+      "score": 72,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "舰船电力电缆、舰船控制电缆等舰船电缆的研发、生产与销售"
+      ],
+      "tier": "潜力 | 高成长",
+      "district": "黄埔区"
+    },
+    {
+      "name": "广州烈扬旅行社有限公司",
+      "track": 3,
+      "score": 72,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "国内旅游业务、出入境旅游业务"
+      ],
+      "tier": "潜力 | 高成长",
+      "district": "番禺区"
+    },
+    {
+      "name": "广州睿海海洋科技有限公司",
+      "track": 4,
+      "score": 72,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海洋观测装备研发"
+      ],
+      "tier": "潜力 | 高成长",
+      "district": "南沙区"
+    },
+    {
+      "name": "广州磐钴智能科技有限公司",
+      "track": 4,
+      "score": 72,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "海洋工程装备",
+        "海上作业定位终端"
+      ],
+      "tier": "潜力 | 高成长",
+      "district": "黄埔区"
+    },
+    {
+      "name": "广州粤科工程技术有限公司",
+      "track": 3,
+      "score": 72,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海洋工程管理服务"
+      ],
+      "tier": "潜力 | 高成长",
+      "district": "白云区"
+    },
+    {
+      "name": "广州纯科环保科技有限公司",
+      "track": 4,
+      "score": 72,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "海洋工程装备",
+        "海水淡化设备"
+      ],
+      "tier": "潜力 | 高成长",
+      "district": "白云区"
+    },
+    {
+      "name": "广州至远海洋科技有限公司",
+      "track": 1,
+      "score": 72,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海洋信息采集服务（海洋测绘、水文水质采集调查）"
+      ],
+      "tier": "潜力 | 高成长",
+      "district": "海珠区"
+    },
+    {
+      "name": "广州荣达海运物流科技有限公司",
+      "track": 4,
+      "score": 72,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海运物流、国际货运代理、船舶管理"
+      ],
+      "tier": "潜力 | 高成长",
+      "district": "黄埔区"
+    },
+    {
+      "name": "广州西行印迹旅行社有限公司",
+      "track": 3,
+      "score": 72,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "国内旅游业务、入境旅游业务"
+      ],
+      "tier": "潜力 | 高成长",
+      "district": "海珠区"
+    },
+    {
+      "name": "广州象游玩旅行社有限公司",
+      "track": 3,
+      "score": 72,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "国内旅游业务、入境旅游业务"
+      ],
+      "tier": "潜力 | 高成长",
+      "district": "天河区"
+    },
+    {
+      "name": "广州赛威能源科技有限公司",
+      "track": 4,
+      "score": 72,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "海洋工程装备",
+        "通用机械设备"
+      ],
+      "tier": "潜力 | 高成长",
+      "district": "增城区"
+    },
+    {
+      "name": "广州金介福金属制品有限公司",
+      "track": 4,
+      "score": 72,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "港口货物装卸搬运活动、船舶改装、金属船舶制造、非金属船舶制造、船用配套设备制造"
+      ],
+      "tier": "潜力 | 高成长",
+      "district": "南沙区"
+    },
+    {
+      "name": "广州铁路机车配件厂有限公司",
+      "track": 4,
+      "score": 72,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "滤清器及供油单元模块生产（可用于船舶、海洋石油平台）"
+      ],
+      "tier": "潜力 | 高成长",
+      "district": "花都区"
+    },
+    {
+      "name": "广州阮叔叔海鲜饭店有限公司",
+      "track": 0,
+      "score": 72,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海水产品特色正餐服务"
+      ],
+      "tier": "潜力 | 高成长",
+      "district": "天河区"
+    },
+    {
+      "name": "广州雪之旅国际旅行社有限公司",
+      "track": 3,
+      "score": 72,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "国内旅游业务、出入境旅游业务"
+      ],
+      "tier": "潜力 | 高成长",
+      "district": "天河区"
+    },
+    {
+      "name": "广州首旅建国酒店有限公司",
+      "track": 3,
+      "score": 72,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海洋餐饮、酒店"
+      ],
+      "tier": "潜力 | 高成长",
+      "district": "天河区"
+    },
+    {
+      "name": "广州骏星酒店有限公司",
+      "track": 3,
+      "score": 72,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海洋餐饮、酒店"
+      ],
+      "tier": "潜力 | 高成长",
+      "district": "越秀区"
+    },
+    {
+      "name": "广州高松渔池设备有限公司",
+      "track": 4,
+      "score": 72,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "海洋工程装备",
+        "水产品孵化养殖、活鲜暂养设备"
+      ],
+      "tier": "潜力 | 高成长",
+      "district": "荔湾区"
+    },
+    {
+      "name": "广州鸟鹏餐饮管理服务有限公司",
+      "track": 0,
+      "score": 72,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海水产品特色正餐服务"
+      ],
+      "tier": "潜力 | 高成长",
+      "district": "海珠区"
+    },
+    {
+      "name": "广州黄埔君澜酒店有限公司",
+      "track": 3,
+      "score": 72,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海洋餐饮、酒店"
+      ],
+      "tier": "潜力 | 高成长",
+      "district": "黄埔区"
+    },
+    {
+      "name": "量山建设控股集团有限公司",
+      "track": 3,
+      "score": 72,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "风电"
+      ],
+      "tier": "潜力 | 高成长",
+      "district": "番禺区"
+    },
+    {
+      "name": "万丰国际货运代理(广州)有限公司",
+      "track": 3,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "国际货运代理、海运订舱"
+      ],
+      "tier": "潜力",
+      "district": "黄埔区"
+    },
+    {
+      "name": "三合(广州)探测技术有限公司",
+      "track": 0,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海洋专业技术服务（探测监测）"
+      ],
+      "tier": "潜力",
+      "district": "海珠区"
+    },
+    {
+      "name": "中佑勘察设计有限公司",
+      "track": 1,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海洋工程勘察设计"
+      ],
+      "tier": "潜力",
+      "district": "白云区"
+    },
+    {
+      "name": "中国煤炭地质总局广东煤炭地质局勘查院",
+      "track": 1,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海洋地质调查、海洋环境调查"
+      ],
+      "tier": "潜力",
+      "district": "白云区"
+    },
+    {
+      "name": "中徽建筑科技(广州)有限公司",
+      "track": 0,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "海洋工程装备",
+        "一站式高端民宿解决方案（服务于滨海度假项目）"
+      ],
+      "tier": "潜力",
+      "district": "番禺区"
+    },
+    {
+      "name": "中海(广州)工程勘察设计有限公司",
+      "track": 1,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海洋工程勘察设计"
+      ],
+      "tier": "潜力",
+      "district": "番禺区"
+    },
+    {
+      "name": "中海云天(广东)海洋技术有限公司",
+      "track": 3,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海域使用技术服务、海洋工程技术服务"
+      ],
+      "tier": "潜力",
+      "district": "海珠区"
+    },
+    {
+      "name": "中环宇恩(广东)生态科技有限公司",
+      "track": 0,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海洋生态修复技术服务"
+      ],
+      "tier": "潜力",
+      "district": "天河区"
+    },
+    {
+      "name": "中科启迪光电子科技(广州)有限公司",
+      "track": 3,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "卫星通信研发（可应用于海洋领域）"
+      ],
+      "tier": "潜力",
+      "district": "黄埔区"
+    },
+    {
+      "name": "中科潜龙集团有限公司",
+      "track": 4,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海洋工程装备研发"
+      ],
+      "tier": "潜力",
+      "district": "番禺区"
+    },
+    {
+      "name": "中远海运(广州)有限公司",
+      "track": 3,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "从事国际航运、海上货物运输等核心涉海业务"
+      ],
+      "tier": "潜力",
+      "district": "海珠区"
+    },
+    {
+      "name": "丰名装配式建筑科技(广州)有限公司",
+      "track": 3,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "装配式建筑（篷房、膜结构）可用于海洋设施建设（如码头、海上平台）"
+      ],
+      "tier": "潜力",
+      "district": "番禺区"
+    },
+    {
+      "name": "伟世博货运(广州)有限公司",
+      "track": 3,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海上国际货物运输代理服务"
+      ],
+      "tier": "潜力",
+      "district": "越秀区"
+    },
+    {
+      "name": "华南泵业有限公司",
+      "track": 4,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "海洋工程装备",
+        "海水淡化高压泵"
+      ],
+      "tier": "潜力",
+      "district": "番禺区"
+    },
+    {
+      "name": "卓控海洋装备技术(广州)有限公司",
+      "track": 4,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海洋工程装备研发"
+      ],
+      "tier": "潜力",
+      "district": "南沙区"
+    },
+    {
+      "name": "大湾汉唯(广州)医药科技集团有限公司",
+      "track": 2,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海洋生物活性物质提取、纯化和合成"
+      ],
+      "tier": "潜力",
+      "district": "黄埔区"
+    },
+    {
+      "name": "广东万泰建设有限公司",
+      "track": 3,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海上风电"
+      ],
+      "tier": "潜力",
+      "district": "天河区"
+    },
+    {
+      "name": "广东三海环保科技有限公司",
+      "track": 0,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海洋环境评价服务"
+      ],
+      "tier": "潜力",
+      "district": "海珠区"
+    },
+    {
+      "name": "广东中外运船务代理有限公司",
+      "track": 4,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "国际船舶代理、船舶进出港手续办理、货物装卸代理"
+      ],
+      "tier": "潜力",
+      "district": "黄埔区"
+    },
+    {
+      "name": "广东中外运黄埔仓码有限公司",
+      "track": 3,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "集装箱装卸、仓储、驳船运输，国际中转及沿海运输"
+      ],
+      "tier": "潜力",
+      "district": "黄埔区"
+    },
+    {
+      "name": "广东中瑞海洋生态环境研究院有限公司",
+      "track": 0,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海洋信息采集服务"
+      ],
+      "tier": "潜力",
+      "district": "南沙区"
+    },
+    {
+      "name": "广东中科新微安全科技有限公司",
+      "track": 3,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "智慧海事、智慧港航"
+      ],
+      "tier": "潜力",
+      "district": "天河区"
+    },
+    {
+      "name": "广东中航水上设施建造有限公司",
+      "track": 4,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "海洋工程装备",
+        "游艇码头、水上浮桥、浮动平台、水上光伏"
+      ],
+      "tier": "潜力",
+      "district": "花都区"
+    },
+    {
+      "name": "广东中饲实业股份有限公司",
+      "track": 3,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "鲁鱼粉、智利鱼粉、美国白鱼粉等"
+      ],
+      "tier": "潜力",
+      "district": "荔湾区"
+    },
+    {
+      "name": "广东乌浦萨拉环保科技有限公司",
+      "track": 0,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "水处理技术服务"
+      ],
+      "tier": "潜力",
+      "district": "白云区"
+    },
+    {
+      "name": "广东云林信息工程技术股份有限公司",
+      "track": 0,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海洋生态调查、红树林保护等"
+      ],
+      "tier": "潜力",
+      "district": "黄埔区"
+    },
+    {
+      "name": "广东兴广建设工程有限公司",
+      "track": 3,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "港口与航道工程"
+      ],
+      "tier": "潜力",
+      "district": "番禺区"
+    },
+    {
+      "name": "广东凌氏船舶科技有限公司",
+      "track": 4,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "海洋工程装备",
+        "船舶配套"
+      ],
+      "tier": "潜力",
+      "district": "南沙区"
+    },
+    {
+      "name": "广东凯运国际供应链有限公司",
+      "track": 3,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海上国际货物运输代理"
+      ],
+      "tier": "潜力",
+      "district": "白云区"
+    },
+    {
+      "name": "广东创蓝海洋科技有限公司",
+      "track": 0,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海洋气象服务"
+      ],
+      "tier": "潜力",
+      "district": "南沙区"
+    },
+    {
+      "name": "广东力合规划设计有限公司",
+      "track": 3,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海洋规划"
+      ],
+      "tier": "潜力",
+      "district": "天河区"
+    },
+    {
+      "name": "广东勤建生活服务有限公司",
+      "track": 0,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "预包装食品销售、餐饮管理"
+      ],
+      "tier": "潜力",
+      "district": "天河区"
+    },
+    {
+      "name": "广东华工碧水环境技术有限公司",
+      "track": 0,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海洋环境技术服务"
+      ],
+      "tier": "潜力",
+      "district": "南沙区"
+    },
+    {
+      "name": "广东华球五洲供应链科技有限公司",
+      "track": 3,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "国际海运服务、铁海联运"
+      ],
+      "tier": "潜力",
+      "district": "白云区"
+    },
+    {
+      "name": "广东华风海洋信息系统服务有限公司",
+      "track": 3,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "智慧渔港"
+      ],
+      "tier": "潜力",
+      "district": "黄埔区"
+    },
+    {
+      "name": "广东南洋长胜酒店有限公司",
+      "track": 3,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海洋餐饮、酒店"
+      ],
+      "tier": "潜力",
+      "district": "天河区"
+    },
+    {
+      "name": "广东南粤生态科技有限公司",
+      "track": 0,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海洋生态环境修复、海洋生态调查、海洋生态规划咨询"
+      ],
+      "tier": "潜力",
+      "district": "天河区"
+    },
+    {
+      "name": "广东和润供应链管理有限公司",
+      "track": 3,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海上国际货物运输代理及国际货物运输代"
+      ],
+      "tier": "潜力",
+      "district": "白云区"
+    },
+    {
+      "name": "广东喜讯智能科技有限公司",
+      "track": 3,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海洋信息系统开发集成（智慧海事、智慧航道等领域）"
+      ],
+      "tier": "潜力",
+      "district": "黄埔区"
+    },
+    {
+      "name": "广东嘉鸿酒店有限公司",
+      "track": 3,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海洋餐饮、酒店"
+      ],
+      "tier": "潜力",
+      "district": "天河区"
+    },
+    {
+      "name": "广东国仕工程咨询有限公司",
+      "track": 3,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海洋工程咨询"
+      ],
+      "tier": "潜力",
+      "district": "花都区"
+    },
+    {
+      "name": "广东国规检测检验中心有限公司",
+      "track": 3,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "涉海检测检验技术服务"
+      ],
+      "tier": "潜力",
+      "district": "天河区"
+    },
+    {
+      "name": "广东大厦有限公司",
+      "track": 3,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海洋餐饮、酒店"
+      ],
+      "tier": "潜力",
+      "district": "越秀区"
+    },
+    {
+      "name": "广东天广能源科技发展有限公司",
+      "track": 0,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海上风电等设备测试、维护、检修技术服务"
+      ],
+      "tier": "潜力",
+      "district": "天河区"
+    },
+    {
+      "name": "广东宇恒空间信息技术有限公司",
+      "track": 3,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海洋调查"
+      ],
+      "tier": "潜力",
+      "district": "海珠区"
+    },
+    {
+      "name": "广东岭南设计院有限公司",
+      "track": 3,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海上风电研发和技术服务"
+      ],
+      "tier": "潜力",
+      "district": "天河区"
+    },
+    {
+      "name": "广东广海海洋勘探开发有限公司",
+      "track": 1,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海洋勘探、海洋工程勘察"
+      ],
+      "tier": "潜力",
+      "district": "越秀区"
+    },
+    {
+      "name": "广东广物国际物流投资发展有限公司",
+      "track": 3,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "国际物流、海运仓储、跨境供应链"
+      ],
+      "tier": "潜力",
+      "district": "白云区"
+    },
+    {
+      "name": "广东建愉建设有限公司",
+      "track": 1,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "渔港渔船泊位建设"
+      ],
+      "tier": "潜力",
+      "district": "天河区"
+    },
+    {
+      "name": "广东弘铠船务股份有限公司",
+      "track": 4,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "海洋工程装备",
+        "船舶配套"
+      ],
+      "tier": "潜力",
+      "district": "增城区"
+    },
+    {
+      "name": "广东惠华生物科技有限公司",
+      "track": 3,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "水产养殖增氧剂、水产养殖净水剂、水产养殖除藻剂、水产养殖消毒剂等"
+      ],
+      "tier": "潜力",
+      "district": "黄埔区"
+    },
+    {
+      "name": "广东意达国际货运有限公司",
+      "track": 3,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海运进出口货物代理,全球航线揽货、订舱、报关等海运全链条服务"
+      ],
+      "tier": "潜力",
+      "district": "越秀区"
+    },
+    {
+      "name": "广东慧图资环科技发展有限公司",
+      "track": 0,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海洋信息采集服务、海洋信息咨询服务"
+      ],
+      "tier": "潜力",
+      "district": "天河区"
+    },
+    {
+      "name": "广东拓威天海科技股份有限公司",
+      "track": 3,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海上国际货物运输代理"
+      ],
+      "tier": "潜力",
+      "district": "白云区"
+    },
+    {
+      "name": "广东拓谱康生物科技有限公司",
+      "track": 2,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海洋生物活性物质提取、纯化和合成"
+      ],
+      "tier": "潜力",
+      "district": "黄埔区"
+    },
+    {
+      "name": "广东文星酒店有限公司",
+      "track": 3,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海洋餐饮、酒店"
+      ],
+      "tier": "潜力",
+      "district": "天河区"
+    },
+    {
+      "name": "广东新天河宾馆有限公司",
+      "track": 3,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海洋餐饮、酒店"
+      ],
+      "tier": "潜力",
+      "district": "天河区"
+    },
+    {
+      "name": "广东新洁源环保技术有限公司",
+      "track": 4,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "海洋工程装备",
+        "海水淡化处理、海水污染治理设备"
+      ],
+      "tier": "潜力",
+      "district": "番禺区"
+    },
+    {
+      "name": "广东新牧源农牧科技有限公司",
+      "track": 0,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "水处理技术服务"
+      ],
+      "tier": "潜力",
+      "district": "番禺区"
+    },
+    {
+      "name": "广东新船重工有限公司",
+      "track": 4,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "海洋工程装备",
+        "船舶配套"
+      ],
+      "tier": "潜力",
+      "district": "南沙区"
+    },
+    {
+      "name": "广东旭普空间信息技术产业发展有限公司",
+      "track": 3,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海洋信息系统开发集成"
+      ],
+      "tier": "潜力",
+      "district": "天河区"
+    },
+    {
+      "name": "广东林工工业装备有限公司",
+      "track": 4,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "海洋工程装备",
+        "海水淡化处理、污水处理设备"
+      ],
+      "tier": "潜力",
+      "district": "南沙区"
+    },
+    {
+      "name": "广东正方圆工程咨询有限公司",
+      "track": 3,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海洋工程技术服务"
+      ],
+      "tier": "潜力",
+      "district": "越秀区"
+    },
+    {
+      "name": "广东水之源绿色产业研究有限公司",
+      "track": 4,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "海洋工程装备",
+        "水环境污染防治相关设备"
+      ],
+      "tier": "潜力",
+      "district": "番禺区"
+    },
+    {
+      "name": "广东汉渔生态科技有限公司",
+      "track": 0,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海洋渔业技术服务"
+      ],
+      "tier": "潜力",
+      "district": "番禺区"
+    },
+    {
+      "name": "广东泓禹生态环境科技有限公司",
+      "track": 0,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海洋环境技术服务"
+      ],
+      "tier": "潜力",
+      "district": "海珠区"
+    },
+    {
+      "name": "广东海吉机电设备有限公司",
+      "track": 4,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "海洋工程装备",
+        "船舶配套"
+      ],
+      "tier": "潜力",
+      "district": "黄埔区"
+    },
+    {
+      "name": "广东海工建设工程有限公司",
+      "track": 4,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海洋工程建筑"
+      ],
+      "tier": "潜力",
+      "district": "白云区"
+    },
+    {
+      "name": "广东海捷消防科技有限公司",
+      "track": 4,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "海洋工程装备",
+        "七氟丙烷、IG541等气体灭火系统及配套装置（应用于海洋平台、石油石化行业）"
+      ],
+      "tier": "潜力",
+      "district": "番禺区"
+    },
+    {
+      "name": "广东海盟海洋生物科技有限公司",
+      "track": 2,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "虾苗批发"
+      ],
+      "tier": "潜力",
+      "district": "番禺区"
+    },
+    {
+      "name": "广东海诚环保科技有限公司",
+      "track": 0,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "水处理技术服务"
+      ],
+      "tier": "潜力",
+      "district": "黄埔区"
+    },
+    {
+      "name": "广东港丰建设有限公司",
+      "track": 3,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "港口与航运设施建设"
+      ],
+      "tier": "潜力",
+      "district": "番禺区"
+    },
+    {
+      "name": "广东环科院环境科技有限公司",
+      "track": 0,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海洋环境服务"
+      ],
+      "tier": "潜力",
+      "district": "越秀区"
+    },
+    {
+      "name": "广东畜宝生态养殖有限公司",
+      "track": 3,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "水产品批发零售"
+      ],
+      "tier": "潜力",
+      "district": "番禺区"
+    },
+    {
+      "name": "广东盛翔交通工程检测有限公司",
+      "track": 3,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "桥梁检测服务"
+      ],
+      "tier": "潜力",
+      "district": "番禺区"
+    },
+    {
+      "name": "广东省华南技术转移中心有限公司",
+      "track": 0,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海洋技术推广服务"
+      ],
+      "tier": "潜力",
+      "district": "南沙区"
+    },
+    {
+      "name": "广东省华桑丽皙生物技术有限公司",
+      "track": 2,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "海洋生物医药",
+        "海洋藻类提取物护肤品"
+      ],
+      "tier": "潜力",
+      "district": "黄埔区"
+    },
+    {
+      "name": "广东省城规建设监理有限公司",
+      "track": 3,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海洋工程管理服务"
+      ],
+      "tier": "潜力",
+      "district": "白云区"
+    },
+    {
+      "name": "广东省环境保护工程研究设计院有限公司",
+      "track": 3,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "污水处理工程设计咨询"
+      ],
+      "tier": "潜力",
+      "district": "越秀区"
+    },
+    {
+      "name": "广东省环境科学研究院",
+      "track": 0,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海洋生态环境保护"
+      ],
+      "tier": "潜力",
+      "district": "黄埔区"
+    },
+    {
+      "name": "广东研理复合材料科技股份有限公司",
+      "track": 4,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "海洋工程装备",
+        "船舶配套、舵轴承"
+      ],
+      "tier": "潜力",
+      "district": "黄埔区"
+    },
+    {
+      "name": "广东绘星科技有限公司",
+      "track": 1,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海洋地质调查、勘探和评估服务"
+      ],
+      "tier": "潜力",
+      "district": "白云区"
+    },
+    {
+      "name": "广东羊城之旅旅游运输有限公司",
+      "track": 3,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "旅游包车、汽车租赁"
+      ],
+      "tier": "潜力",
+      "district": "南沙区"
+    },
+    {
+      "name": "广东航达建设集团有限公司",
+      "track": 3,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "港口码头建设"
+      ],
+      "tier": "潜力",
+      "district": "黄埔区"
+    },
+    {
+      "name": "广东蓝图信息技术有限公司",
+      "track": 3,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海洋综合管理、海域管理等软件解决方案"
+      ],
+      "tier": "潜力",
+      "district": "天河区"
+    },
+    {
+      "name": "广东融创高科检测鉴定有限公司",
+      "track": 3,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海洋工程检测技术服务"
+      ],
+      "tier": "潜力",
+      "district": "黄埔区"
+    },
+    {
+      "name": "广东财贸建设工程顾问有限公司",
+      "track": 3,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海洋工程管理服务"
+      ],
+      "tier": "潜力",
+      "district": "荔湾区"
+    },
+    {
+      "name": "广东越洲实业有限公司",
+      "track": 3,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "食品互联网销售，水产品批发零售"
+      ],
+      "tier": "潜力",
+      "district": "天河区"
+    },
+    {
+      "name": "广东道至正餐饮管理有限公司",
+      "track": 0,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海水产品特色正餐服务"
+      ],
+      "tier": "潜力",
+      "district": "越秀区"
+    },
+    {
+      "name": "广东锐创生态科技有限公司",
+      "track": 3,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海水养殖、水产品批发零售"
+      ],
+      "tier": "潜力",
+      "district": "南沙区"
+    },
+    {
+      "name": "广东雅建建设科技股份有限公司",
+      "track": 1,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "渔港渔船泊位建设"
+      ],
+      "tier": "潜力",
+      "district": "海珠区"
+    },
+    {
+      "name": "广东青航建设工程有限公司",
+      "track": 4,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海洋工程设计和模块设计制造"
+      ],
+      "tier": "潜力",
+      "district": "番禺区"
+    },
+    {
+      "name": "广东鼎顺杰建筑工程有限公司",
+      "track": 1,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "渔港渔船泊位建设"
+      ],
+      "tier": "潜力",
+      "district": "白云区"
+    },
+    {
+      "name": "广州一博环保科技有限公司",
+      "track": 0,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "水处理技术服务"
+      ],
+      "tier": "潜力",
+      "district": "海珠区"
+    },
+    {
+      "name": "广州一帆海上安全技术有限公司",
+      "track": 4,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "船舶自动化"
+      ],
+      "tier": "潜力",
+      "district": "海珠区"
+    },
+    {
+      "name": "广州万淋潍医疗科技有限公司",
+      "track": 1,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海洋工程关键配套系统开发"
+      ],
+      "tier": "潜力",
+      "district": "白云区"
+    },
+    {
+      "name": "广州三业科技有限公司",
+      "track": 4,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "海洋工程装备",
+        "智能柴油机水泵、船用轴带照明发电机自动电压调节器、船用火星熄灭器等"
+      ],
+      "tier": "潜力",
+      "district": "越秀区"
+    },
+    {
+      "name": "广州三海海洋工程勘察设计有限公司",
+      "track": 1,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海洋工程勘察设计、海洋测绘、海洋调查"
+      ],
+      "tier": "潜力",
+      "district": "海珠区"
+    },
+    {
+      "name": "广州上都城市规划设计有限公司",
+      "track": 0,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海洋规划咨询服务"
+      ],
+      "tier": "潜力",
+      "district": "天河区"
+    },
+    {
+      "name": "广州东逸湾酒店有限公司",
+      "track": 3,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海洋餐饮、酒店"
+      ],
+      "tier": "潜力",
+      "district": "越秀区"
+    },
+    {
+      "name": "广州中勘工程科技有限公司",
+      "track": 1,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海洋地质调查"
+      ],
+      "tier": "潜力",
+      "district": "黄埔区"
+    },
+    {
+      "name": "广州中商航运有限公司",
+      "track": 4,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "国际航运、船舶代理、货运代"
+      ],
+      "tier": "潜力",
+      "district": "南沙区"
+    },
+    {
+      "name": "广州中海达定位技术有限公司",
+      "track": 3,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海洋环境监测领域"
+      ],
+      "tier": "潜力",
+      "district": "番禺区"
+    },
+    {
+      "name": "广州中科碧疆环保科技有限公司",
+      "track": 0,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海洋环保技术服务"
+      ],
+      "tier": "潜力",
+      "district": "天河区"
+    },
+    {
+      "name": "广州中航环保科技有限公司",
+      "track": 4,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "海洋工程装备",
+        "水产与水族工程、设备（服务于海洋馆与水族馆）"
+      ],
+      "tier": "潜力",
+      "district": "番禺区"
+    },
+    {
+      "name": "广州丽柏酒店有限公司",
+      "track": 3,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海洋餐饮、酒店"
+      ],
+      "tier": "潜力",
+      "district": "天河区"
+    },
+    {
+      "name": "广州乐派网国际旅行社有限公司",
+      "track": 3,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "国内旅游业务、出入境旅游业务"
+      ],
+      "tier": "潜力",
+      "district": "越秀区"
+    },
+    {
+      "name": "广州乐逸旅行社有限公司",
+      "track": 3,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "国内旅游业务、入境旅游业务"
+      ],
+      "tier": "潜力",
+      "district": "番禺区"
+    },
+    {
+      "name": "广州亚申电气设备有限公司",
+      "track": 4,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "海洋工程装备",
+        "电力电子元器件制造"
+      ],
+      "tier": "潜力",
+      "district": "海珠区"
+    },
+    {
+      "name": "广州京海航运有限公司",
+      "track": 3,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海上货物运输"
+      ],
+      "tier": "潜力",
+      "district": "南沙区"
+    },
+    {
+      "name": "广州任行游国际旅行社有限公司",
+      "track": 3,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "国内旅游业务、入境旅游业务"
+      ],
+      "tier": "潜力",
+      "district": "越秀区"
+    },
+    {
+      "name": "广州优倍国际物流有限公司",
+      "track": 0,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "国际海运代理服务"
+      ],
+      "tier": "潜力",
+      "district": "天河区"
+    },
+    {
+      "name": "广州优卡思农业技术有限公司",
+      "track": 4,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海藻提取物肥料产品研发、生产、制造"
+      ],
+      "tier": "潜力",
+      "district": "白云区"
+    },
+    {
+      "name": "广州信诺船舶服务有限公司",
+      "track": 4,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "海洋工程装备",
+        "船舶配套"
+      ],
+      "tier": "潜力",
+      "district": "黄埔区"
+    },
+    {
+      "name": "广州元创旅游文化发展有限公司",
+      "track": 3,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "旅游项目规划、文旅产品开发"
+      ],
+      "tier": "潜力",
+      "district": "黄埔区"
+    },
+    {
+      "name": "广州兆隆渔业捕捞技术咨询有限公司",
+      "track": 0,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海洋信息咨询服务（海洋渔业领域）"
+      ],
+      "tier": "潜力",
+      "district": "天河区"
+    },
+    {
+      "name": "广州全康环保设备有限公司",
+      "track": 3,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "污水处理领域"
+      ],
+      "tier": "潜力",
+      "district": "番禺区"
+    },
+    {
+      "name": "广州兴晟水处理设备有限公司",
+      "track": 4,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "海洋工程装备",
+        "水污染治理设备"
+      ],
+      "tier": "潜力",
+      "district": "番禺区"
+    },
+    {
+      "name": "广州凯能电器科技有限公司",
+      "track": 4,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "海洋工程装备",
+        "高温热泵烘干机（适用于海产品烘干）"
+      ],
+      "tier": "潜力",
+      "district": "花都区"
+    },
+    {
+      "name": "广州华建勘测技术有限公司",
+      "track": 1,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "工程水文勘察"
+      ],
+      "tier": "潜力",
+      "district": "花都区"
+    },
+    {
+      "name": "广州华申建设工程管理有限公司",
+      "track": 3,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海洋工程监理咨询"
+      ],
+      "tier": "潜力",
+      "district": "南沙区"
+    },
+    {
+      "name": "广州华荟酒店管理有限公司",
+      "track": 3,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海洋餐饮、酒店"
+      ],
+      "tier": "潜力",
+      "district": "黄埔区"
+    },
+    {
+      "name": "广州华银医学研究所有限公司",
+      "track": 3,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "医学检验"
+      ],
+      "tier": "潜力",
+      "district": "黄埔区"
+    },
+    {
+      "name": "广州南华工程管理有限公司",
+      "track": 3,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海洋工程管理服务"
+      ],
+      "tier": "潜力",
+      "district": "海珠区"
+    },
+    {
+      "name": "广州南沙区澳鑫水产科技有限公司",
+      "track": 0,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海洋渔业技术服务（南沙青蟹）"
+      ],
+      "tier": "潜力",
+      "district": "南沙区"
+    },
+    {
+      "name": "广州南沙游艇会管理有限公司",
+      "track": 0,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "游艇及相关服务、水上运动"
+      ],
+      "tier": "潜力",
+      "district": "南沙区"
+    },
+    {
+      "name": "广州南雪医疗器械有限公司",
+      "track": 2,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "海洋生物医药",
+        "壳聚糖（来源于虾、蟹等海洋甲壳类生物）原料医疗器械"
+      ],
+      "tier": "潜力",
+      "district": "白云区"
+    },
+    {
+      "name": "广州博士信息技术研究院有限公司",
+      "track": 3,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海洋科技推广与交流服务"
+      ],
+      "tier": "潜力",
+      "district": "黄埔区"
+    },
+    {
+      "name": "广州博士派生物科技有限公司",
+      "track": 2,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海洋生物活性物质提取、纯化和合成"
+      ],
+      "tier": "潜力",
+      "district": "黄埔区"
+    },
+    {
+      "name": "广州博森物流科技有限公司",
+      "track": 1,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海洋工程关键配套系统开发"
+      ],
+      "tier": "潜力",
+      "district": "黄埔区"
+    },
+    {
+      "name": "广州即通国际供应链股份有限公司",
+      "track": 3,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海上国际货物运输代理及无船承运业务"
+      ],
+      "tier": "潜力",
+      "district": "南沙区"
+    },
+    {
+      "name": "广州发展新能源集团股份有限公司",
+      "track": 3,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "风力发电（包含海上风电）"
+      ],
+      "tier": "潜力",
+      "district": "天河区"
+    },
+    {
+      "name": "广州发展航运有限公司",
+      "track": 3,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "国内沿海及国际海上货物运输"
+      ],
+      "tier": "潜力",
+      "district": "南沙区"
+    },
+    {
+      "name": "广州合昕环境科技有限公司",
+      "track": 0,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "生态修复技术研发"
+      ],
+      "tier": "潜力",
+      "district": "黄埔区"
+    },
+    {
+      "name": "广州吉洋船舶工程有限公司",
+      "track": 4,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "海洋工程装备",
+        "船舶配套"
+      ],
+      "tier": "潜力",
+      "district": "黄埔区"
+    },
+    {
+      "name": "广州同藜环境科技有限公司",
+      "track": 0,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "水处理技术服务"
+      ],
+      "tier": "潜力",
+      "district": "海珠区"
+    },
+    {
+      "name": "广州和时通水生态科技有限公司",
+      "track": 4,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "海洋工程装备",
+        "浮标、监测无人船"
+      ],
+      "tier": "潜力",
+      "district": "番禺区"
+    },
+    {
+      "name": "广州喜象化妆品有限公司",
+      "track": 3,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "日用品（海藻提取物）"
+      ],
+      "tier": "潜力",
+      "district": "南沙区"
+    },
+    {
+      "name": "广州声华科技股份有限公司",
+      "track": 4,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "船舶、桥梁无损检测"
+      ],
+      "tier": "潜力",
+      "district": "黄埔区"
+    },
+    {
+      "name": "广州壹号唐厨餐饮有限公司",
+      "track": 0,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海水产品特色正餐服务"
+      ],
+      "tier": "潜力",
+      "district": "天河区"
+    },
+    {
+      "name": "广州大气候农业科技有限公司",
+      "track": 3,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "智慧渔业"
+      ],
+      "tier": "潜力",
+      "district": "天河区"
+    },
+    {
+      "name": "广州天勤数字科技有限公司",
+      "track": 3,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "无人机巡检系统"
+      ],
+      "tier": "潜力",
+      "district": "天河区"
+    },
+    {
+      "name": "广州天州物流供应链有限公司",
+      "track": 3,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海上国际货物运输代理、无船承运业务及港口货物装卸搬运活动"
+      ],
+      "tier": "潜力",
+      "district": "白云区"
+    },
+    {
+      "name": "广州天河利苑酒家有限公司",
+      "track": 0,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海水产品特色正餐服务"
+      ],
+      "tier": "潜力",
+      "district": "天河区"
+    },
+    {
+      "name": "广州天韵达新材料科技有限公司",
+      "track": 4,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "海洋工程装备",
+        "海上装备腐蚀监测与安全预警系统"
+      ],
+      "tier": "潜力",
+      "district": "南沙区"
+    },
+    {
+      "name": "广州奕极机电科技有限公司",
+      "track": 4,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "海洋工程装备",
+        "船舶配套"
+      ],
+      "tier": "潜力",
+      "district": "黄埔区"
+    },
+    {
+      "name": "广州宇跃自动化设备有限公司",
+      "track": 4,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "海洋工程装备",
+        "自动化输送设备等智能物流装备，可用于港口、航运等行业"
+      ],
+      "tier": "潜力",
+      "district": "番禺区"
+    },
+    {
+      "name": "广州安芮洁环保科技有限公司",
+      "track": 2,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海洋生物技术服务"
+      ],
+      "tier": "潜力",
+      "district": "天河区"
+    },
+    {
+      "name": "广州尚准仪器设备股份有限公司",
+      "track": 4,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "海洋工程装备",
+        "仪器仪表修理、元件器件制作"
+      ],
+      "tier": "潜力",
+      "district": "黄埔区"
+    },
+    {
+      "name": "广州山河物流有限公司",
+      "track": 3,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "东西远洋航线及亚洲区内航线港口仓储、装卸等服务"
+      ],
+      "tier": "潜力",
+      "district": "南沙区"
+    },
+    {
+      "name": "广州山海船用配套设备有限公司",
+      "track": 4,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "海洋工程装备",
+        "船舶配套"
+      ],
+      "tier": "潜力",
+      "district": "荔湾区"
+    },
+    {
+      "name": "广州市中凯联物流有限公司",
+      "track": 3,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "无船承运、国际货物运输代理"
+      ],
+      "tier": "潜力",
+      "district": "天河区"
+    },
+    {
+      "name": "广州市乐动体育发展有限公司",
+      "track": 0,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海洋体育服务"
+      ],
+      "tier": "潜力",
+      "district": "增城区"
+    },
+    {
+      "name": "广州市亚大国际货运代理有限公司",
+      "track": 3,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海上国际货物运输代理服务"
+      ],
+      "tier": "潜力",
+      "district": "白云区"
+    },
+    {
+      "name": "广州市健坤网络科技发展有限公司",
+      "track": 3,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海洋信息系统开发集成（海洋牧场领域）"
+      ],
+      "tier": "潜力",
+      "district": "天河区"
+    },
+    {
+      "name": "广州市克莱顿酒店有限公司",
+      "track": 3,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海洋餐饮、酒店"
+      ],
+      "tier": "潜力",
+      "district": "天河区"
+    },
+    {
+      "name": "广州市前锋水上运动器材用品有限公司",
+      "track": 4,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "水上运动用品制造"
+      ],
+      "tier": "潜力",
+      "district": "海珠区"
+    },
+    {
+      "name": "广州市勤思网络科技有限公司",
+      "track": 3,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "智慧海事、智慧港航系统"
+      ],
+      "tier": "潜力",
+      "district": "番禺区"
+    },
+    {
+      "name": "广州市华绿环保科技有限公司",
+      "track": 0,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "废水处理服务"
+      ],
+      "tier": "潜力",
+      "district": "黄埔区"
+    },
+    {
+      "name": "广州市卓爵建筑工程有限公司",
+      "track": 3,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "港口工程建筑"
+      ],
+      "tier": "潜力",
+      "district": "天河区"
+    },
+    {
+      "name": "广州市南洋通物流有限公司",
+      "track": 3,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "无船承运业务、跨境海运代理"
+      ],
+      "tier": "潜力",
+      "district": "南沙区"
+    },
+    {
+      "name": "广州市博览大通旅游汽车有限公司",
+      "track": 3,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "旅游客运"
+      ],
+      "tier": "潜力",
+      "district": "黄埔区"
+    },
+    {
+      "name": "广州市合景创展酒店有限公司",
+      "track": 3,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海洋餐饮、酒店"
+      ],
+      "tier": "潜力",
+      "district": "天河区"
+    },
+    {
+      "name": "广州市君丰供应链服务有限公司",
+      "track": 3,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "无船承运业务及海上国际货物运输代理"
+      ],
+      "tier": "潜力",
+      "district": "白云区"
+    },
+    {
+      "name": "广州市嘉诚国际物流股份有限公司",
+      "track": 0,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "跨境电商海运专线服务"
+      ],
+      "tier": "潜力",
+      "district": "番禺区"
+    },
+    {
+      "name": "广州市嘉逸国际酒店有限公司",
+      "track": 3,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海洋餐饮、酒店"
+      ],
+      "tier": "潜力",
+      "district": "天河区"
+    },
+    {
+      "name": "广州市四海一家餐饮有限公司",
+      "track": 0,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海水产品特色正餐服务"
+      ],
+      "tier": "潜力",
+      "district": "番禺区"
+    },
+    {
+      "name": "广州市国际工程咨询有限公司",
+      "track": 3,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海洋工程咨询"
+      ],
+      "tier": "潜力",
+      "district": "越秀区"
+    },
+    {
+      "name": "广州市坚丽实业有限公司",
+      "track": 0,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海洋电力技术服务"
+      ],
+      "tier": "潜力",
+      "district": "白云区"
+    },
+    {
+      "name": "广州市城市建设工程监理有限公司",
+      "track": 1,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海洋测绘、海洋工程监理"
+      ],
+      "tier": "潜力",
+      "district": "越秀区"
+    },
+    {
+      "name": "广州市天厨供应链科技有限公司",
+      "track": 3,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "团餐及食材配送（含海洋水产品）、现代农业全产业链综合服务"
+      ],
+      "tier": "潜力",
+      "district": "天河区"
+    },
+    {
+      "name": "广州市天地帆布有限公司",
+      "track": 3,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "港口专用防水篷布"
+      ],
+      "tier": "潜力",
+      "district": "白云区"
+    },
+    {
+      "name": "广州市弗雷德环保科技有限公司",
+      "track": 0,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "水处理技术服务"
+      ],
+      "tier": "潜力",
+      "district": "白云区"
+    },
+    {
+      "name": "广州市房实建设工程管理有限公司",
+      "track": 3,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海洋工程管理服务"
+      ],
+      "tier": "潜力",
+      "district": "越秀区"
+    },
+    {
+      "name": "广州市新航科技有限公司",
+      "track": 4,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "海洋工程装备",
+        "航标灯"
+      ],
+      "tier": "潜力",
+      "district": "黄埔区"
+    },
+    {
+      "name": "广州市旭升环保工程有限公司",
+      "track": 4,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "海洋工程装备",
+        "海水淡化设备、船舶岛屿专用水处理"
+      ],
+      "tier": "潜力",
+      "district": "番禺区"
+    },
+    {
+      "name": "广州市明道文化产业发展有限公司",
+      "track": 3,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海洋旅游开发"
+      ],
+      "tier": "潜力",
+      "district": "花都区"
+    },
+    {
+      "name": "广州市朗信租赁有限公司",
+      "track": 4,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "船舶租赁"
+      ],
+      "tier": "潜力",
+      "district": "南沙区"
+    },
+    {
+      "name": "广州市椰林海鲜餐饮有限公司",
+      "track": 0,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海水产品特色正餐服务"
+      ],
+      "tier": "潜力",
+      "district": "增城区"
+    },
+    {
+      "name": "广州市欣海利生生物科技有限公司",
+      "track": 3,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "水产品批发"
+      ],
+      "tier": "潜力",
+      "district": "海珠区"
+    },
+    {
+      "name": "广州市江达潜水疏浚工程有限公司",
+      "track": 3,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "水下工程服务"
+      ],
+      "tier": "潜力",
+      "district": "黄埔区"
+    },
+    {
+      "name": "广州市江通燃料有限公司",
+      "track": 4,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "石油制品销售"
+      ],
+      "tier": "潜力",
+      "district": "天河区"
+    },
+    {
+      "name": "广州市浩泽环境技术有限公司",
+      "track": 4,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "海洋工程装备",
+        "污水处理设备"
+      ],
+      "tier": "潜力",
+      "district": "番禺区"
+    },
+    {
+      "name": "广州市海怡星河湾酒店有限公司",
+      "track": 3,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海洋餐饮、酒店"
+      ],
+      "tier": "潜力",
+      "district": "番禺区"
+    },
+    {
+      "name": "广州市海盾工程装备有限公司",
+      "track": 4,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "桥梁、码头用复合材料防撞设施"
+      ],
+      "tier": "潜力",
+      "district": "番禺区"
+    },
+    {
+      "name": "广州市海豚机电设备有限公司",
+      "track": 4,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "海洋工程装备",
+        "船舶配套"
+      ],
+      "tier": "潜力",
+      "district": "黄埔区"
+    },
+    {
+      "name": "广州市海通机电科技有限公司",
+      "track": 4,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "海洋工程装备",
+        "船舶配套"
+      ],
+      "tier": "潜力",
+      "district": "黄埔区"
+    },
+    {
+      "name": "广州市炳胜私厨餐饮有限公司",
+      "track": 0,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海水产品特色正餐服务"
+      ],
+      "tier": "潜力",
+      "district": "天河区"
+    },
+    {
+      "name": "广州市炳胜风味餐饮有限公司",
+      "track": 0,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海水产品特色正餐服务"
+      ],
+      "tier": "潜力",
+      "district": "天河区"
+    },
+    {
+      "name": "广州市珠江机床厂有限公司",
+      "track": 4,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海洋工程装备研发"
+      ],
+      "tier": "潜力",
+      "district": "番禺区"
+    },
+    {
+      "name": "广州市番禺区通达运输有限公司",
+      "track": 3,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "公路旅客运输"
+      ],
+      "tier": "潜力",
+      "district": "番禺区"
+    },
+    {
+      "name": "广州市番禺宾馆有限公司",
+      "track": 0,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海水产品特色正餐服务"
+      ],
+      "tier": "潜力",
+      "district": "番禺区"
+    },
+    {
+      "name": "广州市番高领航科技有限公司",
+      "track": 4,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "海洋工程装备",
+        "监测无人船"
+      ],
+      "tier": "潜力",
+      "district": "南沙区"
+    },
+    {
+      "name": "广州市科轮动力机械有限公司",
+      "track": 4,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "海洋工程装备",
+        "船用柴油机"
+      ],
+      "tier": "潜力",
+      "district": "荔湾区"
+    },
+    {
+      "name": "广州市绿盈一分汽车服务有限公司",
+      "track": 3,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "公路旅客运输"
+      ],
+      "tier": "潜力",
+      "district": "白云区"
+    },
+    {
+      "name": "广州市肽汇生物科技有限公司",
+      "track": 2,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海洋生物技术服务"
+      ],
+      "tier": "潜力",
+      "district": "南沙区"
+    },
+    {
+      "name": "广州市航商国际船舶代理有限公司",
+      "track": 4,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "国际船舶代理业务"
+      ],
+      "tier": "潜力",
+      "district": "南沙区"
+    },
+    {
+      "name": "广州市航易信息科技有限公司",
+      "track": 4,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "船舶管理系统"
+      ],
+      "tier": "潜力",
+      "district": "天河区"
+    },
+    {
+      "name": "广州市花园汽车出租有限公司",
+      "track": 3,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "出租车客运"
+      ],
+      "tier": "潜力",
+      "district": "天河区"
+    },
+    {
+      "name": "广州市茂建路桥工程技术有限公司",
+      "track": 1,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海洋工程建筑"
+      ],
+      "tier": "潜力",
+      "district": "花都区"
+    },
+    {
+      "name": "广州市里程号物流有限公司",
+      "track": 3,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "国际集装箱船、普通货船运输业务"
+      ],
+      "tier": "潜力",
+      "district": "黄埔区"
+    },
+    {
+      "name": "广州市金成潮州酒楼饮食有限公司",
+      "track": 0,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海水产品特色正餐服务"
+      ],
+      "tier": "潜力",
+      "district": "海珠区"
+    },
+    {
+      "name": "广州市陆洋复合材料有限公司",
+      "track": 4,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "海洋工程装备",
+        "海洋救生艇"
+      ],
+      "tier": "潜力",
+      "district": "花都区"
+    },
+    {
+      "name": "广州市集木蓄能技术开发有限公司",
+      "track": 4,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "海洋工程装备",
+        "专业生产海产品烘干机"
+      ],
+      "tier": "潜力",
+      "district": "南沙区"
+    },
+    {
+      "name": "广州市顺华机电技术有限公司",
+      "track": 4,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "船舶技术服务"
+      ],
+      "tier": "潜力",
+      "district": "南沙区"
+    },
+    {
+      "name": "广州市鹿鸣酒家有限公司",
+      "track": 0,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海水产品特色正餐服务"
+      ],
+      "tier": "潜力",
+      "district": "越秀区"
+    },
+    {
+      "name": "广州帅普运动用品有限公司",
+      "track": 3,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "游泳潜水眼镜"
+      ],
+      "tier": "潜力",
+      "district": "花都区"
+    },
+    {
+      "name": "广州广中旅游汽车运输有限公司",
+      "track": 3,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "旅游客运"
+      ],
+      "tier": "潜力",
+      "district": "海珠区"
+    },
+    {
+      "name": "广州广建建设工程有限公司",
+      "track": 3,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "港口与航道工程"
+      ],
+      "tier": "潜力",
+      "district": "增城区"
+    },
+    {
+      "name": "广州康华供应链有限公司",
+      "track": 3,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海上国际货物运输代理、国际船舶代理及水路普通货物运输"
+      ],
+      "tier": "潜力",
+      "district": "番禺区"
+    },
+    {
+      "name": "广州御彩酒家有限公司",
+      "track": 0,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海水产品特色正餐服务"
+      ],
+      "tier": "潜力",
+      "district": "越秀区"
+    },
+    {
+      "name": "广州御水湾餐饮有限公司",
+      "track": 0,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海水产品特色正餐服务"
+      ],
+      "tier": "潜力",
+      "district": "番禺区"
+    },
+    {
+      "name": "广州循证医药科技有限公司",
+      "track": 3,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "功能保健食品开发"
+      ],
+      "tier": "潜力",
+      "district": "黄埔区"
+    },
+    {
+      "name": "广州德港水产设备科技有限公司",
+      "track": 4,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "海洋工程装备",
+        "水产养殖业、海洋馆行业维生系统"
+      ],
+      "tier": "潜力",
+      "district": "番禺区"
+    },
+    {
+      "name": "广州思拓力测绘科技有限公司",
+      "track": 1,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海洋测绘"
+      ],
+      "tier": "潜力",
+      "district": "黄埔区"
+    },
+    {
+      "name": "广州恒锐技术有限公司",
+      "track": 4,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "海洋工程装备",
+        "导航、测绘、气象及海洋专用仪器制造"
+      ],
+      "tier": "潜力",
+      "district": "黄埔区"
+    },
+    {
+      "name": "广州慧洋信息科技有限公司",
+      "track": 1,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海洋测绘、导航定位设备研发"
+      ],
+      "tier": "潜力",
+      "district": "南沙区"
+    },
+    {
+      "name": "广州新普利节能环保科技有限公司",
+      "track": 4,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "海洋工程装备",
+        "海水淡化处理、高盐废水零排放技术和设备"
+      ],
+      "tier": "潜力",
+      "district": "天河区"
+    },
+    {
+      "name": "广州旭荣机电工程有限公司",
+      "track": 4,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "船舶技术服务"
+      ],
+      "tier": "潜力",
+      "district": "增城区"
+    },
+    {
+      "name": "广州易出仓国际货运代理有限公司",
+      "track": 0,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "国际海运代理服务"
+      ],
+      "tier": "潜力",
+      "district": "白云区"
+    },
+    {
+      "name": "广州星沅科技有限公司",
+      "track": 4,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海洋工程装备研发"
+      ],
+      "tier": "潜力",
+      "district": "番禺区"
+    },
+    {
+      "name": "广州星谱科技有限公司",
+      "track": 2,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海洋生物活性物质提取、纯化和合成"
+      ],
+      "tier": "潜力",
+      "district": "黄埔区"
+    },
+    {
+      "name": "广州星际海洋工程设计有限公司",
+      "track": 4,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "船舶设计服务、海洋工程技术服务"
+      ],
+      "tier": "潜力",
+      "district": "南沙区"
+    },
+    {
+      "name": "广州智海建筑设计有限公司",
+      "track": 3,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海洋工程设计"
+      ],
+      "tier": "潜力",
+      "district": "越秀区"
+    },
+    {
+      "name": "广州暨南生物医药研究开发基地有限公司",
+      "track": 2,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海洋技术推广服务（孵化器）"
+      ],
+      "tier": "潜力",
+      "district": "天河区"
+    },
+    {
+      "name": "广州来电光年科技有限公司",
+      "track": 4,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "海洋工程装备",
+        "卫星通信设备生产"
+      ],
+      "tier": "潜力",
+      "district": "南沙区"
+    },
+    {
+      "name": "广州正粤建设有限公司",
+      "track": 1,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "桥梁建设"
+      ],
+      "tier": "潜力",
+      "district": "增城区"
+    },
+    {
+      "name": "广州永瑞船用配套设备有限公司",
+      "track": 4,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "海洋工程装备",
+        "船舶配套"
+      ],
+      "tier": "潜力",
+      "district": "南沙区"
+    },
+    {
+      "name": "广州沁林环保科技有限公司",
+      "track": 4,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "海洋工程装备",
+        "水资源处理设备"
+      ],
+      "tier": "潜力",
+      "district": "南沙区"
+    },
+    {
+      "name": "广州泰实货运有限公司",
+      "track": 3,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "国际货运代理、海运运输"
+      ],
+      "tier": "潜力",
+      "district": "白云区"
+    },
+    {
+      "name": "广州海事科技有限公司",
+      "track": 4,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "船舶通信服务、海洋技术推广服务"
+      ],
+      "tier": "潜力",
+      "district": "黄埔区"
+    },
+    {
+      "name": "广州海平起重装卸有限公司",
+      "track": 3,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海洋港口起重装卸服务"
+      ],
+      "tier": "潜力",
+      "district": "白云区"
+    },
+    {
+      "name": "广州海格天乘技术有限公司",
+      "track": 4,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "海洋工程装备",
+        "无人系统"
+      ],
+      "tier": "潜力",
+      "district": "增城区"
+    },
+    {
+      "name": "广州海绵城市建设有限公司",
+      "track": 0,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海洋工程建筑，滨海湿地生态修复"
+      ],
+      "tier": "潜力",
+      "district": "海珠区"
+    },
+    {
+      "name": "广州海荣实业有限公司",
+      "track": 4,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "海洋工程装备",
+        "船舶设计制作、船用配套设备"
+      ],
+      "tier": "潜力",
+      "district": "越秀区"
+    },
+    {
+      "name": "广州海运渤船舶工程有限公司",
+      "track": 4,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "海洋工程装备",
+        "船舶配套"
+      ],
+      "tier": "潜力",
+      "district": "南沙区"
+    },
+    {
+      "name": "广州润星环保科技有限公司",
+      "track": 3,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "污水处理"
+      ],
+      "tier": "潜力",
+      "district": "越秀区"
+    },
+    {
+      "name": "广州港博国际物流有限公司",
+      "track": 3,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "无船承运业务、港口货物装卸搬运活动及海上国际货物运输代理"
+      ],
+      "tier": "潜力",
+      "district": "南沙区"
+    },
+    {
+      "name": "广州源海新材料科技有限公司",
+      "track": 4,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "纺织用海藻纤维材料"
+      ],
+      "tier": "潜力",
+      "district": "白云区"
+    },
+    {
+      "name": "广州源海船舶有限公司",
+      "track": 4,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "海洋工程装备",
+        "船舶配套"
+      ],
+      "tier": "潜力",
+      "district": "番禺区"
+    },
+    {
+      "name": "广州满轶晟食品有限公司",
+      "track": 3,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "水产品批发"
+      ],
+      "tier": "潜力",
+      "district": "番禺区"
+    },
+    {
+      "name": "广州环诺科兴环保科技有限公司",
+      "track": 4,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "海洋工程装备",
+        "海水淡化节能技术设备"
+      ],
+      "tier": "潜力",
+      "district": "番禺区"
+    },
+    {
+      "name": "广州环达电子有限公司",
+      "track": 4,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "海洋工程装备",
+        "气象与海洋相关仪器制造"
+      ],
+      "tier": "潜力",
+      "district": "增城区"
+    },
+    {
+      "name": "广州珠江电力有限公司",
+      "track": 3,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "火力发电海水冷却"
+      ],
+      "tier": "潜力",
+      "district": "南沙区"
+    },
+    {
+      "name": "广州瑞冠供应链有限公司",
+      "track": 3,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海上国际货物运输代理"
+      ],
+      "tier": "潜力",
+      "district": "黄埔区"
+    },
+    {
+      "name": "广州璟涛机电设备有限公司",
+      "track": 4,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "海洋工程装备",
+        "船舶配套"
+      ],
+      "tier": "潜力",
+      "district": "天河区"
+    },
+    {
+      "name": "广州番禺浩业波纹管工业有限公司",
+      "track": 4,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "船舶舾装件制造与安装、船舶零配件销售"
+      ],
+      "tier": "潜力",
+      "district": "南沙区"
+    },
+    {
+      "name": "广州百动机电科技有限公司",
+      "track": 4,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "海洋工程装备",
+        "发电机"
+      ],
+      "tier": "潜力",
+      "district": "白云区"
+    },
+    {
+      "name": "广州百川纳科技有限公司",
+      "track": 0,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海洋环境评价服务"
+      ],
+      "tier": "潜力",
+      "district": "南沙区"
+    },
+    {
+      "name": "广州皖文电气设备有限公司",
+      "track": 4,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "海洋工程装备",
+        "船舶自动化、检测、监控系统制造"
+      ],
+      "tier": "潜力",
+      "district": "天河区"
+    },
+    {
+      "name": "广州益达钢结构有限公司",
+      "track": 1,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海洋工程钢结构"
+      ],
+      "tier": "潜力",
+      "district": "花都区"
+    },
+    {
+      "name": "广州碧水生态科技有限公司",
+      "track": 3,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "水产养殖尾水处理、黑臭水体治理、河涌湖泊水环境修复"
+      ],
+      "tier": "潜力",
+      "district": "南沙区"
+    },
+    {
+      "name": "广州科禹环保科技有限公司",
+      "track": 3,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海洋环境监测领域"
+      ],
+      "tier": "潜力",
+      "district": "花都区"
+    },
+    {
+      "name": "广州空港电商国际酒店管理有限公司",
+      "track": 3,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海洋餐饮、酒店"
+      ],
+      "tier": "潜力",
+      "district": "花都区"
+    },
+    {
+      "name": "广州精信仪表电器有限公司",
+      "track": 4,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "海洋工程装备",
+        "船舶自动化、检测、监控系统"
+      ],
+      "tier": "潜力",
+      "district": "天河区"
+    },
+    {
+      "name": "广州精研智联高科有限公司",
+      "track": 4,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "海洋工程装备",
+        "雷达"
+      ],
+      "tier": "潜力",
+      "district": "黄埔区"
+    },
+    {
+      "name": "广州纬希国际货运代理有限公司",
+      "track": 0,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "国际货运代理、海运服务"
+      ],
+      "tier": "潜力",
+      "district": "越秀区"
+    },
+    {
+      "name": "广州纳丽生物科技有限公司",
+      "track": 2,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海洋生物活性物质提取、纯化和合成"
+      ],
+      "tier": "潜力",
+      "district": "番禺区"
+    },
+    {
+      "name": "广州美格生物科技有限公司",
+      "track": 2,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海洋生物技术服务"
+      ],
+      "tier": "潜力",
+      "district": "黄埔区"
+    },
+    {
+      "name": "广州翔曦科技有限公司",
+      "track": 3,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "智慧海洋"
+      ],
+      "tier": "潜力",
+      "district": "黄埔区"
+    },
+    {
+      "name": "广州胜泊航科技术有限公司",
+      "track": 3,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "航海数据服务"
+      ],
+      "tier": "潜力",
+      "district": "南沙区"
+    },
+    {
+      "name": "广州航成船舶科技有限公司",
+      "track": 4,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "船舶设计服务"
+      ],
+      "tier": "潜力",
+      "district": "南沙区"
+    },
+    {
+      "name": "广州航海仪器厂有限公司",
+      "track": 4,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "海洋工程装备",
+        "船舶配套"
+      ],
+      "tier": "潜力",
+      "district": "白云区"
+    },
+    {
+      "name": "广州莱曼消防设备有限公司",
+      "track": 4,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "海洋工程装备",
+        "海上救援器材、设备"
+      ],
+      "tier": "潜力",
+      "district": "黄埔区"
+    },
+    {
+      "name": "广州莱茵游艇会酒店有限公司",
+      "track": 3,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海洋餐饮、酒店"
+      ],
+      "tier": "潜力",
+      "district": "番禺区"
+    },
+    {
+      "name": "广州蓝禹环保科技有限公司",
+      "track": 0,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "污水处理技术服务"
+      ],
+      "tier": "潜力",
+      "district": "南沙区"
+    },
+    {
+      "name": "广州蕉叶餐饮管理有限公司",
+      "track": 0,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海水产品特色正餐服务"
+      ],
+      "tier": "潜力",
+      "district": "天河区"
+    },
+    {
+      "name": "广州襄绿环保设备有限公司",
+      "track": 4,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "海洋工程装备",
+        "污水处理设备"
+      ],
+      "tier": "潜力",
+      "district": "增城区"
+    },
+    {
+      "name": "广州西铁国际货运代理有限公司",
+      "track": 3,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海上国际货物运输代理"
+      ],
+      "tier": "潜力",
+      "district": "天河区"
+    },
+    {
+      "name": "广州贝奥吉因生物科技股份有限公司",
+      "track": 2,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "海洋生物医药",
+        "使用海洋原材料生产藻酸盐敷料、水胶体敷料、牙齿脱敏剂"
+      ],
+      "tier": "潜力",
+      "district": "黄埔区"
+    },
+    {
+      "name": "广州赛特新能源科技发展有限公司",
+      "track": 4,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海洋能发电机组研发制造"
+      ],
+      "tier": "潜力",
+      "district": "越秀区"
+    },
+    {
+      "name": "广州轶鑫工业设备有限公司",
+      "track": 4,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "海洋工程装备",
+        "船用配套设备制造"
+      ],
+      "tier": "潜力",
+      "district": "番禺区"
+    },
+    {
+      "name": "广州迈光电子科技股份有限公司",
+      "track": 4,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "海洋工程装备",
+        "海洋水族专用照明设备、漩影环流泵 及智能控制系统"
+      ],
+      "tier": "潜力",
+      "district": "番禺区"
+    },
+    {
+      "name": "广州途聚国际旅行社有限公司",
+      "track": 3,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "国内旅游业务、出入境旅游业务"
+      ],
+      "tier": "潜力",
+      "district": "越秀区"
+    },
+    {
+      "name": "广州邦鑫海洋技术有限公司",
+      "track": 0,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海洋环境评估论证、海洋气象服务、海洋监测"
+      ],
+      "tier": "潜力",
+      "district": "海珠区"
+    },
+    {
+      "name": "广州金叶健康科技有限公司",
+      "track": 2,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "海洋生物医药",
+        "鱼胶原蛋白肽、鳐鱼蛋白肽等海洋原料产品"
+      ],
+      "tier": "潜力",
+      "district": "白云区"
+    },
+    {
+      "name": "广州金川环保设备有限公司",
+      "track": 4,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "海洋工程装备",
+        "船舶压载水处理设备、油田废水处理设备"
+      ],
+      "tier": "潜力",
+      "district": "天河区"
+    },
+    {
+      "name": "广州银辉酒店管理有限公司",
+      "track": 3,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海洋餐饮、酒店"
+      ],
+      "tier": "潜力",
+      "district": "番禺区"
+    },
+    {
+      "name": "广州锐谱检测有限公司",
+      "track": 4,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "船舶检测服务"
+      ],
+      "tier": "潜力",
+      "district": "黄埔区"
+    },
+    {
+      "name": "广州降光科技有限公司",
+      "track": 3,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海洋监测和导航技术研发"
+      ],
+      "tier": "潜力",
+      "district": "番禺区"
+    },
+    {
+      "name": "广州顺海海事技术服务有限公司",
+      "track": 3,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海洋环境服务、海洋工程技术服务"
+      ],
+      "tier": "潜力",
+      "district": "海珠区"
+    },
+    {
+      "name": "广州风雨雷科技有限公司",
+      "track": 0,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海洋预警减灾系统、海洋气象服务"
+      ],
+      "tier": "潜力",
+      "district": "番禺区"
+    },
+    {
+      "name": "广州驰拓智能科技有限公司",
+      "track": 4,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "海洋工程装备",
+        "船舶自动化、检测系统制造"
+      ],
+      "tier": "潜力",
+      "district": "番禺区"
+    },
+    {
+      "name": "广州高奇海洋科技有限公司",
+      "track": 0,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海洋观测、海洋气象服务等领域"
+      ],
+      "tier": "潜力",
+      "district": "番禺区"
+    },
+    {
+      "name": "广州鱼帮手科技有限公司",
+      "track": 2,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海洋生物活性物质提取、纯化和合成，海洋工程装备研发"
+      ],
+      "tier": "潜力",
+      "district": "荔湾区"
+    },
+    {
+      "name": "广州鸿骐机电设备有限公司",
+      "track": 4,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "海洋工程装备",
+        "船舶修理、相关机电设备"
+      ],
+      "tier": "潜力",
+      "district": "番禺区"
+    },
+    {
+      "name": "广州鼎飞航空科技有限公司",
+      "track": 1,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "海洋工程装备",
+        "无人机（海洋监测、海洋测绘、海洋救援）"
+      ],
+      "tier": "潜力",
+      "district": "南沙区"
+    },
+    {
+      "name": "广州龙康机电设备有限公司",
+      "track": 4,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "海洋工程装备",
+        "海水淡化设备"
+      ],
+      "tier": "潜力",
+      "district": "番禺区"
+    },
+    {
+      "name": "彼乐实业(广州)有限公司",
+      "track": 4,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "船舶自动化、检测、监控系统，船用配套设备，船舶修理，船舶设计，船舶改装等"
+      ],
+      "tier": "潜力",
+      "district": "番禺区"
+    },
+    {
+      "name": "新万基卫星技术有限公司",
+      "track": 3,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "卫星通导"
+      ],
+      "tier": "潜力",
+      "district": "南沙区"
+    },
+    {
+      "name": "智禹(广州)水环境技术有限公司",
+      "track": 3,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "水环境监测"
+      ],
+      "tier": "潜力",
+      "district": "南沙区"
+    },
+    {
+      "name": "派格水下技术(广州)有限公司",
+      "track": 3,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海洋工程技术服务、水下作业技术服务"
+      ],
+      "tier": "潜力",
+      "district": "南沙区"
+    },
+    {
+      "name": "浙江大厦富春宾馆(广州)有限公司",
+      "track": 3,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海洋餐饮、酒店"
+      ],
+      "tier": "潜力",
+      "district": "越秀区"
+    },
+    {
+      "name": "海科翎水产科技(广州)有限公司",
+      "track": 0,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海洋渔业技术服务"
+      ],
+      "tier": "潜力",
+      "district": "海珠区"
+    },
+    {
+      "name": "海通国际供应链(广州)有限公司",
+      "track": 3,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "国际船舶代理业务"
+      ],
+      "tier": "潜力",
+      "district": "黄埔区"
+    },
+    {
+      "name": "深海智人(广州)技术有限公司",
+      "track": 4,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "海洋工程装备",
+        "水下机器人"
+      ],
+      "tier": "潜力",
+      "district": "南沙区"
+    },
+    {
+      "name": "番禺珠江钢管有限公司",
+      "track": 3,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "超深海底管道焊接钢管"
+      ],
+      "tier": "潜力",
+      "district": "番禺区"
+    },
+    {
+      "name": "科纳(广州)液压设备有限公司",
+      "track": 4,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "海洋工程装备",
+        "船用舵机及控制系统等"
+      ],
+      "tier": "潜力",
+      "district": "南沙区"
+    },
+    {
+      "name": "科韵氢能(广州)有限公司",
+      "track": 4,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海洋工程装备研发"
+      ],
+      "tier": "潜力",
+      "district": "增城区"
+    },
+    {
+      "name": "翁智国际物流代理(广州)有限公司",
+      "track": 3,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海上国际货物运输代理"
+      ],
+      "tier": "潜力",
+      "district": "越秀区"
+    },
+    {
+      "name": "肽源(广州)生物科技有限公司",
+      "track": 2,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海洋生物技术服务"
+      ],
+      "tier": "潜力",
+      "district": "番禺区"
+    },
+    {
+      "name": "胜泰生科(广州)医疗科技有限公司",
+      "track": 2,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海洋生物活性物质提取、纯化和合成"
+      ],
+      "tier": "潜力",
+      "district": "黄埔区"
+    },
+    {
+      "name": "菲诗倾城(广州)生物科技有限公司",
+      "track": 2,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海洋生物活性物质提取、纯化和合成"
+      ],
+      "tier": "潜力",
+      "district": "天河区"
+    },
+    {
+      "name": "辰源海洋科技(广东)有限公司",
+      "track": 0,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海洋生态调查、海洋测绘"
+      ],
+      "tier": "潜力",
+      "district": "海珠区"
+    },
+    {
+      "name": "达美乐比萨(广州)餐饮管理有限公司",
+      "track": 0,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海水产品特色正餐服务"
+      ],
+      "tier": "潜力",
+      "district": "荔湾区"
+    },
+    {
+      "name": "逸泓水务环境(广东)有限公司",
+      "track": 0,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海洋环保技术服务"
+      ],
+      "tier": "潜力",
+      "district": "南沙区"
+    },
+    {
+      "name": "配方化妆品科技(广州)有限公司",
+      "track": 2,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海洋生物活性物质提取、纯化和合成"
+      ],
+      "tier": "潜力",
+      "district": "黄埔区"
+    },
+    {
+      "name": "金中天建设集团有限公司",
+      "track": 3,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海洋牧场、港口与航道工程"
+      ],
+      "tier": "潜力",
+      "district": "黄埔区"
+    },
+    {
+      "name": "金中天水利建设有限公司",
+      "track": 3,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "其他涉海产业",
+        "海洋牧场"
+      ],
+      "tier": "潜力",
+      "district": "黄埔区"
+    },
+    {
+      "name": "阿尔法测绘科技(广州)有限公司",
+      "track": 4,
+      "score": 58,
+      "contracts": 0,
+      "latest": "",
+      "samples": [
+        "海洋工程装备",
+        "船舶导航"
+      ],
+      "tier": "潜力",
+      "district": "黄埔区"
     }
   ]
 }

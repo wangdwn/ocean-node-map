@@ -1,0 +1,4706 @@
+[
+  {
+    "name": "万丰国际货运代理(广州)有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "三合(广州)探测技术有限公司",
+    "track": 0,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "东方国际集装箱(广州)有限公司",
+    "track": 4,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "龙头"
+  },
+  {
+    "name": "东方电气(广州)重型机器有限公司",
+    "track": 4,
+    "aliases": [],
+    "sector": "海洋工程装备",
+    "tier": "龙头"
+  },
+  {
+    "name": "中交(广州)建设有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "龙头"
+  },
+  {
+    "name": "中交华南交通建设有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力 | 高成长"
+  },
+  {
+    "name": "中交四航局港湾工程设计院有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "龙头"
+  },
+  {
+    "name": "中交四航局第二工程有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力 | 高成长"
+  },
+  {
+    "name": "中交四航工程研究院有限公司",
+    "track": 1,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "龙头/潜力 | 高成长"
+  },
+  {
+    "name": "中交广州水运工程设计研究院有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "龙头"
+  },
+  {
+    "name": "中交广州航道局有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "龙头"
+  },
+  {
+    "name": "中交广航疏浚有限公司",
+    "track": 0,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "龙头 | 高成长"
+  },
+  {
+    "name": "中交第四航务工程勘察设计院有限公司",
+    "track": 1,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "龙头"
+  },
+  {
+    "name": "中交第四航务工程局有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "龙头"
+  },
+  {
+    "name": "中佑勘察设计有限公司",
+    "track": 1,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "中兴海陆工程有限公司",
+    "track": 4,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力 | 高成长"
+  },
+  {
+    "name": "中国南方电网有限责任公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "龙头"
+  },
+  {
+    "name": "中国南方航空股份有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "龙头 | 高成长"
+  },
+  {
+    "name": "中国外运华南有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "龙头 | 高成长"
+  },
+  {
+    "name": "中国检验认证集团广东有限公司",
+    "track": 4,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "龙头 | 高成长"
+  },
+  {
+    "name": "中国煤炭地质总局广东煤炭地质局勘查院",
+    "track": 1,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "中国电建集团城市规划设计研究院有限公司",
+    "track": 0,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "龙头 | 高成长"
+  },
+  {
+    "name": "中国能源建设集团华南电力试验研究院有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "龙头"
+  },
+  {
+    "name": "中国能源建设集团广东省电力设计研究院有限公司",
+    "track": 1,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "龙头 | 高成长"
+  },
+  {
+    "name": "中国船舶集团广州船舶工业有限公司",
+    "track": 4,
+    "aliases": [],
+    "sector": "海洋工程装备",
+    "tier": "龙头 | 高成长"
+  },
+  {
+    "name": "中建四局第一建设有限公司",
+    "track": 4,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "龙头 | 高成长"
+  },
+  {
+    "name": "中徽建筑科技(广州)有限公司",
+    "track": 0,
+    "aliases": [],
+    "sector": "海洋工程装备",
+    "tier": "潜力"
+  },
+  {
+    "name": "中水珠江规划勘测设计有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "龙头 | 高成长"
+  },
+  {
+    "name": "中海(广州)工程勘察设计有限公司",
+    "track": 1,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "中海云天(广东)海洋技术有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "中海散货运输有限公司",
+    "track": 4,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "龙头"
+  },
+  {
+    "name": "中煤江南建设发展集团有限公司",
+    "track": 1,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "龙头"
+  },
+  {
+    "name": "中环宇恩(广东)生态科技有限公司",
+    "track": 0,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "中石化第五建设有限公司",
+    "track": 1,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "龙头"
+  },
+  {
+    "name": "中科启迪光电子科技(广州)有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "中科检测技术服务(广州)股份有限公司",
+    "track": 4,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "龙头"
+  },
+  {
+    "name": "中科潜龙集团有限公司",
+    "track": 4,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "中科院广州化灌工程有限公司",
+    "track": 0,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "龙头"
+  },
+  {
+    "name": "中能拾贝科技有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "龙头"
+  },
+  {
+    "name": "中能拾贝（广州）科技有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "高成长"
+  },
+  {
+    "name": "中船华南船舶机械广州有限公司",
+    "track": 4,
+    "aliases": [],
+    "sector": "海洋工程装备",
+    "tier": "龙头 | 高成长"
+  },
+  {
+    "name": "中船工业互联网有限公司",
+    "track": 4,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "龙头 | 高成长"
+  },
+  {
+    "name": "中船黄埔文冲船舶有限公司",
+    "track": 4,
+    "aliases": [],
+    "sector": "海洋工程装备",
+    "tier": "龙头 | 高成长"
+  },
+  {
+    "name": "中远大唐航运股份有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "龙头 | 高成长"
+  },
+  {
+    "name": "中远海运(广州)有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "中远海运散货运输有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "龙头"
+  },
+  {
+    "name": "中远海运特种运输股份有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "龙头 | 高成长"
+  },
+  {
+    "name": "中通服建设有限公司",
+    "track": 1,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "龙头"
+  },
+  {
+    "name": "中铁十九局集团广州工程有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "龙头"
+  },
+  {
+    "name": "中铁广州工程局集团桥梁工程有限公司",
+    "track": 1,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力 | 高成长"
+  },
+  {
+    "name": "中铁建港航局集团勘察设计院有限公司",
+    "track": 1,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "龙头"
+  },
+  {
+    "name": "丰名装配式建筑科技(广州)有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "乐味餐饮集团有限公司",
+    "track": 0,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "龙头 | 高成长"
+  },
+  {
+    "name": "九元航空有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "龙头 | 高成长"
+  },
+  {
+    "name": "亿航智能设备(广州)有限公司",
+    "track": 4,
+    "aliases": [],
+    "sector": "海洋工程装备",
+    "tier": "龙头 | 高成长"
+  },
+  {
+    "name": "伟世博货运(广州)有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "侨益物流股份有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力 | 高成长"
+  },
+  {
+    "name": "保利(广州)旅游产业有限公司",
+    "track": 0,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "龙头"
+  },
+  {
+    "name": "保利长大工程有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "龙头"
+  },
+  {
+    "name": "克劳斯合成科技(广东)有限公司",
+    "track": 4,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "龙头"
+  },
+  {
+    "name": "北明软件有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "龙头"
+  },
+  {
+    "name": "华南中外运集装箱物流有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "龙头"
+  },
+  {
+    "name": "华南中远海运集装箱运输有限公司",
+    "track": 4,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "龙头 | 高成长"
+  },
+  {
+    "name": "华南泵业有限公司",
+    "track": 4,
+    "aliases": [],
+    "sector": "海洋工程装备",
+    "tier": "潜力"
+  },
+  {
+    "name": "华润万家生活超市(广州)有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "龙头"
+  },
+  {
+    "name": "华润水泥技术研发有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "龙头"
+  },
+  {
+    "name": "卓控海洋装备技术(广州)有限公司",
+    "track": 4,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "南方电网数字电网科技(广东)有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "龙头"
+  },
+  {
+    "name": "南方电网电力科技股份有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "龙头 | 高成长"
+  },
+  {
+    "name": "南海渔村集团有限公司",
+    "track": 0,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "龙头 | 高成长"
+  },
+  {
+    "name": "大湾汉唯(广州)医药科技集团有限公司",
+    "track": 2,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "威凯检测技术有限公司",
+    "track": 4,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "龙头 | 高成长"
+  },
+  {
+    "name": "威凯认证检测有限公司",
+    "track": 4,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力 | 高成长"
+  },
+  {
+    "name": "安利(中国)日用品有限公司",
+    "track": 2,
+    "aliases": [],
+    "sector": "海洋生物医药",
+    "tier": "龙头"
+  },
+  {
+    "name": "广东一八供应链管理有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力 | 高成长"
+  },
+  {
+    "name": "广东一诚环保科技有限公司",
+    "track": 4,
+    "aliases": [],
+    "sector": "海洋工程装备",
+    "tier": "潜力 | 高成长"
+  },
+  {
+    "name": "广东万泰建设有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "广东三元麦当劳食品有限公司",
+    "track": 0,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "龙头 | 高成长"
+  },
+  {
+    "name": "广东三海环保科技有限公司",
+    "track": 0,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "广东中外运船务代理有限公司",
+    "track": 4,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "广东中外运黄埔仓码有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "广东中威复合材料有限公司",
+    "track": 4,
+    "aliases": [],
+    "sector": "海洋工程装备",
+    "tier": "潜力 | 高成长"
+  },
+  {
+    "name": "广东中瑞海洋生态环境研究院有限公司",
+    "track": 0,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "广东中瑞通货运代理有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "龙头 | 高成长"
+  },
+  {
+    "name": "广东中科凯泽信息科技有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力 | 高成长"
+  },
+  {
+    "name": "广东中科新微安全科技有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "广东中航水上设施建造有限公司",
+    "track": 4,
+    "aliases": [],
+    "sector": "海洋工程装备",
+    "tier": "潜力"
+  },
+  {
+    "name": "广东中饲实业股份有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "广东乌浦萨拉环保科技有限公司",
+    "track": 0,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "广东云林信息工程技术股份有限公司",
+    "track": 0,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "广东亚洲国际大酒店有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "龙头"
+  },
+  {
+    "name": "广东京东星佑物流有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "龙头"
+  },
+  {
+    "name": "广东京邦达供应链科技有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "龙头 | 高成长"
+  },
+  {
+    "name": "广东兴亿海洋生物工程股份有限公司",
+    "track": 4,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "龙头"
+  },
+  {
+    "name": "广东兴广建设工程有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "广东冠粤路桥有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "龙头"
+  },
+  {
+    "name": "广东凌氏船舶科技有限公司",
+    "track": 4,
+    "aliases": [],
+    "sector": "海洋工程装备",
+    "tier": "潜力"
+  },
+  {
+    "name": "广东凯运国际供应链有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "广东创蓝海洋科技有限公司",
+    "track": 0,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "广东利茂建设有限公司",
+    "track": 1,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力 | 高成长"
+  },
+  {
+    "name": "广东力合规划设计有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "广东勤建生活服务有限公司",
+    "track": 0,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "广东包道美食(集团)有限公司",
+    "track": 0,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "龙头"
+  },
+  {
+    "name": "广东华工碧水环境技术有限公司",
+    "track": 0,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "广东华球五洲供应链科技有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "广东华路交通科技有限公司",
+    "track": 1,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "龙头"
+  },
+  {
+    "name": "广东华风海洋信息系统服务有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "广东南油对外服务有限公司",
+    "track": 0,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "龙头"
+  },
+  {
+    "name": "广东南洋长胜酒店有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "广东南粤生态科技有限公司",
+    "track": 0,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "广东南缆电缆有限公司",
+    "track": 4,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "龙头 | 高成长"
+  },
+  {
+    "name": "广东南苑餐饮管理有限公司",
+    "track": 0,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力 | 高成长"
+  },
+  {
+    "name": "广东和润供应链管理有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "广东喜讯智能科技有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "广东嘉鸿酒店有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "广东国仕工程咨询有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "广东国地科技股份有限公司",
+    "track": 0,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "龙头"
+  },
+  {
+    "name": "广东国规检测检验中心有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "广东大厦有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "广东天广能源科技发展有限公司",
+    "track": 0,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "广东天虹电缆有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "龙头"
+  },
+  {
+    "name": "广东宇恒空间信息技术有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "广东岭南设计院有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "广东希普生物科技股份有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "龙头"
+  },
+  {
+    "name": "广东广海海洋勘探开发有限公司",
+    "track": 1,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "广东广物国际物流投资发展有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "广东广船国际海洋科技研究院有限公司",
+    "track": 4,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力 | 高成长"
+  },
+  {
+    "name": "广东建愉建设有限公司",
+    "track": 1,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "广东弘铠船务股份有限公司",
+    "track": 4,
+    "aliases": [],
+    "sector": "海洋工程装备",
+    "tier": "潜力"
+  },
+  {
+    "name": "广东循证滋补生命科技有限公司",
+    "track": 2,
+    "aliases": [],
+    "sector": "海洋生物医药",
+    "tier": "龙头 | 高成长"
+  },
+  {
+    "name": "广东微量元素制药有限公司",
+    "track": 2,
+    "aliases": [],
+    "sector": "海洋生物医药",
+    "tier": "龙头 | 高成长"
+  },
+  {
+    "name": "广东微量元素生物科技有限公司",
+    "track": 2,
+    "aliases": [],
+    "sector": "海洋生物医药",
+    "tier": "龙头 | 高成长"
+  },
+  {
+    "name": "广东德洛斯照明工业有限公司",
+    "track": 4,
+    "aliases": [],
+    "sector": "海洋工程装备",
+    "tier": "龙头 | 高成长"
+  },
+  {
+    "name": "广东德邦物流有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "龙头"
+  },
+  {
+    "name": "广东怡高国际货运代理有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "龙头"
+  },
+  {
+    "name": "广东恒进食品科技有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "龙头 | 高成长"
+  },
+  {
+    "name": "广东惠华生物科技有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "广东意达国际货运有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "广东慧图资环科技发展有限公司",
+    "track": 0,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "广东拓南船务集团有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "龙头 | 高成长"
+  },
+  {
+    "name": "广东拓威天海科技股份有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "广东拓谱康生物科技有限公司",
+    "track": 2,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "广东文星酒店有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "广东新天河宾馆有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "广东新洁源环保技术有限公司",
+    "track": 4,
+    "aliases": [],
+    "sector": "海洋工程装备",
+    "tier": "潜力"
+  },
+  {
+    "name": "广东新牧源农牧科技有限公司",
+    "track": 0,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "广东新白云宾馆有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "龙头"
+  },
+  {
+    "name": "广东新禾智慧数字科技有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "龙头"
+  },
+  {
+    "name": "广东新船重工有限公司",
+    "track": 4,
+    "aliases": [],
+    "sector": "海洋工程装备",
+    "tier": "潜力"
+  },
+  {
+    "name": "广东旭普空间信息技术产业发展有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "广东明世教育集团有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "龙头"
+  },
+  {
+    "name": "广东景和检测有限公司",
+    "track": 0,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力 | 高成长"
+  },
+  {
+    "name": "广东景泽生态环境股份有限公司",
+    "track": 4,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "龙头"
+  },
+  {
+    "name": "广东智环创新环境科技有限公司",
+    "track": 0,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "龙头"
+  },
+  {
+    "name": "广东有色工程勘察设计院",
+    "track": 1,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "龙头"
+  },
+  {
+    "name": "广东林工工业装备有限公司",
+    "track": 4,
+    "aliases": [],
+    "sector": "海洋工程装备",
+    "tier": "潜力"
+  },
+  {
+    "name": "广东林顿重工有限公司",
+    "track": 4,
+    "aliases": [],
+    "sector": "海洋工程装备",
+    "tier": "龙头"
+  },
+  {
+    "name": "广东桥信建设安装工程有限公司",
+    "track": 1,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力 | 高成长"
+  },
+  {
+    "name": "广东森霖造绿有限公司",
+    "track": 0,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "龙头"
+  },
+  {
+    "name": "广东正当年生物科技股份有限公司",
+    "track": 2,
+    "aliases": [],
+    "sector": "海洋生物医药",
+    "tier": "龙头 | 高成长"
+  },
+  {
+    "name": "广东正方圆工程咨询有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "广东水之源绿色产业研究有限公司",
+    "track": 4,
+    "aliases": [],
+    "sector": "海洋工程装备",
+    "tier": "潜力"
+  },
+  {
+    "name": "广东水电二局集团有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力 | 高成长"
+  },
+  {
+    "name": "广东永辉超市有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "龙头"
+  },
+  {
+    "name": "广东汉渔生态科技有限公司",
+    "track": 0,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "广东泓禹生态环境科技有限公司",
+    "track": 0,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "广东海兰图环境技术研究有限公司",
+    "track": 0,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力 | 高成长"
+  },
+  {
+    "name": "广东海吉机电设备有限公司",
+    "track": 4,
+    "aliases": [],
+    "sector": "海洋工程装备",
+    "tier": "潜力"
+  },
+  {
+    "name": "广东海吉机电设备股份有限公司",
+    "track": 4,
+    "aliases": [],
+    "sector": "海洋工程装备",
+    "tier": "高成长"
+  },
+  {
+    "name": "广东海启星海洋科技有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力 | 高成长"
+  },
+  {
+    "name": "广东海因特生物技术集团有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "龙头 | 高成长"
+  },
+  {
+    "name": "广东海大集团股份有限公司",
+    "track": 4,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "龙头 | 高成长"
+  },
+  {
+    "name": "广东海安水运技术服务有限公司",
+    "track": 4,
+    "aliases": [],
+    "sector": "海洋工程装备",
+    "tier": "龙头 | 高成长"
+  },
+  {
+    "name": "广东海工建设工程有限公司",
+    "track": 4,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "广东海捷消防科技有限公司",
+    "track": 4,
+    "aliases": [],
+    "sector": "海洋工程装备",
+    "tier": "潜力"
+  },
+  {
+    "name": "广东海格怡创科技有限公司",
+    "track": 0,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "龙头"
+  },
+  {
+    "name": "广东海盟海洋生物科技有限公司",
+    "track": 2,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "广东海诚环保科技有限公司",
+    "track": 0,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "广东海赢国际物流有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力 | 高成长"
+  },
+  {
+    "name": "广东港丰建设有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "广东环科院环境科技有限公司",
+    "track": 0,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "广东珠江国际货运代理有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力 | 高成长"
+  },
+  {
+    "name": "广东畜宝生态养殖有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "广东盛翔交通工程检测有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "广东省中园生态规划设计院有限公司",
+    "track": 0,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "龙头"
+  },
+  {
+    "name": "广东省华南技术转移中心有限公司",
+    "track": 0,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "广东省华桑丽皙生物技术有限公司",
+    "track": 2,
+    "aliases": [],
+    "sector": "海洋生物医药",
+    "tier": "潜力"
+  },
+  {
+    "name": "广东省城乡规划设计研究院有限责任公司",
+    "track": 0,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "高成长"
+  },
+  {
+    "name": "广东省城乡规划设计研究院科技集团股份有限公司",
+    "track": 0,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "龙头"
+  },
+  {
+    "name": "广东省城规建设监理有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "广东省基础工程集团有限公司",
+    "track": 4,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "龙头"
+  },
+  {
+    "name": "广东省岭南院勘察设计有限公司",
+    "track": 1,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "龙头"
+  },
+  {
+    "name": "广东省建筑工程集团有限公司",
+    "track": 0,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "龙头"
+  },
+  {
+    "name": "广东省建设工程质量安全检测总站有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "龙头 | 高成长"
+  },
+  {
+    "name": "广东省机械研究所有限公司",
+    "track": 4,
+    "aliases": [],
+    "sector": "海洋工程装备",
+    "tier": "龙头 | 高成长"
+  },
+  {
+    "name": "广东省源天工程有限公司",
+    "track": 0,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "龙头"
+  },
+  {
+    "name": "广东省环境保护工程研究设计院有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "广东省环境科学研究院",
+    "track": 0,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "广东省航运规划设计院有限公司",
+    "track": 1,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "龙头"
+  },
+  {
+    "name": "广东研理复合材料科技股份有限公司",
+    "track": 4,
+    "aliases": [],
+    "sector": "海洋工程装备",
+    "tier": "潜力"
+  },
+  {
+    "name": "广东福维德焊接股份有限公司",
+    "track": 4,
+    "aliases": [],
+    "sector": "海洋工程装备",
+    "tier": "龙头"
+  },
+  {
+    "name": "广东科诺勘测工程有限公司",
+    "track": 1,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "龙头"
+  },
+  {
+    "name": "广东粤新海洋工程装备股份有限公司",
+    "track": 4,
+    "aliases": [],
+    "sector": "海洋工程装备",
+    "tier": "龙头 | 高成长"
+  },
+  {
+    "name": "广东粤水建工有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力 | 高成长"
+  },
+  {
+    "name": "广东粤通铁路物流有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "龙头"
+  },
+  {
+    "name": "广东绘星科技有限公司",
+    "track": 1,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "广东羊城之旅旅游运输有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "广东美亚商旅科技有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "龙头 | 高成长"
+  },
+  {
+    "name": "广东美亚旅游科技集团股份有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "龙头 | 高成长"
+  },
+  {
+    "name": "广东翼景信息科技有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力 | 高成长"
+  },
+  {
+    "name": "广东聚纤缆通信股份有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力 | 高成长"
+  },
+  {
+    "name": "广东航达建设集团有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "广东艾博电力设计院(集团)有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "龙头"
+  },
+  {
+    "name": "广东芯聚能半导体有限公司",
+    "track": 4,
+    "aliases": [],
+    "sector": "海洋工程装备",
+    "tier": "龙头 | 高成长"
+  },
+  {
+    "name": "广东蓝图信息技术有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "广东融创高科检测鉴定有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "广东财贸建设工程顾问有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "广东越洲实业有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "广东道至正餐饮管理有限公司",
+    "track": 0,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "广东金羊城供应链科技股份有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力 | 高成长"
+  },
+  {
+    "name": "广东锐创生态科技有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "广东长宏建设集团有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "龙头"
+  },
+  {
+    "name": "广东雅建建设科技股份有限公司",
+    "track": 1,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "广东青航建设工程有限公司",
+    "track": 4,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "广东驱动力生物科技集团股份有限公司",
+    "track": 4,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "龙头"
+  },
+  {
+    "name": "广东高捷航运物流有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "龙头 | 高成长"
+  },
+  {
+    "name": "广东鼎顺杰建筑工程有限公司",
+    "track": 1,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "广州一博环保科技有限公司",
+    "track": 0,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "广州一帆海上安全技术有限公司",
+    "track": 4,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "广州万淋潍医疗科技有限公司",
+    "track": 1,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "广州三业科技有限公司",
+    "track": 4,
+    "aliases": [],
+    "sector": "海洋工程装备",
+    "tier": "潜力"
+  },
+  {
+    "name": "广州三海海洋工程勘察设计有限公司",
+    "track": 1,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "广州上都城市规划设计有限公司",
+    "track": 0,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "广州东塑石油钻采专用设备有限公司",
+    "track": 4,
+    "aliases": [],
+    "sector": "海洋工程装备",
+    "tier": "龙头"
+  },
+  {
+    "name": "广州东方电力有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "龙头"
+  },
+  {
+    "name": "广州东逸湾酒店有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "广州中交通信有限公司",
+    "track": 4,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "龙头"
+  },
+  {
+    "name": "广州中勘工程科技有限公司",
+    "track": 1,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "广州中味餐饮服务有限公司",
+    "track": 0,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "龙头 | 高成长"
+  },
+  {
+    "name": "广州中商航运有限公司",
+    "track": 4,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "广州中大凯丰酒店有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力 | 高成长"
+  },
+  {
+    "name": "广州中海电信有限公司",
+    "track": 4,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "龙头 | 高成长"
+  },
+  {
+    "name": "广州中海达卫星导航技术股份有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "龙头 | 高成长"
+  },
+  {
+    "name": "广州中海达定位技术有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "广州中物储国际货运代理有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力 | 高成长"
+  },
+  {
+    "name": "广州中科智云科技有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "龙头 | 高成长"
+  },
+  {
+    "name": "广州中科碧疆环保科技有限公司",
+    "track": 0,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "广州中航环保科技有限公司",
+    "track": 4,
+    "aliases": [],
+    "sector": "海洋工程装备",
+    "tier": "潜力"
+  },
+  {
+    "name": "广州中船德内斯船用设备有限公司",
+    "track": 4,
+    "aliases": [],
+    "sector": "海洋工程装备",
+    "tier": "龙头 | 高成长"
+  },
+  {
+    "name": "广州中远海运净海环保科技有限公司",
+    "track": 0,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "龙头 | 高成长"
+  },
+  {
+    "name": "广州中远海运航空物流有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力 | 高成长"
+  },
+  {
+    "name": "广州中远海运船舶工程有限公司",
+    "track": 4,
+    "aliases": [],
+    "sector": "海洋工程装备",
+    "tier": "潜力 | 高成长"
+  },
+  {
+    "name": "广州中远海运船舶技术工程有限公司",
+    "track": 4,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "龙头"
+  },
+  {
+    "name": "广州中远海运集装箱运输有限公司",
+    "track": 4,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "龙头 | 高成长"
+  },
+  {
+    "name": "广州中雷电科科技有限公司",
+    "track": 4,
+    "aliases": [],
+    "sector": "海洋工程装备",
+    "tier": "潜力 | 高成长"
+  },
+  {
+    "name": "广州丽柏酒店有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "广州乐派网国际旅行社有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "广州乐逸旅行社有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "广州乾瑞供应链管理有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "龙头"
+  },
+  {
+    "name": "广州五所环境仪器有限公司",
+    "track": 4,
+    "aliases": [],
+    "sector": "海洋工程装备",
+    "tier": "龙头 | 高成长"
+  },
+  {
+    "name": "广州亚申电气设备有限公司",
+    "track": 4,
+    "aliases": [],
+    "sector": "海洋工程装备",
+    "tier": "潜力"
+  },
+  {
+    "name": "广州京海航运有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "广州任行游国际旅行社有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "广州优倍国际物流有限公司",
+    "track": 0,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "广州优卡思农业技术有限公司",
+    "track": 4,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "广州信环技术有限公司",
+    "track": 4,
+    "aliases": [],
+    "sector": "海洋工程装备",
+    "tier": "龙头"
+  },
+  {
+    "name": "广州信诺船舶服务有限公司",
+    "track": 4,
+    "aliases": [],
+    "sector": "海洋工程装备",
+    "tier": "潜力"
+  },
+  {
+    "name": "广州元创旅游文化发展有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "广州兆隆渔业捕捞技术咨询有限公司",
+    "track": 0,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "广州全康环保设备有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "广州公路工程集团有限公司",
+    "track": 4,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "龙头 | 高成长"
+  },
+  {
+    "name": "广州兰泉环保科技股份有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力 | 高成长"
+  },
+  {
+    "name": "广州兴晟水处理设备有限公司",
+    "track": 4,
+    "aliases": [],
+    "sector": "海洋工程装备",
+    "tier": "潜力"
+  },
+  {
+    "name": "广州凯恒特种电线电缆有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "龙头 | 高成长"
+  },
+  {
+    "name": "广州凯能电器科技有限公司",
+    "track": 4,
+    "aliases": [],
+    "sector": "海洋工程装备",
+    "tier": "潜力"
+  },
+  {
+    "name": "广州创能船舶燃料供应有限公司",
+    "track": 4,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "龙头"
+  },
+  {
+    "name": "广州华侨大厦企业有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "龙头 | 高成长"
+  },
+  {
+    "name": "广州华建勘测技术有限公司",
+    "track": 1,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "广州华景建设有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力 | 高成长"
+  },
+  {
+    "name": "广州华润热电有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "龙头"
+  },
+  {
+    "name": "广州华申建设工程管理有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "广州华科环保工程有限公司",
+    "track": 4,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力 | 高成长"
+  },
+  {
+    "name": "广州华荟酒店管理有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "广州华贸国际物流有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "龙头"
+  },
+  {
+    "name": "广州华银医学研究所有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "广州南华工程管理有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "广州南方卫星导航仪器有限公司",
+    "track": 1,
+    "aliases": [],
+    "sector": "海洋工程装备",
+    "tier": "龙头"
+  },
+  {
+    "name": "广州南方智能技术有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "龙头 | 高成长"
+  },
+  {
+    "name": "广州南方测绘科技股份有限公司",
+    "track": 1,
+    "aliases": [],
+    "sector": "海洋工程装备",
+    "tier": "龙头"
+  },
+  {
+    "name": "广州南方管道有限公司",
+    "track": 4,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "龙头"
+  },
+  {
+    "name": "广州南沙区澳鑫水产科技有限公司",
+    "track": 0,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "广州南沙明珠农业发展有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "龙头 | 高成长"
+  },
+  {
+    "name": "广州南沙海大生物科技有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "龙头 | 高成长"
+  },
+  {
+    "name": "广州南沙海港集装箱码头有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "龙头"
+  },
+  {
+    "name": "广州南沙游艇会管理有限公司",
+    "track": 0,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "广州南洋电缆集团有限公司",
+    "track": 4,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "龙头 | 高成长"
+  },
+  {
+    "name": "广州南部假期国际旅行社有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力 | 高成长"
+  },
+  {
+    "name": "广州南雪医疗器械有限公司",
+    "track": 2,
+    "aliases": [],
+    "sector": "海洋生物医药",
+    "tier": "潜力"
+  },
+  {
+    "name": "广州博士信息技术研究院有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "广州博士派生物科技有限公司",
+    "track": 2,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "广州博森物流科技有限公司",
+    "track": 1,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "广州即通国际供应链股份有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "广州发展南沙电力有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力 | 高成长"
+  },
+  {
+    "name": "广州发展新能源股份有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "高成长"
+  },
+  {
+    "name": "广州发展新能源集团股份有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "广州发展航运有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "广州合成材料研究院有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力 | 高成长"
+  },
+  {
+    "name": "广州合昕环境科技有限公司",
+    "track": 0,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "广州吉欧电子科技有限公司",
+    "track": 4,
+    "aliases": [],
+    "sector": "海洋工程装备",
+    "tier": "龙头 | 高成长"
+  },
+  {
+    "name": "广州吉洋船舶工程有限公司",
+    "track": 4,
+    "aliases": [],
+    "sector": "海洋工程装备",
+    "tier": "潜力"
+  },
+  {
+    "name": "广州同藜环境科技有限公司",
+    "track": 0,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "广州启辰职业技能培训有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "龙头"
+  },
+  {
+    "name": "广州和时通水生态科技有限公司",
+    "track": 4,
+    "aliases": [],
+    "sector": "海洋工程装备",
+    "tier": "潜力"
+  },
+  {
+    "name": "广州和源生态科技发展股份有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "龙头 | 高成长"
+  },
+  {
+    "name": "广州喜朋酒店有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力 | 高成长"
+  },
+  {
+    "name": "广州喜象化妆品有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "广州回天新材料有限公司",
+    "track": 4,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "龙头 | 高成长"
+  },
+  {
+    "name": "广州地铁集团有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "龙头"
+  },
+  {
+    "name": "广州城方建筑设计院有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "龙头"
+  },
+  {
+    "name": "广州城港旅游发展有限公司",
+    "track": 0,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "龙头 | 高成长"
+  },
+  {
+    "name": "广州声华科技股份有限公司",
+    "track": 4,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "广州壹号唐厨餐饮有限公司",
+    "track": 0,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "广州大气候农业科技有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "广州天勤数字科技有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "广州天州物流供应链有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "广州天河利苑酒家有限公司",
+    "track": 0,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "广州天钺国际货运代理有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力 | 高成长"
+  },
+  {
+    "name": "广州天韵达新材料科技有限公司",
+    "track": 4,
+    "aliases": [],
+    "sector": "海洋工程装备",
+    "tier": "潜力"
+  },
+  {
+    "name": "广州太二餐饮连锁有限公司",
+    "track": 0,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "龙头"
+  },
+  {
+    "name": "广州奕极机电科技有限公司",
+    "track": 4,
+    "aliases": [],
+    "sector": "海洋工程装备",
+    "tier": "潜力"
+  },
+  {
+    "name": "广州威能机电有限公司",
+    "track": 4,
+    "aliases": [],
+    "sector": "海洋工程装备",
+    "tier": "龙头"
+  },
+  {
+    "name": "广州宇跃自动化设备有限公司",
+    "track": 4,
+    "aliases": [],
+    "sector": "海洋工程装备",
+    "tier": "潜力"
+  },
+  {
+    "name": "广州宇阳电力科技有限公司",
+    "track": 0,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力 | 高成长"
+  },
+  {
+    "name": "广州安芮洁环保科技有限公司",
+    "track": 2,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "广州安达净水材料有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力 | 高成长"
+  },
+  {
+    "name": "广州寿司郎餐饮有限公司",
+    "track": 0,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力 | 高成长"
+  },
+  {
+    "name": "广州尚准仪器设备股份有限公司",
+    "track": 4,
+    "aliases": [],
+    "sector": "海洋工程装备",
+    "tier": "潜力"
+  },
+  {
+    "name": "广州山河物流有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "广州山海船用配套设备有限公司",
+    "track": 4,
+    "aliases": [],
+    "sector": "海洋工程装备",
+    "tier": "潜力"
+  },
+  {
+    "name": "广州岭南花园大角山酒店发展有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力 | 高成长"
+  },
+  {
+    "name": "广州岭南集团控股股份有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "龙头 | 高成长"
+  },
+  {
+    "name": "广州工程总承包集团有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "龙头"
+  },
+  {
+    "name": "广州巴士集团有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "龙头"
+  },
+  {
+    "name": "广州市三鼎油品运输有限公司",
+    "track": 4,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力 | 高成长"
+  },
+  {
+    "name": "广州市上赛电子科技有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "龙头 | 高成长"
+  },
+  {
+    "name": "广州市中凯联物流有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "广州市中海达测绘仪器有限公司",
+    "track": 1,
+    "aliases": [],
+    "sector": "海洋工程装备",
+    "tier": "龙头 | 高成长"
+  },
+  {
+    "name": "广州市中盈钢结构有限公司",
+    "track": 4,
+    "aliases": [],
+    "sector": "海洋工程装备",
+    "tier": "龙头 | 高成长"
+  },
+  {
+    "name": "广州市乐动体育发展有限公司",
+    "track": 0,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "广州市亚大国际货运代理有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "广州市交通规划研究院有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "龙头"
+  },
+  {
+    "name": "广州市交通设计研究院有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力 | 高成长"
+  },
+  {
+    "name": "广州市佳境水处理技术工程有限公司",
+    "track": 4,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力 | 高成长"
+  },
+  {
+    "name": "广州市假日通国际旅行社有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力 | 高成长"
+  },
+  {
+    "name": "广州市健坤网络科技发展有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "广州市克莱顿酒店有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "广州市公路实业发展有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力 | 高成长"
+  },
+  {
+    "name": "广州市前锋水上运动器材用品有限公司",
+    "track": 4,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "广州市勤思网络科技有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "广州市华测检测认证技术有限公司",
+    "track": 4,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "龙头 | 高成长"
+  },
+  {
+    "name": "广州市华琪生物科技有限公司",
+    "track": 4,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "龙头 | 高成长"
+  },
+  {
+    "name": "广州市华绿环保科技有限公司",
+    "track": 0,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "广州市卓爵建筑工程有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "广州市南洋通物流有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "广州市博览大通旅游汽车有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "广州市卡威尔酒店有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力 | 高成长"
+  },
+  {
+    "name": "广州市合景创展酒店有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "广州市合景领峰园酒店管理有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "龙头 | 高成长"
+  },
+  {
+    "name": "广州市君丰供应链服务有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "广州市品成物流有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力 | 高成长"
+  },
+  {
+    "name": "广州市喜洋物流有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "龙头 | 高成长"
+  },
+  {
+    "name": "广州市嘉诚国际物流股份有限公司",
+    "track": 0,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "广州市嘉逸国际酒店有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "广州市四海一家餐饮有限公司",
+    "track": 0,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "广州市国际工程咨询有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "广州市坚丽实业有限公司",
+    "track": 0,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "广州市城市建设工程监理有限公司",
+    "track": 1,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "广州市城市规划勘测设计研究院有限公司",
+    "track": 0,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "龙头"
+  },
+  {
+    "name": "广州市城市规划设计有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "龙头"
+  },
+  {
+    "name": "广州市声讯电子科技股份有限公司",
+    "track": 4,
+    "aliases": [],
+    "sector": "海洋工程装备",
+    "tier": "潜力 | 高成长"
+  },
+  {
+    "name": "广州市天厨供应链科技有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "广州市天地帆布有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "广州市宝俪涂料有限公司",
+    "track": 2,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "龙头 | 高成长"
+  },
+  {
+    "name": "广州市市政工程试验检测有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力 | 高成长"
+  },
+  {
+    "name": "广州市广州宾馆有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力 | 高成长"
+  },
+  {
+    "name": "广州市广骏旅游汽车企业集团有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "龙头/潜力 | 高成长"
+  },
+  {
+    "name": "广州市弗雷德环保科技有限公司",
+    "track": 0,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "广州市微生物研究所集团股份有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "龙头"
+  },
+  {
+    "name": "广州市德邦物流服务有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "龙头"
+  },
+  {
+    "name": "广州市房实建设工程管理有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "广州市斯睿特智能科技有限公司",
+    "track": 4,
+    "aliases": [],
+    "sector": "海洋工程装备",
+    "tier": "潜力 | 高成长"
+  },
+  {
+    "name": "广州市新之地环保产业股份有限公司",
+    "track": 4,
+    "aliases": [],
+    "sector": "海洋工程装备",
+    "tier": "龙头 | 高成长"
+  },
+  {
+    "name": "广州市新航科技有限公司",
+    "track": 4,
+    "aliases": [],
+    "sector": "海洋工程装备",
+    "tier": "潜力"
+  },
+  {
+    "name": "广州市旭升环保工程有限公司",
+    "track": 4,
+    "aliases": [],
+    "sector": "海洋工程装备",
+    "tier": "潜力"
+  },
+  {
+    "name": "广州市明道文化产业发展有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "广州市昕恒泵业制造有限公司",
+    "track": 4,
+    "aliases": [],
+    "sector": "海洋工程装备",
+    "tier": "龙头 | 高成长"
+  },
+  {
+    "name": "广州市星河湾酒店有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "龙头"
+  },
+  {
+    "name": "广州市朗信租赁有限公司",
+    "track": 4,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "广州市朗琴轮胎有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "龙头 | 高成长"
+  },
+  {
+    "name": "广州市椰林海鲜餐饮有限公司",
+    "track": 0,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "广州市欣海利生生物科技有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "广州市水濑餐饮管理有限公司",
+    "track": 0,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力 | 高成长"
+  },
+  {
+    "name": "广州市江达潜水疏浚工程有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "广州市江通燃料有限公司",
+    "track": 4,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "广州市浩泽环境技术有限公司",
+    "track": 4,
+    "aliases": [],
+    "sector": "海洋工程装备",
+    "tier": "潜力"
+  },
+  {
+    "name": "广州市海怡星河湾酒店有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "广州市海皇科技有限公司",
+    "track": 4,
+    "aliases": [],
+    "sector": "海洋工程装备",
+    "tier": "龙头 | 高成长"
+  },
+  {
+    "name": "广州市海盾工程装备有限公司",
+    "track": 4,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "广州市海诚国际货运代理有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力 | 高成长"
+  },
+  {
+    "name": "广州市海豚机电设备有限公司",
+    "track": 4,
+    "aliases": [],
+    "sector": "海洋工程装备",
+    "tier": "潜力"
+  },
+  {
+    "name": "广州市海越陶陶居餐饮管理有限公司",
+    "track": 0,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "龙头"
+  },
+  {
+    "name": "广州市海通机电科技有限公司",
+    "track": 4,
+    "aliases": [],
+    "sector": "海洋工程装备",
+    "tier": "潜力"
+  },
+  {
+    "name": "广州市炳胜私厨餐饮有限公司",
+    "track": 0,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "广州市炳胜风味餐饮有限公司",
+    "track": 0,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "广州市环境保护工程设计院有限公司",
+    "track": 1,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "龙头"
+  },
+  {
+    "name": "广州市环旅旅行社有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力 | 高成长"
+  },
+  {
+    "name": "广州市珠江机床厂有限公司",
+    "track": 4,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "广州市生生国际旅行社有限公司",
+    "track": 0,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "龙头 | 高成长"
+  },
+  {
+    "name": "广州市番禺区通达运输有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "广州市番禺宾馆有限公司",
+    "track": 0,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "广州市番禺目标压铸灯饰有限公司",
+    "track": 4,
+    "aliases": [],
+    "sector": "海洋工程装备",
+    "tier": "龙头"
+  },
+  {
+    "name": "广州市番高领航科技有限公司",
+    "track": 4,
+    "aliases": [],
+    "sector": "海洋工程装备",
+    "tier": "潜力"
+  },
+  {
+    "name": "广州市百福电气设备有限公司",
+    "track": 4,
+    "aliases": [],
+    "sector": "海洋工程装备",
+    "tier": "潜力 | 高成长"
+  },
+  {
+    "name": "广州市礼顿酒店有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力 | 高成长"
+  },
+  {
+    "name": "广州市秀祥船舶制造有限公司",
+    "track": 4,
+    "aliases": [],
+    "sector": "海洋工程装备",
+    "tier": "潜力 | 高成长"
+  },
+  {
+    "name": "广州市科尔海悦酒店有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力 | 高成长"
+  },
+  {
+    "name": "广州市科轮动力机械有限公司",
+    "track": 4,
+    "aliases": [],
+    "sector": "海洋工程装备",
+    "tier": "潜力"
+  },
+  {
+    "name": "广州市第四建筑工程有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "龙头"
+  },
+  {
+    "name": "广州市维多利酒店管理有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力 | 高成长"
+  },
+  {
+    "name": "广州市综合交通枢纽有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "龙头"
+  },
+  {
+    "name": "广州市绿盈一分汽车服务有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "广州市联鲲生物科技有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "龙头"
+  },
+  {
+    "name": "广州市肽汇生物科技有限公司",
+    "track": 2,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "广州市航商国际船舶代理有限公司",
+    "track": 4,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "广州市航易信息科技有限公司",
+    "track": 4,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "广州市艾贝泰生物科技有限公司",
+    "track": 4,
+    "aliases": [],
+    "sector": "海洋工程装备",
+    "tier": "龙头 | 高成长"
+  },
+  {
+    "name": "广州市花园汽车出租有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "广州市茂建路桥工程技术有限公司",
+    "track": 1,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "广州市莱帝亚照明股份有限公司",
+    "track": 4,
+    "aliases": [],
+    "sector": "海洋工程装备",
+    "tier": "潜力 | 高成长"
+  },
+  {
+    "name": "广州市设计院集团有限公司",
+    "track": 0,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "龙头 | 高成长"
+  },
+  {
+    "name": "广州市诚一水产科技有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "龙头"
+  },
+  {
+    "name": "广州市里程号物流有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "广州市金成潮州酒楼饮食有限公司",
+    "track": 0,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "广州市陆洋复合材料有限公司",
+    "track": 4,
+    "aliases": [],
+    "sector": "海洋工程装备",
+    "tier": "潜力"
+  },
+  {
+    "name": "广州市集木蓄能技术开发有限公司",
+    "track": 4,
+    "aliases": [],
+    "sector": "海洋工程装备",
+    "tier": "潜力"
+  },
+  {
+    "name": "广州市顺华机电技术有限公司",
+    "track": 4,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "广州市顺海造船有限公司",
+    "track": 4,
+    "aliases": [],
+    "sector": "海洋工程装备",
+    "tier": "龙头 | 高成长"
+  },
+  {
+    "name": "广州市鹿鸣酒家有限公司",
+    "track": 0,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "广州帅普运动用品有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "广州帝都酒店管理有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力 | 高成长"
+  },
+  {
+    "name": "广州广中旅游汽车运输有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "广州广之旅国际旅行社股份有限公司",
+    "track": 0,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "龙头 | 高成长"
+  },
+  {
+    "name": "广州广建建设工程有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "广州广船海洋工程装备有限公司",
+    "track": 4,
+    "aliases": [],
+    "sector": "海洋工程装备",
+    "tier": "龙头 | 高成长"
+  },
+  {
+    "name": "广州广重企业集团有限公司",
+    "track": 4,
+    "aliases": [],
+    "sector": "海洋工程装备",
+    "tier": "龙头"
+  },
+  {
+    "name": "广州康华供应链有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "广州彩熠科技股份有限公司",
+    "track": 4,
+    "aliases": [],
+    "sector": "海洋工程装备",
+    "tier": "龙头"
+  },
+  {
+    "name": "广州御彩酒家有限公司",
+    "track": 0,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "广州御水湾餐饮有限公司",
+    "track": 0,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "广州循证医药科技有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "广州德港水产设备科技有限公司",
+    "track": 4,
+    "aliases": [],
+    "sector": "海洋工程装备",
+    "tier": "潜力"
+  },
+  {
+    "name": "广州忠信世纪电子材料制造有限公司",
+    "track": 4,
+    "aliases": [],
+    "sector": "海洋工程装备",
+    "tier": "龙头"
+  },
+  {
+    "name": "广州思拓力测绘科技有限公司",
+    "track": 1,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "广州恒锐技术有限公司",
+    "track": 4,
+    "aliases": [],
+    "sector": "海洋工程装备",
+    "tier": "潜力"
+  },
+  {
+    "name": "广州慧庭酒店管理有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力 | 高成长"
+  },
+  {
+    "name": "广州慧洋信息科技有限公司",
+    "track": 1,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "广州慧谷新材料科技股份有限公司",
+    "track": 4,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "龙头"
+  },
+  {
+    "name": "广州成至智能机器科技有限公司",
+    "track": 4,
+    "aliases": [],
+    "sector": "海洋工程装备",
+    "tier": "龙头"
+  },
+  {
+    "name": "广州打捞局",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "龙头 | 高成长"
+  },
+  {
+    "name": "广州拓威天海国际物流有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "高成长"
+  },
+  {
+    "name": "广州振华航科有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "龙头"
+  },
+  {
+    "name": "广州探鱼餐饮管理有限公司",
+    "track": 0,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "龙头"
+  },
+  {
+    "name": "广州数鹏通科技有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "龙头"
+  },
+  {
+    "name": "广州文冲船舶修造有限公司",
+    "track": 4,
+    "aliases": [],
+    "sector": "海洋工程装备",
+    "tier": "龙头 | 高成长"
+  },
+  {
+    "name": "广州文船重工有限公司",
+    "track": 4,
+    "aliases": [],
+    "sector": "海洋工程装备",
+    "tier": "龙头"
+  },
+  {
+    "name": "广州新普利节能环保科技有限公司",
+    "track": 4,
+    "aliases": [],
+    "sector": "海洋工程装备",
+    "tier": "潜力"
+  },
+  {
+    "name": "广州旭荣机电工程有限公司",
+    "track": 4,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "广州易出仓国际货运代理有限公司",
+    "track": 0,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "广州易起行信息技术有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力 | 高成长"
+  },
+  {
+    "name": "广州星沅科技有限公司",
+    "track": 4,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "广州星谱科技有限公司",
+    "track": 2,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "广州星际海洋工程设计有限公司",
+    "track": 4,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "广州晔雅酒店管理有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力 | 高成长"
+  },
+  {
+    "name": "广州智光储能科技有限公司",
+    "track": 4,
+    "aliases": [],
+    "sector": "海洋工程装备",
+    "tier": "龙头 | 高成长"
+  },
+  {
+    "name": "广州智海建筑设计有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "广州智特奇生物科技股份有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "龙头 | 高成长"
+  },
+  {
+    "name": "广州暨南生物医药研究开发基地有限公司",
+    "track": 2,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "广州来电光年科技有限公司",
+    "track": 4,
+    "aliases": [],
+    "sector": "海洋工程装备",
+    "tier": "潜力"
+  },
+  {
+    "name": "广州柴油机厂股份有限公司",
+    "track": 4,
+    "aliases": [],
+    "sector": "海洋工程装备",
+    "tier": "龙头"
+  },
+  {
+    "name": "广州桓乐生态环境科技有限公司",
+    "track": 0,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力 | 高成长"
+  },
+  {
+    "name": "广州欧华国际货运代理有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "龙头"
+  },
+  {
+    "name": "广州欧科信息技术股份有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "龙头 | 高成长"
+  },
+  {
+    "name": "广州正源生物技术有限公司",
+    "track": 2,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力 | 高成长"
+  },
+  {
+    "name": "广州正粤建设有限公司",
+    "track": 1,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "广州永瑞船用配套设备有限公司",
+    "track": 4,
+    "aliases": [],
+    "sector": "海洋工程装备",
+    "tier": "潜力"
+  },
+  {
+    "name": "广州沁林环保科技有限公司",
+    "track": 4,
+    "aliases": [],
+    "sector": "海洋工程装备",
+    "tier": "潜力"
+  },
+  {
+    "name": "广州沃尔玛百货有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "龙头 | 高成长"
+  },
+  {
+    "name": "广州泰实货运有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "广州泰阳能源科技有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "龙头 | 高成长"
+  },
+  {
+    "name": "广州泽力医药科技有限公司",
+    "track": 2,
+    "aliases": [],
+    "sector": "海洋生物医药",
+    "tier": "龙头"
+  },
+  {
+    "name": "广州海事科技有限公司",
+    "track": 4,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "广州海兰图检测技术有限公司",
+    "track": 0,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力 | 高成长"
+  },
+  {
+    "name": "广州海卓船舶技术有限公司",
+    "track": 4,
+    "aliases": [],
+    "sector": "海洋工程装备",
+    "tier": "潜力 | 高成长"
+  },
+  {
+    "name": "广州海工船舶设备有限公司",
+    "track": 4,
+    "aliases": [],
+    "sector": "海洋工程装备",
+    "tier": "潜力 | 高成长"
+  },
+  {
+    "name": "广州海平起重装卸有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "广州海格天乘技术有限公司",
+    "track": 4,
+    "aliases": [],
+    "sector": "海洋工程装备",
+    "tier": "潜力"
+  },
+  {
+    "name": "广州海格星航信息科技有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力 | 高成长"
+  },
+  {
+    "name": "广州海格晶维信息产业有限公司",
+    "track": 4,
+    "aliases": [],
+    "sector": "海洋工程装备",
+    "tier": "潜力 | 高成长"
+  },
+  {
+    "name": "广州海格通信集团股份有限公司",
+    "track": 4,
+    "aliases": [],
+    "sector": "海洋工程装备",
+    "tier": "龙头"
+  },
+  {
+    "name": "广州海绵城市建设有限公司",
+    "track": 0,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "广州海荣实业有限公司",
+    "track": 4,
+    "aliases": [],
+    "sector": "海洋工程装备",
+    "tier": "潜力"
+  },
+  {
+    "name": "广州海运渤船舶工程有限公司",
+    "track": 4,
+    "aliases": [],
+    "sector": "海洋工程装备",
+    "tier": "潜力"
+  },
+  {
+    "name": "广州润星环保科技有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "广州涵文国际货运代理有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力 | 高成长"
+  },
+  {
+    "name": "广州渔民新村餐饮企业管理有限公司",
+    "track": 0,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力 | 高成长"
+  },
+  {
+    "name": "广州港博国际物流有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "广州港工程管理有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "龙头"
+  },
+  {
+    "name": "广州港数据科技有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "龙头 | 高成长"
+  },
+  {
+    "name": "广州港物流有限公司",
+    "track": 4,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "龙头 | 高成长"
+  },
+  {
+    "name": "广州港股份有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "龙头 | 高成长"
+  },
+  {
+    "name": "广州港船务有限公司",
+    "track": 4,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力 | 高成长"
+  },
+  {
+    "name": "广州源海新材料科技有限公司",
+    "track": 4,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "广州源海船舶有限公司",
+    "track": 4,
+    "aliases": [],
+    "sector": "海洋工程装备",
+    "tier": "潜力"
+  },
+  {
+    "name": "广州源美生物科技发展有限公司",
+    "track": 0,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力 | 高成长"
+  },
+  {
+    "name": "广州满轶晟食品有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "广州澳兴光电传输科技股份有限公司",
+    "track": 4,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力 | 高成长"
+  },
+  {
+    "name": "广州烈扬旅行社有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力 | 高成长"
+  },
+  {
+    "name": "广州爱派克斯国际货运代理有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "龙头"
+  },
+  {
+    "name": "广州环投技术设备有限公司",
+    "track": 4,
+    "aliases": [],
+    "sector": "海洋工程装备",
+    "tier": "龙头 | 高成长"
+  },
+  {
+    "name": "广州环诺科兴环保科技有限公司",
+    "track": 4,
+    "aliases": [],
+    "sector": "海洋工程装备",
+    "tier": "潜力"
+  },
+  {
+    "name": "广州环达电子有限公司",
+    "track": 4,
+    "aliases": [],
+    "sector": "海洋工程装备",
+    "tier": "潜力"
+  },
+  {
+    "name": "广州珠江电力有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "广州瑞冠供应链有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "广州璟涛机电设备有限公司",
+    "track": 4,
+    "aliases": [],
+    "sector": "海洋工程装备",
+    "tier": "潜力"
+  },
+  {
+    "name": "广州番禺浩业波纹管工业有限公司",
+    "track": 4,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "广州白云山医药集团股份有限公司",
+    "track": 2,
+    "aliases": [],
+    "sector": "海洋生物医药",
+    "tier": "龙头"
+  },
+  {
+    "name": "广州白云山拜迪生物医药有限公司",
+    "track": 2,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "龙头"
+  },
+  {
+    "name": "广州白云山汉方现代药业有限公司",
+    "track": 2,
+    "aliases": [],
+    "sector": "海洋生物医药",
+    "tier": "龙头"
+  },
+  {
+    "name": "广州百动机电科技有限公司",
+    "track": 4,
+    "aliases": [],
+    "sector": "海洋工程装备",
+    "tier": "潜力"
+  },
+  {
+    "name": "广州百川纳科技有限公司",
+    "track": 0,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "广州皖文电气设备有限公司",
+    "track": 4,
+    "aliases": [],
+    "sector": "海洋工程装备",
+    "tier": "潜力"
+  },
+  {
+    "name": "广州益达钢结构有限公司",
+    "track": 1,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "广州睿海海洋科技有限公司",
+    "track": 4,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力 | 高成长"
+  },
+  {
+    "name": "广州碧水生态科技有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "广州磐钴智能科技有限公司",
+    "track": 4,
+    "aliases": [],
+    "sector": "海洋工程装备",
+    "tier": "潜力 | 高成长"
+  },
+  {
+    "name": "广州秀珀化工涂料有限公司",
+    "track": 4,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "龙头"
+  },
+  {
+    "name": "广州科思创聚合物有限公司",
+    "track": 4,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "龙头"
+  },
+  {
+    "name": "广州科禹环保科技有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "广州穗华能源科技有限公司",
+    "track": 4,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "龙头 | 高成长"
+  },
+  {
+    "name": "广州空港电商国际酒店管理有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "广州立白企业集团有限公司",
+    "track": 2,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "龙头"
+  },
+  {
+    "name": "广州立邦涂料有限公司",
+    "track": 4,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "龙头"
+  },
+  {
+    "name": "广州粤科工程技术有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力 | 高成长"
+  },
+  {
+    "name": "广州粤能电力科技开发有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "龙头 | 高成长"
+  },
+  {
+    "name": "广州精信仪表电器有限公司",
+    "track": 4,
+    "aliases": [],
+    "sector": "海洋工程装备",
+    "tier": "潜力"
+  },
+  {
+    "name": "广州精研智联高科有限公司",
+    "track": 4,
+    "aliases": [],
+    "sector": "海洋工程装备",
+    "tier": "潜力"
+  },
+  {
+    "name": "广州红帆科技有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "龙头 | 高成长"
+  },
+  {
+    "name": "广州纬希国际货运代理有限公司",
+    "track": 0,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "广州纯科环保科技有限公司",
+    "track": 4,
+    "aliases": [],
+    "sector": "海洋工程装备",
+    "tier": "潜力 | 高成长"
+  },
+  {
+    "name": "广州纳丽生物科技有限公司",
+    "track": 2,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "广州纳诺新材料科技有限公司",
+    "track": 4,
+    "aliases": [],
+    "sector": "海洋工程装备",
+    "tier": "龙头 | 高成长"
+  },
+  {
+    "name": "广州绿邦环境技术有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "龙头 | 高成长"
+  },
+  {
+    "name": "广州美格生物科技有限公司",
+    "track": 2,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "广州翔曦科技有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "广州胜泊航科技术有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "广州至远海洋科技有限公司",
+    "track": 1,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力 | 高成长"
+  },
+  {
+    "name": "广州致新电力科技有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "龙头 | 高成长"
+  },
+  {
+    "name": "广州航成船舶科技有限公司",
+    "track": 4,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "广州航海仪器厂有限公司",
+    "track": 4,
+    "aliases": [],
+    "sector": "海洋工程装备",
+    "tier": "潜力"
+  },
+  {
+    "name": "广州艾格生物科技有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "龙头"
+  },
+  {
+    "name": "广州荣达海运物流科技有限公司",
+    "track": 4,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力 | 高成长"
+  },
+  {
+    "name": "广州莱曼消防设备有限公司",
+    "track": 4,
+    "aliases": [],
+    "sector": "海洋工程装备",
+    "tier": "潜力"
+  },
+  {
+    "name": "广州莱茵游艇会酒店有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "广州蓝禹环保科技有限公司",
+    "track": 0,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "广州蕉叶餐饮管理有限公司",
+    "track": 0,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "广州蜗牛网国际旅行社有限公司",
+    "track": 0,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "龙头"
+  },
+  {
+    "name": "广州襄绿环保设备有限公司",
+    "track": 4,
+    "aliases": [],
+    "sector": "海洋工程装备",
+    "tier": "潜力"
+  },
+  {
+    "name": "广州西行印迹旅行社有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力 | 高成长"
+  },
+  {
+    "name": "广州西铁国际货运代理有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "广州谷雨生物科技有限公司",
+    "track": 2,
+    "aliases": [],
+    "sector": "海洋生物医药",
+    "tier": "龙头 | 高成长"
+  },
+  {
+    "name": "广州象游玩旅行社有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力 | 高成长"
+  },
+  {
+    "name": "广州贝奥吉因生物科技股份有限公司",
+    "track": 2,
+    "aliases": [],
+    "sector": "海洋生物医药",
+    "tier": "潜力"
+  },
+  {
+    "name": "广州赛威能源科技有限公司",
+    "track": 4,
+    "aliases": [],
+    "sector": "海洋工程装备",
+    "tier": "潜力 | 高成长"
+  },
+  {
+    "name": "广州赛特新能源科技发展有限公司",
+    "track": 4,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "广州跨越速运有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "龙头 | 高成长"
+  },
+  {
+    "name": "广州轶鑫工业设备有限公司",
+    "track": 4,
+    "aliases": [],
+    "sector": "海洋工程装备",
+    "tier": "潜力"
+  },
+  {
+    "name": "广州辰创科技发展有限公司",
+    "track": 4,
+    "aliases": [],
+    "sector": "海洋工程装备",
+    "tier": "龙头 | 高成长"
+  },
+  {
+    "name": "广州迈光电子科技股份有限公司",
+    "track": 4,
+    "aliases": [],
+    "sector": "海洋工程装备",
+    "tier": "潜力"
+  },
+  {
+    "name": "广州远洋宾馆有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "龙头"
+  },
+  {
+    "name": "广州远海汽车船运输有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "龙头 | 高成长"
+  },
+  {
+    "name": "广州远海特种运输有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "龙头 | 高成长"
+  },
+  {
+    "name": "广州途聚国际旅行社有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "广州遇见小面餐饮股份有限公司",
+    "track": 0,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "龙头 | 高成长"
+  },
+  {
+    "name": "广州邦鑫海洋技术有限公司",
+    "track": 0,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "广州都市圈网络科技有限公司",
+    "track": 1,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "龙头"
+  },
+  {
+    "name": "广州酒家集团利口福食品有限公司",
+    "track": 4,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "龙头"
+  },
+  {
+    "name": "广州酒家集团电子商务有限公司",
+    "track": 0,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "龙头"
+  },
+  {
+    "name": "广州酒家集团餐饮管理有限公司",
+    "track": 0,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "龙头 | 高成长"
+  },
+  {
+    "name": "广州金介福金属制品有限公司",
+    "track": 4,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力 | 高成长"
+  },
+  {
+    "name": "广州金叶健康科技有限公司",
+    "track": 2,
+    "aliases": [],
+    "sector": "海洋生物医药",
+    "tier": "潜力"
+  },
+  {
+    "name": "广州金川环保设备有限公司",
+    "track": 4,
+    "aliases": [],
+    "sector": "海洋工程装备",
+    "tier": "潜力"
+  },
+  {
+    "name": "广州金水动物保健品有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "龙头"
+  },
+  {
+    "name": "广州金至检测技术有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "龙头"
+  },
+  {
+    "name": "广州铁路机车配件厂有限公司",
+    "track": 4,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力 | 高成长"
+  },
+  {
+    "name": "广州铭源船舶管理有限公司",
+    "track": 4,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "龙头"
+  },
+  {
+    "name": "广州银辉酒店管理有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "广州锐谱检测有限公司",
+    "track": 4,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "广州长隆集团有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "龙头 | 高成长"
+  },
+  {
+    "name": "广州阮叔叔海鲜饭店有限公司",
+    "track": 0,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力 | 高成长"
+  },
+  {
+    "name": "广州降光科技有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "广州隽沐生物科技股份有限公司",
+    "track": 2,
+    "aliases": [],
+    "sector": "海洋生物医药",
+    "tier": "龙头"
+  },
+  {
+    "name": "广州集泰化工股份有限公司",
+    "track": 4,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "龙头"
+  },
+  {
+    "name": "广州雪之旅国际旅行社有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力 | 高成长"
+  },
+  {
+    "name": "广州顺海海事技术服务有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "广州领鲜生物科技有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "龙头"
+  },
+  {
+    "name": "广州风雨雷科技有限公司",
+    "track": 0,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "广州飞特物流有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "龙头"
+  },
+  {
+    "name": "广州飞禧特生物科技有限公司",
+    "track": 4,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "龙头"
+  },
+  {
+    "name": "广州首旅建国酒店有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力 | 高成长"
+  },
+  {
+    "name": "广州驰拓智能科技有限公司",
+    "track": 4,
+    "aliases": [],
+    "sector": "海洋工程装备",
+    "tier": "潜力"
+  },
+  {
+    "name": "广州骏星酒店有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力 | 高成长"
+  },
+  {
+    "name": "广州高奇海洋科技有限公司",
+    "track": 0,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "广州高松渔池设备有限公司",
+    "track": 4,
+    "aliases": [],
+    "sector": "海洋工程装备",
+    "tier": "潜力 | 高成长"
+  },
+  {
+    "name": "广州高澜节能技术股份有限公司",
+    "track": 4,
+    "aliases": [],
+    "sector": "海洋工程装备",
+    "tier": "龙头 | 高成长"
+  },
+  {
+    "name": "广州鱼帮手科技有限公司",
+    "track": 2,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "广州鸟鹏餐饮管理服务有限公司",
+    "track": 0,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力 | 高成长"
+  },
+  {
+    "name": "广州鸿骐机电设备有限公司",
+    "track": 4,
+    "aliases": [],
+    "sector": "海洋工程装备",
+    "tier": "潜力"
+  },
+  {
+    "name": "广州鹰金钱食品集团有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "龙头 | 高成长"
+  },
+  {
+    "name": "广州黄埔君澜酒店有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力 | 高成长"
+  },
+  {
+    "name": "广州黄船海洋工程有限公司",
+    "track": 4,
+    "aliases": [],
+    "sector": "海洋工程装备",
+    "tier": "龙头 | 高成长"
+  },
+  {
+    "name": "广州鼎飞航空科技有限公司",
+    "track": 1,
+    "aliases": [],
+    "sector": "海洋工程装备",
+    "tier": "潜力"
+  },
+  {
+    "name": "广州龙康机电设备有限公司",
+    "track": 4,
+    "aliases": [],
+    "sector": "海洋工程装备",
+    "tier": "潜力"
+  },
+  {
+    "name": "广州龙穴管业有限公司",
+    "track": 4,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "龙头 | 高成长"
+  },
+  {
+    "name": "广电计量检测集团股份有限公司",
+    "track": 4,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "龙头 | 高成长"
+  },
+  {
+    "name": "广船国际有限公司",
+    "track": 4,
+    "aliases": [],
+    "sector": "海洋工程装备",
+    "tier": "龙头 | 高成长"
+  },
+  {
+    "name": "庞贝捷工业涂料(广州)有限公司",
+    "track": 1,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "龙头"
+  },
+  {
+    "name": "建峰索具有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "龙头"
+  },
+  {
+    "name": "彼乐实业(广州)有限公司",
+    "track": 4,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "慕恩(广州)生物科技有限公司",
+    "track": 2,
+    "aliases": [],
+    "sector": "海洋生物医药",
+    "tier": "龙头"
+  },
+  {
+    "name": "新万基卫星技术有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "智禹(广州)水环境技术有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "李锦记(广州)食品有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "龙头"
+  },
+  {
+    "name": "派格水下技术(广州)有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "浙江大厦富春宾馆(广州)有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "海科翎水产科技(广州)有限公司",
+    "track": 0,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "海虹老人涂料(广州)有限公司",
+    "track": 4,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "龙头"
+  },
+  {
+    "name": "海通国际供应链(广州)有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "深海智人(广州)技术有限公司",
+    "track": 4,
+    "aliases": [],
+    "sector": "海洋工程装备",
+    "tier": "潜力"
+  },
+  {
+    "name": "番禺珠江钢管有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "白天鹅宾馆有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "龙头 | 高成长"
+  },
+  {
+    "name": "磐索地勘科技(广州)有限公司",
+    "track": 1,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "龙头"
+  },
+  {
+    "name": "科纳(广州)液压设备有限公司",
+    "track": 4,
+    "aliases": [],
+    "sector": "海洋工程装备",
+    "tier": "潜力"
+  },
+  {
+    "name": "科韵氢能(广州)有限公司",
+    "track": 4,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "纽斯葆广赛(广东)生物科技股份有限公司",
+    "track": 2,
+    "aliases": [],
+    "sector": "海洋生物医药",
+    "tier": "龙头"
+  },
+  {
+    "name": "翁智国际物流代理(广州)有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "联通(广东)产业互联网有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "龙头"
+  },
+  {
+    "name": "肽源(广州)生物科技有限公司",
+    "track": 2,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "胜泰生科(广州)医疗科技有限公司",
+    "track": 2,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "英辉南方造船(广州番禺)有限公司",
+    "track": 4,
+    "aliases": [],
+    "sector": "海洋工程装备",
+    "tier": "龙头 | 高成长"
+  },
+  {
+    "name": "菲诗倾城(广州)生物科技有限公司",
+    "track": 2,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "贝格工业涂料(广州)有限公司",
+    "track": 4,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "龙头"
+  },
+  {
+    "name": "赛尔特建筑科技(广东)有限公司",
+    "track": 0,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "龙头"
+  },
+  {
+    "name": "辰源海洋科技(广东)有限公司",
+    "track": 0,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "达美乐比萨(广州)餐饮管理有限公司",
+    "track": 0,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "逸泓水务环境(广东)有限公司",
+    "track": 0,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "配方化妆品科技(广州)有限公司",
+    "track": 2,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "量山建设控股集团有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力 | 高成长"
+  },
+  {
+    "name": "金中天建设集团有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "金中天水利建设有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "潜力"
+  },
+  {
+    "name": "金发科技股份有限公司",
+    "track": 4,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "龙头 | 高成长"
+  },
+  {
+    "name": "金银卡(广州)生物科技股份有限公司",
+    "track": 3,
+    "aliases": [],
+    "sector": "其他涉海产业",
+    "tier": "龙头"
+  },
+  {
+    "name": "阿尔法测绘科技(广州)有限公司",
+    "track": 4,
+    "aliases": [],
+    "sector": "海洋工程装备",
+    "tier": "潜力"
+  }
+]

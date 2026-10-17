@@ -641,8 +641,9 @@ async function loadData(){
     if(!d.nodes||!d.nodes.length) throw new Error('empty');
     NODES=d.nodes.map(n=>({name:n.name,track:n.track,score:n.score||50}));
     DATA_META=d;
-    const modeTxt=d.mode==='roster'?'名录匹配':'发现模式';
-    footEl.innerHTML=`数据更新 ${d.updated}　|　来源：${d.source}　|　${modeTxt} · 共 ${d.count} 个节点`;
+    const modeTxt=d.mode==='roster'?'名录模式':(d.mode==='discovery'?'发现模式':d.mode);
+    const note=d.note?`　|　${d.note}`:'';
+    footEl.innerHTML=`数据更新 ${d.updated}　|　来源：${d.source}　|　${modeTxt} · 共 ${d.count} 个节点${note}`;
   }catch(e){
     footEl.innerHTML='示例数据 · 共 80 个节点　|　尚未生成 data.json（首次抓取后自动切换为真实数据）';
   }
